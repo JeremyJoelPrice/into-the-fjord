@@ -1,26 +1,158 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: "Home",
+			pagination: false,
+			// social: [
+			// 	{
+			// 		icon: "github",
+			// 		label: "GitHub",
+			// 		href: "https://github.com/withastro/starlight"
+			// 	}
+			// ],
 			sidebar: [
 				{
-					label: 'Guides',
+					// start here
+					label: "Start Here",
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+						{
+							label: "Introduction",
+							slug: "start-here/introduction"
+						},
+						{
+							label: "How To Play",
+							slug: "start-here/how-to-play"
+						},
+						{
+							label: "Example Of Play",
+							slug: "start-here/example-of-play"
+						},
+						{
+							label: "Philosophy & Playstyle",
+							slug: "start-here/philosophy"
+						}
+					]
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					// character creation
+					label: "Character Creation",
+					items: [
+						{
+							label: "How To Create A Character",
+							slug: "character-creation/how-to-create-a-character"
+						},
+						{
+							label: "Kits",
+							slug: "character-creation/kits"
+						},
+						{
+							label: "Gear",
+							slug: "character-creation/gear"
+						}
+					]
 				},
-			],
-		}),
-	],
+				{
+					// the rules
+					label: "The Rules",
+					items: [
+						{
+							label: "Ability Scores",
+							slug: "rules/ability-scores"
+						},
+						{
+							label: "Carrying Gear",
+							slug: "rules/carrying-gear"
+						},
+						{
+							label: "Fatigue",
+							slug: "rules/fatigue"
+						},
+						{
+							label: "Deprivation",
+							slug: "rules/deprivation"
+						},
+						{
+							label: "Resting & Healing",
+							slug: "rules/resting-and-healing"
+						},
+						{
+							label: "Reputation & Relationships",
+							slug: "rules/reputation-and-relationships"
+						},
+						{ label: "Skills", slug: "rules/skills" },
+						{
+							label: "Fighting",
+							items: [
+								{
+									label: "Turns & Actions",
+									slug: "rules/fighting/turns-and-actions"
+								},
+								{
+									label: "Attacks & Damage",
+									slug: "rules/fighting/attacks-and-damage"
+								},
+								{
+									label: "Armour & Shields",
+									slug: "rules/fighting/armour-and-shields"
+								},
+								{
+									label: "Guard",
+									slug: "rules/fighting/guard"
+								},
+								{
+									label: "Wounds",
+									slug: "rules/fighting/wounds"
+								},
+								{
+									label: "Units",
+									slug: "rules/fighting/units"
+								}
+							]
+						},
+						{
+							label: "Magic",
+							items: [
+								{
+									label: "Spell List",
+									slug: "rules/magic/spell-list"
+								},
+								{
+									label: "Galdr",
+									slug: "rules/magic/galdr"
+								},
+								{
+									label: "Seiðr",
+									slug: "rules/magic/seiðr"
+								},
+								{
+									label: "Dwarven Relics",
+									slug: "rules/magic/dwarven-relics"
+								}
+							]
+						}
+					]
+				},
+				{
+					// setting
+					label: "Setting",
+					items: [
+						{
+							label: "Introduction",
+							slug: "setting/introduction"
+						},
+						{
+							label: "Norðland In Detail",
+							slug: "setting/norðland-in-detail"
+						},
+						{ label: "Creatures", slug: "setting/creatures" }
+					]
+				}
+			]
+		})
+	]
 });
