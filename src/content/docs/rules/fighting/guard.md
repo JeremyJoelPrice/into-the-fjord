@@ -2,15 +2,15 @@
 title: Guard
 ---
 
-**Guard** is your ability to avoid harm with skill, instinct, and a little
-luck.  
-Losing guard means you haven’t been hurt yet, but it's getting closer.
+**Guard** represents you actively defending yourself.  
+Block, parry, dodge, and otherwise avoid a **gruesome injury**.  
+You can't get hurt unless your Guard is 0.
 
-The Guide may describe losing Guard as:
+Losing Guard might look like:
 
 -   a near miss
+-   an enemy forcing you back
 -   psychological pressure
--   any other way in which the enemy is closing in
 
 Your Guard is effectively 0 anytime you can't actively defend yourself.  
 Such as:

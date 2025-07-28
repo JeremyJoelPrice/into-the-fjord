@@ -18,13 +18,12 @@ Examples include:
 
 Skills are resolved with a [Push Roll](/start-here/how-to-play#push-roll).
 
-If your character doesn't know a skill, tell the Guide;  
-they'll provide in-game opportunities to learn it.
+The Guide can provide in-game opportunities to learn skills.
 
 ## Example Play
 
 _Helga wants to reach an unexplored island, and avoid any pirates on the way._  
-_Helga is Good (+2) at her Sailing skill, and has a ship with a ready crew._
+_Helga is Good (+2) at sailing, and has a ship with a ready crew._
 
 _The Guide asks for a Push Roll._  
 _She rolls 2d6 and gets a 5 on the dice._  
@@ -54,14 +53,12 @@ and a crewmember shouts "Pirates approaching!"_
 You always have the option to hire skilled NPCs to travel with you.  
 They have some trade-offs:
 
--   They succeed without needing to roll their skill,  
-    unless they're under extreme pressure
--   They are even more proficient than player characters,  
-    because they are fairly useless outside of their specialty
--   They need feeding
--   They need protecting
--   Their morale might fail in dangerous situations,  
-    especially if they're not experienced combatants
+-   They succeed without needing a Push roll,  
+    unless they're in danger
+-   They are generally Great (+3) at their specialty,  
+    because they not good at much else
+-   They need feeding & protecting
+-   As non-combatants, their morale might fail in dangerous situations
 
 If you enjoy planning for what you'll need and managing an entourage, then use
 hirelings.  

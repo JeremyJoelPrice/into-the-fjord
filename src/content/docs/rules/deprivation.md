@@ -2,14 +2,19 @@
 title: Deprivation
 ---
 
-A character is **Deprived** if they lack something vital.  
+A character is **Deprived** if a crucial need is not met:
+
+-   hunger & thirst
+-   warmth
+-   rest
+-   an addiction or magical compulsion
+
 Deprived characters do not benefit from any
 [Resting & Healing](/rules/resting-and-healing).
 
-Deprivation can cover any need, addiction, or Shakespearean-level desire.  
-In this chapter we focus on basic survival needs.
+The rules below add even more urgency to your basic survival needs.
 
-## Basic Needs
+## Food, Water & Rest
 
 Everybody needs **food**, **water**, and **rest**.  
 Without them you suffer escalating [Fatigue](/rules/fatigue).  
@@ -36,7 +41,7 @@ When you cannot take any more Fatigue, you take damage to your
 
 Going out in the bitter cold can be deadly.
 
--   After the first **interval** you become deprived until you warm up again
+-   After the first **interval** you become Deprived until you warm up again
 -   Every subsequent interval, you take **1d6 Grace** damage
 -   At 0 you fall **unconscious** and will die in 1d6 hours\*
 
@@ -47,7 +52,7 @@ Going out in the bitter cold can be deadly.
 | Freezing (below 0º) | 1 hour   |
 | Deadly (below -10º) | 1 minute |
 
-If you're wet or underdressed, it counts as one **colder**.  
+If you're wet or undressed, it counts as one **colder**.  
 If you have a winter cloak, it counts as one **warmer**.
 
 Mild temperatures won't harm you, but won't help if you're already deprived.

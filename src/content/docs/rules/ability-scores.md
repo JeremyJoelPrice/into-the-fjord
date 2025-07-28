@@ -5,7 +5,7 @@ title: Ability Scores
 Your character's Ability Scores represent how well they **avoid** harm,  
 and how much harm they can **endure** before falling unconscious or dying.
 
-| Ability | Represents                                                     | Is Reduced By                                        | At 0 You Are |
+| Ability | Avoid Harm Using...                                            | Gets Hurt By...                                      | At 0 You Are |
 | ------- | -------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
 | Might   | muscle power, metabolism,<br />physical endurance              | physical damage                                      | dead         |
 | Grace   | precision, agility,<br />automatic reflexes                    | disease, venom,<br />exposure to cold                | paralysed    |
@@ -39,16 +39,15 @@ You have to decide three things:
 
 -   Is time for a roll?
 -   Which Ability?
--   What's the **difficulty & danger** of the plan the players have come up
-    with?
+-   What's the **difficulty & danger** of what the players are attempting?
 
-Always **tell your players** what you decide; they should know what's at stake
-before they act.
+Always **tell your players** what you decide,  
+because they should know the stakes before they act.
 
 ### When To Roll
 
--   If there is a clear source of danger
--   If the danger is neither overwhelmingly inevitable nor trivial to avoid
+-   If there is a clear source of danger, AND
+-   If the danger is neither overwhelmingly inevitable nor trivial to avoid, AND
 -   If the players lack the **time**, **gear**, and **skill** required to avoid
     it  
     _(danger is often urgent, so time is usually lacking)_
@@ -82,7 +81,7 @@ but are forced to rush because there are enemies nearby.
 -   One enemy is at the top of the cliff, and pours **oil** down onto Player A
 -   A second enemy waits below with a spear, ready to **impale** Player B if
     they fall
--   Player C meanwhile dons a pair of **spiked boots**, to make the climb easier
+-   Player C wears a pair of **spiked boots**, to make climbing easier
 
 Here's one way you might handle this as the Guide:
 

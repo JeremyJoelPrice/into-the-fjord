@@ -2,7 +2,7 @@
 title: Fatigue
 ---
 
-Fatigue occupies 1 inventory slot.  
+Fatigue occupies 1 [gear slot](/rules/carrying-gear).  
 You may have to drop something you're carrying to make room. 
 
 Gain fatigue by:
