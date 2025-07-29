@@ -140,32 +140,32 @@ Items sell for **half** the listed price.
 
 ## Specialist & Cultural Items
 
-| **item**                      | **notes**                                                     | **price**                                  |
-| ----------------------------- | ------------------------------------------------------------- | ------------------------------------------ |
-| Armring                       | for swearing loyalty, weightless                              | 100                                        |
-| Book of Bird Songs            | to join their gossiping                                       | 30                                         |
-| Book of Kennings              | for powerful poetry                                           | 30                                         |
-| Book of Runes                 | for seiðr magic                                               | 150                                        |
-| Candle                        | weightless                                                    | 2                                          |
-| Ceremonial Dagger             |                                                               | 25                                         |
-| Chastity Ring                 | weightless                                                    | 2                                          |
-| Clothes, Common               | weightless if worn                                            | 3                                          |
-| Clothes, Noble                | weightless if worn                                            | 110                                        |
-| Clothes, Ragged               | weightless if worn                                            | 1                                          |
-| Dwarven Song-Key              |                                                               | 40                                         |
-| Galdr Staff                   | carved with runes for a [spell](/rules/magic/spell-list) | 40 (random spell) <br /> 80 (chosen spell) |
-| Hand Drum                     | for dancing                                                   | 3                                          |
-| Holy Symbol of The Light      | weightless                                                    | 2                                          |
-| Hornpipe                      | for popular tunes                                             | 3                                          |
-| Hourglass                     |                                                               | 120                                        |
-| Jar of Fireflies              | reveals Elf doings                                            | 2                                          |
-| Jeweller’s Tools              |                                                               | 100                                        |
-| Lens                          |                                                               | 50                                         |
-| Lute                          | for sophisticated ballads                                     | 80                                         |
-| Quill & Ink                   | weightless                                                    | 40                                         |
-| Scales & Weights              |                                                               | 20                                         |
-| Sickle & Tweezers             | for gathering alchemical samples                              | 10                                         |
-| Sunstone & Navigation Scrolls |                                                               | 15                                         |
+| **item**                      | **notes**                                                      | **price**                                  |
+| ----------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
+| Armring                       | for swearing loyalty, weightless                               | 100                                        |
+| Book of Bird Songs            | to join their gossiping                                        | 30                                         |
+| Book of Kennings              | for powerful poetry                                            | 30                                         |
+| Book of Runes                 | for seiðr magic                                                | 150                                        |
+| Candle                        | weightless                                                     | 2                                          |
+| Ceremonial Dagger             |                                                                | 25                                         |
+| Chastity Ring                 | weightless                                                     | 2                                          |
+| Clothes, Common               | weightless if worn                                             | 3                                          |
+| Clothes, Noble                | weightless if worn                                             | 110                                        |
+| Clothes, Ragged               | weightless if worn                                             | 1                                          |
+| Dwarven Song-Key              |                                                                | 40                                         |
+| Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/spell-list) | 40 (random spell) <br /> 80 (chosen spell) |
+| Hand Drum                     | for dancing                                                    | 3                                          |
+| Holy Symbol of The Light      | weightless                                                     | 2                                          |
+| Hornpipe                      | for popular tunes                                              | 3                                          |
+| Hourglass                     |                                                                | 120                                        |
+| Jar of Fireflies              | reveals Elf doings                                             | 2                                          |
+| Jeweller’s Tools              |                                                                | 100                                        |
+| Lens                          |                                                                | 50                                         |
+| Lute                          | for sophisticated ballads                                      | 80                                         |
+| Quill & Ink                   | weightless                                                     | 40                                         |
+| Scales & Weights              |                                                                | 20                                         |
+| Sickle & Tweezers             | for gathering alchemical samples                               | 10                                         |
+| Sunstone & Navigation Scrolls |                                                                | 15                                         |
 
 ## Tools & Ironwork
 

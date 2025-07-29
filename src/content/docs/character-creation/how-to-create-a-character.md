@@ -62,7 +62,8 @@ You may choose from the following options:
 -   Roll or choose a **Skill**;, then write it on your character sheet with a
     "+2" next to it
 -   A companion: a raven or a thrall or something else
--   2 random spellbooks
+-   2 random
+    [Galdr staves](/character-creation/gear/#specialist--cultural-items)
 -   [Prophecy](/rules/magic/seiðr#prophecy)
 
 ## 5. Gear
