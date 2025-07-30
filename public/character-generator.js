@@ -7,7 +7,7 @@ import {
 	maleNames,
 	skills,
 	twists
-} from "../src/components/data/character-creator-tables";
+} from "./character-creator-tables.js";
 
 class CharacterGenerator extends HTMLElement {
 	connectedCallback() {
