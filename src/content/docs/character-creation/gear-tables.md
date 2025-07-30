@@ -1,5 +1,5 @@
 ---
-title: Gear
+title: Gear Tables
 ---
 
 **Faulty** items cost 1d4 silver & might break anytime.  
@@ -22,13 +22,13 @@ Items sell for **half** the listed price.
 | **Ranged Weapons** |                                      |           |
 | Bow                | d6, bulky                            | 50        |
 | Crossbow           | d8, bulky, slow reload               | 100       |
-| Sling              | d4, d6 with lead bullets, weightless | 4         |
+| Sling              | d4, d8 with lead bullets, weightless | 4         |
 | **Armour**         |                                      |           |
 | Mail Shirt         | 1 Armour                             | 100       |
 | Helmet             | 1 Armour                             | 10        |
 | Shield             | 1 Armour                             | 10        |
 | **Ammo**           |                                      |           |
-| Lead Bullets       | 24 shots                             | 6         |
+| Lead Bullets       | 20 shots                             | 6         |
 
 ## Expeditionary Gear
 

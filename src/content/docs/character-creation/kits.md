@@ -4,7 +4,7 @@ title: Kits
 
 ## Drengr
 
-Suggested Gift: skilled in Poetry/Music
+Suggested Gift: skilled in Poetry & Music
 
 -   common clothes
 -   spear
@@ -29,7 +29,7 @@ Suggested Gift: skilled in Animal Training
 
 ## Herbalist
 
-Suggested Gift: skilled in Healing/Herbalism
+Suggested Gift: skilled in Healing & Herbalism
 
 -   common clothes
 -   purifying herbs
@@ -41,7 +41,7 @@ Suggested Gift: skilled in Healing/Herbalism
 
 ## Houndmaster
 
-Suggested Gift: skilled in Hunting/Tracking
+Suggested Gift: skilled in Hunting & Tracking
 
 -   common clothes
 -   seax
@@ -53,7 +53,7 @@ Suggested Gift: skilled in Hunting/Tracking
 
 ## Housekarl
 
-Suggested Gift: skilled in Poetry/Music
+Suggested Gift: skilled in Poetry & Music
 
 -   common clothes
 -   helmet
@@ -77,7 +77,7 @@ Feeble but loyal thrall (5 inventory slots)
 
 ## Skald
 
-Suggested Gift: skilled in Poetry/Music
+Suggested Gift: skilled in Poetry & Music
 
 ## Merchant
 

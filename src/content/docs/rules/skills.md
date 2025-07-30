@@ -41,8 +41,8 @@ and a crewmember shouts "Pirates approaching!"_
 | Healing                               |
 | Herbalism                             |
 | Hunting & Trapping                    |
-| Navigation/Wayfinding                 |
-| Poetry/Music                          |
+| Navigation & Wayfinding               |
+| Poetry & Music                        |
 | Sailing                               |
 | Ship-Building & Carpentry             |
 | Smithing                              |

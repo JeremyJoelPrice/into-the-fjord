@@ -79,12 +79,13 @@ Then:
 **OR** select a pre-defined [Kit](/character-creation/kits).
 
 Then:  
-**IF** your highest Ability score is less than 12, roll twice for silver.  
+**IF** your highest Ability score is less than 12, roll 2d10x10 for additional
+silver.  
 **IF** your Guard is **1 - 3**, gain a free piece of armour.  
 **IF** your Guard is **4 - 6**, gain a free weapon of d6 damage.
 
 **Finally** you have the chance to spend your silver using the
-[Gear](/character-creation/gear) tables.
+[Gear Tables](/character-creation/gear-tables).
 
 ## 7. Finishing Touches
 
