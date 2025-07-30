@@ -151,7 +151,13 @@ class CharacterGenerator extends HTMLElement {
 			lines.push(c.description.join("\n"));
 			lines.push("");
 			lines.push(`Might ${c.might} • Grace ${c.grace} • Will ${c.will}`);
-			lines.push(`Guard ${c.guard} • Armour ${c.armour} • Deprived [ ]`);
+			lines.push(
+				`Guard ${c.guard} • Armour ${c.armour} • ${
+					this.querySelector("#isDeprived").checked
+						? "Deprived [x]"
+						: "Deprived [ ]"
+				}`
+			);
 			lines.push("");
 			lines.push(`Gift: ${c.gift}`);
 			lines.push(`Twist: ${c.twist}`);
@@ -250,7 +256,7 @@ class CharacterGenerator extends HTMLElement {
 						<td><h6>Will</h6></td>
 						<td>${will}</td>
 						<td><h6>Deprived</h6></td>
-						<td><input type="checkbox" /></td>
+						<td><input type="checkbox" id="isDeprived" /></td>
 					</tr>
 				</table>
 				<table class="table-border">
