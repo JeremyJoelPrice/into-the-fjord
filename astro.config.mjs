@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
@@ -8,13 +9,7 @@ export default defineConfig({
 		starlight({
 			title: "Home",
 			pagination: false,
-			// social: [
-			// 	{
-			// 		icon: "github",
-			// 		label: "GitHub",
-			// 		href: "https://github.com/withastro/starlight"
-			// 	}
-			// ],
+			customCss: ["/src/styles/custom.css"],
 			sidebar: [
 				{
 					// start here
@@ -51,8 +46,8 @@ export default defineConfig({
 							slug: "character-creation/kits"
 						},
 						{
-							label: "Gear",
-							slug: "character-creation/gear"
+							label: "Gear Tables",
+							slug: "character-creation/gear-tables"
 						}
 					]
 				},
@@ -153,6 +148,7 @@ export default defineConfig({
 					]
 				}
 			]
-		})
+		}),
+		react()
 	]
 });
