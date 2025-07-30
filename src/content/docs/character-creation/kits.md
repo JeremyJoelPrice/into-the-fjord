@@ -100,7 +100,7 @@ Suggested Gift: skilled in Sailing
 -   sunstone & navigation scrolls
 -   carved whale tooth
 -   fishing net
--   seal bladder (filled with air)
+-   seal bladder
 -   lantern
 -   whale oil
 

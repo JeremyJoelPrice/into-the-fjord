@@ -453,14 +453,14 @@ export const kits = [
 			"sunstone & navigation scrolls",
 			"carved whale tooth",
 			"fishing net",
-			"seal bladder (filled with air)",
+			"seal bladder",
 			"lantern",
 			"whale oil"
 		]
 	},
 	{
 		name: "Seiðkona",
-		gift: "Knows Prophecy",
+		gift: "Prophecy",
 		reputation: "Mediocre (0)",
 		gear: [
 			"priest's robes with catskin gloves",
@@ -507,9 +507,9 @@ export const twists = [
 	"you're a werewolf",
 	"you're in bad debt to someone powerful",
 	"you have a hunchback where mushrooms grow",
-	"you have a large crab claw for a hand (works like a shield, but people hate it",
+	"you have a large crab claw for a hand (works like a shield, but people hate it)",
 	"you have bark-like skin (brittle, flammable & ugly)",
 	"you are illiterate & unable to speak a second language",
 	"your clan has chosen you as the next human sacrifice",
-	"you have nightmares because a seiðr witch cursed"
+	"you've had nightmares ever since a seiðkona cursed you"
 ];

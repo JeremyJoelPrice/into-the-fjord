@@ -4,7 +4,8 @@ title: Carrying Gear
 
 You have 10 slots, and most things take 1.  
 Bulky things take 2, weightless things take 0.  
-Some things are bundled together into 1 slot.
+Some things are bundled together into 1 slot.  
+_(100 silver coins, 3 trail rations, etc.)_
 
 You can push yourself to use 11 slots, but:
 

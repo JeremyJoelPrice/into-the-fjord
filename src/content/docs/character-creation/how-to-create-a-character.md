@@ -129,4 +129,4 @@ Otherwise, roll 1d20.
 | 17  | you have bark-like skin (brittle, flammable & ugly)                             |
 | 18  | you are illiterate & unable to speak a second language                          |
 | 19  | your clan has chosen you as the next human sacrifice                            |
-| 20  | you have nightmares because a seiðr witch cursed                                |
+| 20  | you've had nightmares ever since a seiðkona cursed you                          |
