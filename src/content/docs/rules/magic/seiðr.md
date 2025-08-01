@@ -23,9 +23,11 @@ things like the harvest, fertility, the weather.
 
 ## Prophecy
 
-The player characters can learn this ability, and it incurs
-[Fatigue](/rules/fighting/fatigue) just like
-[galdr](/rules/magic/galdr) magic.  
+The player characters can learn this ability.
+
+-   it incurs [Fatigue](/rules/fighting/fatigue)
+-   it takes an hour's ritual to perform
+
 Compose a multiple-choice or yes/no question for the Guide to truthfully
 answer.  
 It must be:

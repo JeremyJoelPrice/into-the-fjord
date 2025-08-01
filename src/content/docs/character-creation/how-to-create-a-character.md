@@ -84,7 +84,7 @@ You may choose from the following options:
     "+2" next to it
 -   A companion: a raven or a thrall or something else
 -   2 random
-    [Galdr staves](/character-creation/gear/#specialist--cultural-items)
+    [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
 -   [Prophecy](/rules/magic/seiðr#prophecy)
 
 
