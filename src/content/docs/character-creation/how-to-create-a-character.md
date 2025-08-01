@@ -54,19 +54,7 @@ Guard is how well you defend yourself in a fight.
 It is depleted when you take damage, and recovers quickly.  
 _see [Guard](/rules/fighting/guard) for more info_
 
-## 4. Gift
-
-Your character is gifted in some way.  
-You may choose from the following options:
-
--   Roll or choose a **Skill**;, then write it on your character sheet with a
-    "+2" next to it
--   A companion: a raven or a thrall or something else
--   2 random
-    [Galdr staves](/character-creation/gear/#specialist--cultural-items)
--   [Prophecy](/rules/magic/seiðr#prophecy)
-
-## 5. Gear
+## 4. Gear
 
 Every character starts with:
 
@@ -86,6 +74,19 @@ silver.
 
 **Finally** you have the chance to spend your silver using the
 [Gear Tables](/character-creation/gear-tables).
+
+## 5. Gift
+
+Your character is gifted in some way.  
+You may choose from the following options:
+
+-   Roll or choose a **Skill**;, then write it on your character sheet with a
+    "+2" next to it
+-   A companion: a raven or a thrall or something else
+-   2 random
+    [Galdr staves](/character-creation/gear/#specialist--cultural-items)
+-   [Prophecy](/rules/magic/seiðr#prophecy)
+
 
 ## 7. Finishing Touches
 
