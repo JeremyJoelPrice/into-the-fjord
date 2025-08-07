@@ -78,14 +78,14 @@ silver.
 ## 5. Gift
 
 Your character is gifted in some way.  
-You may choose from the following options:
+You may choose **one** of the following options:
 
 -   Roll or choose a **Skill**;, then write it on your character sheet with a
     "+2" next to it
 -   A companion: a raven or a thrall or something else
 -   2 random
     [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
--   [Prophecy](/rules/magic/seiðr#prophecy)
+-   The power of [Prophecy](/rules/magic/seiðr#prophecy)
 
 
 ## 7. Finishing Touches
