@@ -205,6 +205,8 @@ class CharacterGenerator extends HTMLElement {
 			character.twist = chooseFrom(twists);
 			if (character.twist.includes("Poor (-1)"))
 				character.reputation = "Poor (-1)";
+			if (character.twist.includes("Great (+3)"))
+				character.reputation = "Great (+3)";
 			character.armour =
 				(gear.includes("shield") ? 1 : 0) +
 				(gear.includes("helmet") ? 1 : 0) +
