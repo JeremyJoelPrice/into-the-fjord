@@ -22,4 +22,4 @@ To be played with:
 -   ✏️ 📄 pencils & paper
 -   🎲 standard RPG dice (d4, d6, d8, d10, d12, & d20)
 
-**ð** = th as in "the"
+ð = th as in "the"
