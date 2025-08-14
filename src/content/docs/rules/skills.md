@@ -16,7 +16,7 @@ Examples include:
 -   crafting a magical weapon
 -   spending a few hours scavenging for food
 
-Skills are resolved with a [Push Roll](/start-here/how-to-play#push-roll).
+Skills are resolved with a [Chance Roll](/start-here/how-to-play/#chance-roll).
 
 The Guide can provide in-game opportunities to learn skills.
 
@@ -25,7 +25,7 @@ The Guide can provide in-game opportunities to learn skills.
 _Helga wants to reach an unexplored island, and avoid any pirates on the way._  
 _Helga is Good (+2) at sailing, and has a ship with a ready crew._
 
-_The Guide asks for a Push Roll._  
+_The Guide asks for a Chance Roll._  
 _She rolls 2d6 and gets a 5 on the dice._  
 _Adding the +2 bonus for her skill gets a 7._
 
@@ -53,10 +53,10 @@ and a crewmember shouts "Pirates approaching!"_
 You always have the option to hire skilled NPCs to travel with you.  
 They have some trade-offs:
 
--   They succeed without needing a Push roll,  
+-   They succeed without needing a Chance Roll,  
     unless they're in danger
 -   They are generally Great (+3) at their specialty,  
-    because they not good at much else
+    because they're not good at much else
 -   They need feeding & protecting
 -   As non-combatants, their morale might fail in dangerous situations
 

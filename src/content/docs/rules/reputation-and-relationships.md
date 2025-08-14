@@ -5,7 +5,7 @@ title: Reputation & Relationships
 ## Reputation
 
 Your reputation matters when dealing with others.  
-Make a [Push Roll](/start-here/how-to-play#push-roll) when you:
+Make a [Chance Roll](/start-here/how-to-play/#chance-roll) when you:
 
 -   introduce yourself & make a first impression
 -   ask a stranger for a favour
@@ -20,7 +20,7 @@ It goes down when you act dishonourably or suffer a humiliating defeat.
 Relationships work the same as Reputation,  
 but they are tracked individually instead.  
 When dealing with someone you have a relationship score for,  
-you still make a Push Roll but you use their score instead of your reputation
+you still make a Chance Roll but you use their score instead of your reputation
 score.
 
 Only your 5 most important relationships deserve to be tracked.
