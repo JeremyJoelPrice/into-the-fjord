@@ -198,23 +198,12 @@ const nonphysicalCharacterisation = [
 
 const physicalCharacterisation = [
 	// injured/disabled
-	"Facially disfigured",
 	"Battle-scarred face & hands",
-	"Mushrooms grow through their cracked skin",
-	"Blind in one eye",
-	"Missin an ear",
+	"Different coloured eyes",
 	"Extremely hairy limbs",
-	"Missing an arm",
-	"Walks with crutches",
-	"Slight tremble in one arm",
-	"Peppered with blisters & open wounds",
-	"Breath rattles faintly",
 	"Eyes are constantly wet",
-	"Skin has a yellow tinge",
-	"Almost sickly pale",
 	"Steady twitch in one eye",
 	"Skin has red blotches",
-	"Ears and fingertips show signs of decay",
 
 	// build
 	"Tall or slender",
