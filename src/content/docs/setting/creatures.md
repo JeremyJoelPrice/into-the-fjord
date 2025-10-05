@@ -2,6 +2,60 @@
 title: Creatures
 ---
 
+### Angel
+
+> His body [...] was like the beryl,  
+> and his face as the appearance of lightning,  
+> and his eyes as lamps of fire,  
+> and his arms and his feet like in colour to polished brass,  
+> and the voice of his words like the voice of a multitude.
+>
+> Daniel 10:5–6
+
+Matthew 28:3 – Angel at the tomb: “His countenance was like lightning, and his
+raiment white as snow.”
+
+Revelation 10:1 – “Another mighty angel” “clothed with a cloud, a rainbow was
+upon his head, his face was as it were the sun, his feet as pillars of fire.”
+
+#### Cherubim
+
+Ezekiel 1:4–11 (Vision of the Cherubim / “living creatures”): Four living
+creatures, each with four faces (man, lion, ox, eagle). Each had four wings.
+Their feet were “straight feet,” soles like a calf’s foot, “sparkled like the
+colour of burnished brass.” Hands of a man under their wings. They shone like
+burning coals/lamps.
+
+Ezekiel 10:12 – “Their whole body, and their backs, and their hands, and their
+wings, and the wheels, were full of eyes round about.”
+
+#### Seraphim
+
+Isaiah 6:2–3 (Seraphim): Each had six wings: with two covered the face, two
+covered the feet, two used to fly. They cried “Holy, holy, holy.”
+
+#### Ophanim
+
+Ezekiel 1:15-21
+
+> 15 Now as I beheld the living creatures, behold one wheel upon the earth by
+> the living creatures, with his four faces.  
+> 16 The appearance of the wheels and their work was like unto the colour of a
+> beryl: and they four had one likeness: and their appearance and their work was
+> as it were a wheel in the middle of a wheel.  
+> 17 When they went, they went upon their four sides: and they turned not when
+> they went.  
+> 18 As for their rings, they were so high that they were dreadful; and their
+> rings were full of eyes round about them four. 19 And when the living
+> creatures went, the wheels went by them: and when the living creatures were
+> lifted up from the earth, the wheels were lifted up.  
+> 20 Whithersoever the spirit was to go, they went, thither was their spirit to
+> go; and the wheels were lifted up over against them: for the spirit of the
+> living creature was in the wheels.  
+> 21 When those went, these went; and when those stood, these stood; and when
+> those were lifted up from the earth, the wheels were lifted up over against
+> them: for the spirit of the living creature was in the wheels.
+
 ### Exile
 
 Below are the regulars, but anyone may be found among exiles.

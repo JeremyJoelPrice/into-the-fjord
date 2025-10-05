@@ -19,16 +19,14 @@ Just be **aware**, and have fun **together**.
 ## As A Player You Should Care About:
 
 -   **Having A Plan**  
-    Why are you here? What do you want out of this situation? Is it worth
-    retreating instead of pushing ahead? Be intentional.
+    What do you want to acheive?  
+    Is it worth stepping back and approaching this a different way?
 
 -   **Gear**  
     What you carry determines what you can do, but space is limited.
 
 -   **Non-Player Characters (NPCs)**  
-    Everyone has something useful to offer, or a connection to someone who
-    does.  
-    However, they will put their own goals above yours.
+    Everyone has something useful to offer, or a connection to someone who does.
 
 ## As The Guide You Should Care About:
 

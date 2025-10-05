@@ -113,7 +113,7 @@ const nonphysicalCharacterisation = [
 
 	// wear & tear
 	"Appear dirty & dishevelled",
-	"Appear sunburned & weather-worn",
+	"Appears sunburned & weather-worn",
 	"Dirty or marked from working",
 
 	// smell

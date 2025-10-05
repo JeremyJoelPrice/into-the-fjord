@@ -4,9 +4,10 @@ title: How To Create A Character
 
 ## 1. Name
 
-Choose a **name** or roll d20 on either table below.  
-Roll on either table to generate your parent’s name,  
-and append it with "son" or "sdóttir" to create your surname. <br /> <br />
+Choose or roll 1d20 on either table for your **first name**.  
+Choose or roll again for your **surname**, and append "son" or "sdóttir", as you prefer.
+
+_e.g. Helga Runasdóttir (literally Helga, Runa's daughter)_
 
 **Female Names**
 
@@ -86,7 +87,6 @@ You may choose **one** of the following options:
 -   2 random
     [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
 -   The power of [Prophecy](/rules/magic/seiðr#prophecy)
-
 
 ## 7. Finishing Touches
 

@@ -2,16 +2,18 @@
 title: Introduction
 ---
 
-> “Enough!” you cry.
->
-> You defended your honour, as tradition dictates.  
-> You paid the jarl's tribute, as society dictates.  
-> Your obedience wasn't rewarded.  
-> Your neighbours are plotting.  
-> Your farm is failing.  
-> Monsters prowl.  
-> Invaders arrive.  
-> Enough.
+
+“Enough!” you cry.
+
+For years you've worked hard, paid your tribute, and obeyed the law.  
+But life kept getting worse.  
+
+Monsters take the livestock. Invaders spread a new faith.
+Neighbours whisper and scheme while farms fail and bellies empty.
+
+Honour is a luxury when people are desperate,  
+so now it’s up to you to fight, endure, and take life into your own hands.
+
 
 **Into the Fjord** is about self-determination & human connection in a bleak &
 callous world.

@@ -11,7 +11,7 @@ and how much harm they can **endure** before falling unconscious or dying.
 | Grace   | precision, agility,<br />automatic reflexes                    | disease, venom,<br />exposure to cold                | paralysed    |
 | Will    | composure, willpower,<br />acting first in a chaotic situation | magical, psychological, or<br />psychedellic attacks | comatose     |
 
-See [Resting & Healing](/rules/resting-and-healing).
+See [Resting & Healing](/rules/resting-and-healing) for recovering Ability Scores.
 
 ## Rolling Abilities
 
@@ -22,11 +22,11 @@ If your score is **equal** or **higher** then you succeed.
 If your score is **lower** then you fail.
 
 Rolling a **1** is lucky, and guarantees success.  
-Rolling a **20** is unlucky, and you fail even if your score is 20 or higher!
+Rolling a **20** is unlucky, and you fail (even if your score is 20 or higher)!
 
 ## Opposed Rolls
 
-If you're opposing an NPC and you're **both at risk**,  
+If you're opposing another character and you're **both at risk**,  
 then you both roll the relevant Ability.
 
 The winner is whoever succeeds by a **greater** margin,  
@@ -34,7 +34,7 @@ or in case of a tie, whoever has the **larger score** wins.
 
 ## Advice For The Guide
 
-It's up to you which character rolls which Ability and when.  
+Ability Rolls only happen when you call for them.  
 You have to decide three things:
 
 -   Is time for a roll?
@@ -42,12 +42,12 @@ You have to decide three things:
 -   What's the **difficulty & danger** of what the players are attempting?
 
 Always **tell your players** what you decide,  
-because they should know the stakes before they act.
+so they know the stakes before they act.
 
 ### When To Roll
 
 -   If there is a clear source of danger, AND
--   If the danger is neither overwhelmingly inevitable nor trivial to avoid, AND
+-   If the danger is neither overwhelmingly inevitable nor trivially avoidable, AND
 -   If the players lack the **time**, **gear**, and **skill** required to avoid
     it  
     _(danger is often urgent, so time is usually lacking)_
