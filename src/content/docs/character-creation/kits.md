@@ -79,6 +79,15 @@ Feeble but loyal thrall (5 inventory slots)
 
 Suggested Gift: skilled in Poetry & Music
 
+-   common clothes
+-   axe
+-   shield
+-   sling
+-   lute
+-   drum
+-   book of kennings
+-   incense
+
 ## Merchant
 
 Suggested Gift: skilled in Mercantile
