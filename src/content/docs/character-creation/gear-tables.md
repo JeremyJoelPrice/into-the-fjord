@@ -131,6 +131,7 @@ Items sell for **half** the listed price.
 | Seasoned Firewood  | bulky, burns in any weather and produces no smoke                              | 5         |
 | Snow Shoes         |                                                                                | 15        |
 | Skis               |                                                                                | 20        |
+| Tinderbox          | weightless, contains flint, pyrite & fungus                                    | -         |
 | Trap (Bear)        | bulky                                                                          | 20        |
 | Trap (Snare)       |                                                                                | 10        |
 | Tent               | fits 2 people,<br>bulky                                                        | 10        |
