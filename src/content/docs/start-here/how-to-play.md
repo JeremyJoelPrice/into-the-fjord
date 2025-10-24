@@ -38,8 +38,7 @@ world.
 The terminology is straightforward:
 
 -   "2d6" means two 6-sided dice are rolled and added together
--   Likewise 1d20, 3d6, etc.
--   **Except**: 2d6^ means you count the highest die only
+-   Likewise 3d6, 2d8, d20 (short for "1d20") etc.
 
 There are **three** kinds of dice roll we make during play.
 
@@ -47,26 +46,27 @@ There are **three** kinds of dice roll we make during play.
 character attacks someone with their weapon.  
 [**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used any other
 time a character tries to avoid direct harm.  
-**Chance Rolls** (see below) are a catch-all for whenever the Guide feels the
-need to roll.
+**Fate Rolls** (see below) are a catch-all for any other time a roll is called for.
 
-### Chance Roll
+### Fate Roll
 
 -   roll 2d6 + a **bonus**
--   8 or higher **succeeds**
--   7 or lower either **fails**, or succeeds at a **cost** (Guide's choice)
+-   7 or higher **succeeds**
+-   below 7 either **fails**, or succeeds at a **cost** (Guide's choice)
 -   if both dice match, the result is **extreme**
 
-Chance Rolls give the Guide an intuitive way to set the chance of success.  
+The Guide should use their judgement to set the chance of success.  
 Think about the fiction first:  
-do the players have a _Good_ chance of finding a poison specialist in town,  
+Do the players have a _Good_ chance of finding a poison specialist in town,  
 or does it feel more like a _Fair_ chance?  
 Pick the description that resonates, and apply its bonus to the Chance Roll.
 
-| bonus | description |
-| ----- | ----------- |
-| +3    | Great       |
-| +2    | Good        |
-| +1    | Fair        |
-| 0     | Mediocre    |
-| -1    | Poor        |
+| bonus | chance to succeed |
+| ----- | ----------------- |
+| +3    | Great (92%)       |
+| +2    | Very Good (83%)   |
+| +1    | Good (72%)        |
+| 0     | Fair (58%)        |
+| -1    | Poor (42%)        |
+| -2    | Very Poor (28%)   |
+| -3    | Terrible (17%)    |

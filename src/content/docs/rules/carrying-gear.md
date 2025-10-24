@@ -7,9 +7,9 @@ Bulky things take 2, weightless things take 0.
 Some things are bundled together into 1 slot.  
 _(100 coins, 3 trail rations, etc.)_
 
-You can push yourself to use 11 slots, but:
+You can push yourself to use an 11th slot, but:
 
 -   your [Guard](/rules/fighting/guard) is 0
--   you can only stagger around slowly
+-   you stagger around slowly
 -   you incur [Fatigue](/rules/fatigue) **immediately** when you put something
     down
