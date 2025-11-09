@@ -90,7 +90,7 @@ You may choose **one** of the following options:
 
 ## 7. Finishing Touches
 
-Give your character a Reputation of "Mediocre (0)".
+Give your character a Reputation of "Fair (+0)".
 
 Write down a short description of your character.  
 Consider things like:

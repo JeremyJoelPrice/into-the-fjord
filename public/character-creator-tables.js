@@ -328,8 +328,8 @@ export const characterisation = {
 export const kits = [
 	{
 		name: "Drengr",
-		gift: "Good (+2) at Poetry/Music",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Poetry/Music",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"spear",
@@ -342,7 +342,7 @@ export const kits = [
 	},
 	{
 		name: "Exile",
-		gift: "Good (+2) at Animal Training",
+		gift: "Great (+2) at Animal Training",
 		reputation: "Poor (-1)",
 		gear: [
 			"ragged clothes",
@@ -356,8 +356,8 @@ export const kits = [
 	},
 	{
 		name: "Herbalist",
-		gift: "Good (+2) at Healing/Herbalism",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Healing/Herbalism",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"purifying herbs",
@@ -370,8 +370,8 @@ export const kits = [
 	},
 	{
 		name: "Houndmaster",
-		gift: "Good (+2) at Hunting/Tracking",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Hunting/Tracking",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"seax",
@@ -384,8 +384,8 @@ export const kits = [
 	},
 	{
 		name: "Housekarl",
-		gift: "Good (+2) at Poetry/Music",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Poetry/Music",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"helmet",
@@ -400,13 +400,13 @@ export const kits = [
 	{
 		name: "Jarl",
 		gift: "Feeble but loyal thrall (5 inventory slots)",
-		reputation: "Fair (+1)",
+		reputation: "Good (+1)",
 		gear: ["noble clothes", "sword", "mail shirt", "shield", "grooming kit"]
 	},
 	{
 		name: "Skald",
-		gift: "Good (+2) at Poetry/Music",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Poetry/Music",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"axe",
@@ -420,8 +420,8 @@ export const kits = [
 	},
 	{
 		name: "Merchant",
-		gift: "Good (+2) at Mercantile",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Mercantile",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"seax",
@@ -434,8 +434,8 @@ export const kits = [
 	},
 	{
 		name: "Sailor",
-		gift: "Good (+2) at Sailing",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Sailing",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"axe",
@@ -450,7 +450,7 @@ export const kits = [
 	{
 		name: "Seiðkona",
 		gift: "Prophecy",
-		reputation: "Mediocre (0)",
+		reputation: "Fair (+0)",
 		gear: [
 			"priest's robes with catskin gloves",
 			"staff",
@@ -463,8 +463,8 @@ export const kits = [
 	},
 	{
 		name: "Wanderer",
-		gift: "Good (+2) at Wayfinding",
-		reputation: "Mediocre (0)",
+		gift: "Great (+2) at Wayfinding",
+		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
 			"winter cloak",

@@ -11,7 +11,7 @@ Make a [Chance Roll](/start-here/how-to-play/#chance-roll) when you:
 -   ask a stranger for a favour
 -   you're on trial and need someone to vouch for you
 
-Your reputation starts at Mediocre (0).  
+Your reputation starts at Fair (+0).  
 It goes up when you do anything which increases your fame and honour.  
 It goes down when you act dishonourably or suffer a humiliating defeat.
 

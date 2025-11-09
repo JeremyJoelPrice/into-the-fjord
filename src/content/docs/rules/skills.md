@@ -23,7 +23,7 @@ The Guide can provide in-game opportunities to learn skills.
 ## Example Play
 
 _Helga wants to reach an unexplored island, and avoid any pirates on the way._  
-_Helga is Good (+2) at sailing, and has a ship with a ready crew._
+_Helga is Great (+2) at sailing, and has a ship with a ready crew._
 
 _The Guide asks for a Chance Roll._  
 _She rolls 2d6 and gets a 5 on the dice._  

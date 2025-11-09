@@ -93,7 +93,7 @@ class CharacterGenerator extends HTMLElement {
 			]);
 			switch (gift) {
 				case "skill":
-					return `Good (+2) at ${chooseFrom(skills)}`;
+					return `Great (+2) at ${chooseFrom(skills)}`;
 				case "companion":
 					return chooseFrom([
 						"intelligent raven",

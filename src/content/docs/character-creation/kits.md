@@ -73,7 +73,7 @@ Feeble but loyal thrall (5 inventory slots)
 -   mail shirt
 -   shield
 -   grooming kit
--   Fair (+1) reputation
+-   Good (+1) reputation
 
 ## Merchant
 

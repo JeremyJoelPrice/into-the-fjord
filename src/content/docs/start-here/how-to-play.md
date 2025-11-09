@@ -46,7 +46,8 @@ There are **three** kinds of dice roll we make during play.
 character attacks someone with their weapon.  
 [**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used any other
 time a character tries to avoid direct harm.  
-**Fate Rolls** (see below) are a catch-all for any other time a roll is called for.
+**Fate Rolls** (see below) are a catch-all for any other time a roll is called
+for.
 
 ### Fate Roll
 
@@ -63,10 +64,10 @@ Pick the description that resonates, and apply its bonus to the Chance Roll.
 
 | bonus | chance to succeed |
 | ----- | ----------------- |
-| +3    | Great (92%)       |
-| +2    | Very Good (83%)   |
+| +3    | Excellent (92%)   |
+| +2    | Great (83%)       |
 | +1    | Good (72%)        |
 | 0     | Fair (58%)        |
 | -1    | Poor (42%)        |
-| -2    | Very Poor (28%)   |
+| -2    | Grim (28%)        |
 | -3    | Terrible (17%)    |
