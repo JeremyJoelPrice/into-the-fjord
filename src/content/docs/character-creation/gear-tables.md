@@ -108,14 +108,18 @@ Items sell for **half** the listed price.
 | Wanderer/Loremaster |                                 | 3                        | 20                                    |
 | Werewolf            | hard to find                    | 120                      | 500                                   |
 
-## Mounts & Vehicles
+## Hounds, Mounts & Vehicles
 
-| **item**                      | **notes** | **price** |
-| ----------------------------- | --------- | --------- |
-| Battle-Ready Horse (+2 slots) |           | 100       |
-| Cart (+8 slots, slow)         |           | 10        |
-| Hound                         |           | 15        |
-| Pack Mule (+6 slots), slow    |           | 15        |
+| **item**                      | **notes**                                                 | **price** |
+| ----------------------------- | --------------------------------------------------------- | --------- |
+| Battle-Ready Horse (+2 slots) |                                                           | 100       |
+| Cart (+8 slots, slow)         |                                                           | 10        |
+| Hound, mutt                   | Just a Good (+1) dog                                      | 5         |
+| Hound, hunting                | Great (+2) at tracking & circling prey                    | 20        |
+| Hound, herding                | Great (+2) at complex tasks, can work without supervision | 15        |
+| Hound, sled                   | 4 gear slots, can pull heavy loads                        | 20        |
+| Hound, wolfdog                | Larg, loyal and protective to the end                     | 45        |
+| Pack Mule (+6 slots), slow    |                                                           | 15        |
 
 ## Outdoor Survival
 
