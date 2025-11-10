@@ -4,6 +4,9 @@ title: Philosophy & Playstyle
 
 ## Let's Face It: Characters Die
 
+There are a number of attitudes a player might have about losing their
+character:
+
 -   Some players are protective of their characters and enjoy when they thrive &
     succeed
 -   Some players drive their characters like a stolen car, embracing chaos &
@@ -13,8 +16,8 @@ title: Philosophy & Playstyle
 -   Some players want to see their character's personality & flaws influence the
     story
 
-These are **all valid**, and you don't have to all feel the same way.  
-Just be **aware**, and have fun **together**.
+If any of these resonate, tell your fellow players.  
+Being **aware** of each other helps you to have fun **together**.
 
 ## As A Player You Should Care About:
 
@@ -23,10 +26,10 @@ Just be **aware**, and have fun **together**.
     Is it worth stepping back and approaching this a different way?
 
 -   **Gear**  
-    What you carry determines what you can do, but space is limited.
+    Every bit of gear you carry has its use, but space is limited.
 
 -   **Non-Player Characters (NPCs)**  
-    Everyone has something useful to offer, or a connection to someone who does.
+    Every NPC is a resource of knowledge, skills, or connections.
 
 ## As The Guide You Should Care About:
 

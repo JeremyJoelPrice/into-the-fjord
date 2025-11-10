@@ -32,11 +32,12 @@ Compose a multiple-choice or yes/no question for the Guide to truthfully
 answer.  
 It must be:
 
--   About the near future, but not the outcome of a battle
--   Simple (no ands, buts, or run-on sentences)
+-   About the near future, but not the outcome of a battle (for that is Odin's
+    domain)
+-   Simple (no "ands", "buts", or run-on sentences)
 -   Vague (no names, numbers or exactitudes)
 -   examples:
     -   "if we enter the woods, will we find shelter, danger, both, or something
         else?"
     -   "does our host have ill intent?"
-    -   "if we approach the bandits, will they be hostile?"
+    -   "if we approach the bandits, will they attack us immediately?"

@@ -112,8 +112,8 @@ export default defineConfig({
 							label: "Magic",
 							items: [
 								{
-									label: "Spell List",
-									slug: "rules/magic/spell-list"
+									label: "Galdr Spell List",
+									slug: "rules/magic/galdr-spell-list"
 								},
 								{
 									label: "Galdr",

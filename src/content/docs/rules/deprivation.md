@@ -47,7 +47,6 @@ Going out in the bitter cold can be deadly.
 
 | temperature         | interval |
 | ------------------- | -------- |
-| Mild (10º to 20º)   | -        |
 | Cold (below 10º)    | 3 hours  |
 | Freezing (below 0º) | 1 hour   |
 | Deadly (below -10º) | 1 minute |
@@ -55,8 +54,4 @@ Going out in the bitter cold can be deadly.
 If you're wet or undressed, it counts as one **colder**.  
 If you have a winter cloak, it counts as one **warmer**.
 
-Mild temperatures won't harm you, but won't help if you're already deprived.
-
----
-
-\*_for dramatic effect, the Guide may roll this in secret_
+Mild temperatures (10º - 20ª) won't harm you, but won't help if you're already deprived.

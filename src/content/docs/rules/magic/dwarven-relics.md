@@ -4,12 +4,15 @@ title: Dwarven Relics
 
 The dwarves made many wondrous gifts for the gods, most notably Thor's hammer
 Mjölnir.  
-More relics have been found in their abandoned halls.
+More relics have been found in their abandoned halls.  
+These are highly prized, and worth a lot of silver to the right people.
 
 **Black Candle**  
 Think of a personal memory while lighting this candle;  
-all who feel its warmth feel your emotion from that memory.  
-Alternatively, think of nothing and you'll feel the emotions of others instead.
+all who feel its warmth feel your emotion from that memory.
+
+**Blue Candle**  
+Light this candle, and you'll feel the emotions of all who feel its warmth.
 
 **Dinner Spoon**  
 Anything eaten with this humble wooden spoon will be harmless & nourishing.
@@ -18,12 +21,12 @@ Anything eaten with this humble wooden spoon will be harmless & nourishing.
 Looking through this band magnifies things.  
 Natural unsteadiness of the hand costs detail at long distances.
 
-**Fast Rope**  
-On command, this rope is fixed in place with the strength of 9 men.  
-Loses its power if cut.
-
 **Feather Cloak**  
 Wearer can take the form of an eagle.
+
+**Fixed Rope**  
+On command, this rope is fixed in place with the strength of 9 men.  
+Loses its power if cut.
 
 **Gale Bladder**  
 This sheep's bladder consumes bad weather & high wind to release later with
@@ -43,10 +46,7 @@ The target, and Hel herself, find this annoying & inconvenient.
 Ends when the after-walker chooses to return to their grave.
 
 **Pocket Ship**  
-A working ship with a perspective trick:  
-When far enough away that it appears pocket-sized, you can reach out and take
-it.  
-It's hard to place it back down with **exact** precision.
+When empty of cargo & crew, this ship folds away into your pocket.
 
 **Returning Weapon**  
 Strikes true & returns to your hand when thrown.

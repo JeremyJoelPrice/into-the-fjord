@@ -90,20 +90,20 @@ Items sell for **half** the listed price.
 
 | **item**            | **notes**                       | hire per week            | **apprenticeship<br>or one-off task** |
 | ------------------- | ------------------------------- | ------------------------ | ------------------------------------- |
-| Craftsman           | carpenter, smith, etc.          | 20                       | 100                                   |
 | Berserker           |                                 | 60                       | 500                                   |
+| Craftsman           | carpenter, smith, etc.          | 20                       | 100                                   |
+| Duellist            |                                 | -                        | 100                                   |
 | Healer              |                                 | 5                        | 20                                    |
 | Herbalist           |                                 | 5                        | 20                                    |
 | Hunter/Tracker      |                                 | 8                        | 20                                    |
 | Mercenary           |                                 | 20                       | 100                                   |
-| Draugr Mercenary    | hard to find                    | 60                       | 500                                   |
-| Duellist            |                                 | -                        | 100                                   |
-| Exiled Mercenary    | opportunistic, less trustworthy | 2                        | 5                                     |
+| Mercenary (Draugr)  | hard to find                    | 60                       | 500                                   |
+| Mercenary (Exiled)  | opportunistic, less trustworthy | 2                        | 5                                     |
 | Priest of The Light |                                 | 30                       | 100                                   |
 | Sailor              |                                 | 4                        | 20                                    |
 | Seiðr               | hard to find                    | 25                       | 100                                   |
-| Thrall (healthy)    |                                 | 1                        | 4                                     |
 | Thrall (feeble)     | only 2 slots                    | pay once to hire forever | 1                                     |
+| Thrall (healthy)    |                                 | 1                        | 4                                     |
 | Traveller/Navigator |                                 | 6                        | 20                                    |
 | Wanderer/Loremaster |                                 | 3                        | 20                                    |
 | Werewolf            | hard to find                    | 120                      | 500                                   |
@@ -120,6 +120,8 @@ Items sell for **half** the listed price.
 | Hound, sled                   | 4 gear slots, can pull heavy loads                        | 20        |
 | Hound, wolfdog                | Larg, loyal and protective to the end                     | 45        |
 | Pack Mule (+6 slots), slow    |                                                           | 15        |
+| Sled, small                   | Carries 2 people, 4 gear slots, pulled by 1 sled hound    | 30        |
+| Sled, large                   | Carries 4 people, 20 gear slots, pulled by 4 sled hounds  | 75        |
 
 ## Outdoor Survival
 
@@ -127,7 +129,7 @@ Items sell for **half** the listed price.
 | ------------------ | ------------------------------------------------------------------------------ | --------- |
 | Bedding            | hides & woollen blankets, lets you benefit from bedrest away from civilisation | 2         |
 | Camouflage Cloak   |                                                                                | 15        |
-| Cooking Pot        |                                                                                | 3         |
+| Cooking Pot        | 6l capacity                                                                    | 3         |
 | Fishing Net        |                                                                                | 15        |
 | Fishing Rod        |                                                                                | 15        |
 | Kindling Box       | 3 uses                                                                         | 1         |
@@ -138,39 +140,39 @@ Items sell for **half** the listed price.
 | Tinderbox          | weightless, contains flint, pyrite & fungus                                    | -         |
 | Trap (Bear)        | bulky                                                                          | 20        |
 | Trap (Snare)       |                                                                                | 10        |
-| Tent               | fits 2 people,<br>bulky                                                        | 10        |
-| Trail Rations (x3) | bundle                                                                         | 3         |
+| Tent               | bulky, fits 2 people                                                           | 10        |
+| Trail Rations (x3) |                                                                                | 3         |
 | Walking Staff      |                                                                                | 5         |
-| Winter Cloak       |                                                                                | 15        |
+| Winter Cloak       | protects from [exposure](/rules/deprivation#exposure)                          | 15        |
 
 ## Specialist & Cultural Items
 
-| **item**                      | **notes**                                                      | **price**                                  |
-| ----------------------------- | -------------------------------------------------------------- | ------------------------------------------ |
-| Armring                       | for swearing loyalty, weightless                               | 100                                        |
-| Book of Bird Songs            | to join their gossiping                                        | 30                                         |
-| Book of Kennings              | for powerful poetry                                            | 30                                         |
-| Book of Runes                 | for seiðr magic                                                | 150                                        |
-| Candle                        | weightless                                                     | 2                                          |
-| Ceremonial Dagger             |                                                                | 25                                         |
-| Chastity Ring                 | weightless                                                     | 2                                          |
-| Clothes, Common               | weightless if worn                                             | 3                                          |
-| Clothes, Noble                | weightless if worn                                             | 110                                        |
-| Clothes, Ragged               | weightless if worn                                             | 1                                          |
-| Dwarven Song-Key              |                                                                | 40                                         |
-| Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/spell-list) | 40 (random spell) <br /> 80 (chosen spell) |
-| Hand Drum                     | for dancing                                                    | 3                                          |
-| Holy Symbol of The Light      | weightless                                                     | 2                                          |
-| Hornpipe                      | for popular tunes                                              | 3                                          |
-| Hourglass                     |                                                                | 120                                        |
-| Jar of Fireflies              | reveals Elf doings                                             | 2                                          |
-| Jeweller’s Tools              |                                                                | 100                                        |
-| Lens                          |                                                                | 50                                         |
-| Lute                          | for sophisticated ballads                                      | 80                                         |
-| Quill & Ink                   | weightless                                                     | 40                                         |
-| Scales & Weights              |                                                                | 20                                         |
-| Sickle & Tweezers             | for gathering alchemical samples                               | 10                                         |
-| Sunstone & Navigation Scrolls |                                                                | 15                                         |
+| **item**                      | **notes**                                                            | **price**                                   |
+| ----------------------------- | -------------------------------------------------------------------- | ------------------------------------------- |
+| Armring                       | for swearing loyalty, weightless                                     | 100                                         |
+| Book of Bird Songs            | to join their gossiping                                              | 30                                          |
+| Book of Kennings              | for powerful poetry                                                  | 30                                          |
+| Book of Runes                 | for seiðr magic                                                      | 150                                         |
+| Candle                        | weightless                                                           | 2                                           |
+| Ceremonial Dagger             |                                                                      | 25                                          |
+| Chastity Ring                 | weightless                                                           | 2                                           |
+| Clothes, Common               | weightless if worn                                                   | 3                                           |
+| Clothes, Noble                | weightless if worn                                                   | 110                                         |
+| Clothes, Ragged               | weightless if worn                                                   | 1                                           |
+| Dwarven Song-Key              |                                                                      | 40                                          |
+| Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/galdr-spell-list) | 80 (random spell) <br /> 180 (chosen spell) |
+| Hand Drum                     | for dancing                                                          | 3                                           |
+| Holy Symbol of The Light      | weightless                                                           | 2                                           |
+| Hornpipe                      | for popular tunes                                                    | 3                                           |
+| Hourglass                     |                                                                      | 120                                         |
+| Jar of Fireflies              | reveals Elf doings                                                   | 2                                           |
+| Jeweller’s Tools              |                                                                      | 100                                         |
+| Lens                          |                                                                      | 50                                          |
+| Lute                          | for sophisticated ballads                                            | 80                                          |
+| Quill & Ink                   | weightless                                                           | 40                                          |
+| Scales & Weights              |                                                                      | 20                                          |
+| Sickle & Tweezers             | for gathering alchemical samples                                     | 10                                          |
+| Sunstone & Navigation Scrolls |                                                                      | 15                                          |
 
 ## Tools & Ironwork
 

@@ -5,9 +5,10 @@ title: How To Create A Character
 ## 1. Name
 
 Choose or roll 1d20 on either table for your **first name**.  
-Choose or roll again for your **surname**, and append "son" or "sdóttir", as you prefer.
+Choose or roll again for your **surname**, and append "son" or "sdóttir", as you
+prefer.
 
-_e.g. Helga Runasdóttir (literally Helga, Runa's daughter)_
+_e.g. Helga Runasdóttir_
 
 **Female Names**
 
@@ -35,17 +36,17 @@ _e.g. Helga Runasdóttir (literally Helga, Runa's daughter)_
 ## 2. Ability Scores
 
 Your Abilities are:  
-**Might** - muscle power, metabolism, and endurance  
-**Grace** - precise, agile movements, and automatic reflexes  
-**Will** - composure, willpower, and acting first in a chaotic situation
+**Might** - muscle power, metabolism, & endurance  
+**Grace** - precision, agile movements, & reflexes  
+**Will** - strength of mind, composure, & acting first in a chaotic situation
 
-_see [Ability Scores](/rules/ability-scores) for more info_
+_see [Ability Scores](/rules/ability-scores)_
 
 Roll [3d6](/start-here/introduction#dice) to generate each score. Assign each
 score to whichever Ability you prefer.
 
-If your character is the child of your previous character, Keep their highest
-Ability score and generate the other two.
+If your character is the child of your previous character,  
+keep their highest Ability score and generate the other two.
 
 ## 3. Guard
 
@@ -53,7 +54,7 @@ Roll 1d6 to generate your Guard.
 
 Guard is how well you defend yourself in a fight.  
 It is depleted when you take damage, and recovers quickly.  
-_see [Guard](/rules/fighting/guard) for more info_
+_see [Guard](/rules/fighting/guard)_
 
 ## 4. Gear
 
@@ -68,10 +69,12 @@ Then:
 **OR** select a pre-defined [Kit](/character-creation/kits).
 
 Then:  
-**IF** your highest Ability score is less than 12, roll 2d10x10 for additional
-silver.  
-**IF** your Guard is **1 - 3**, gain a free piece of armour.  
-**IF** your Guard is **4 - 6**, gain a free weapon of d6 damage.
+**IF** your highest Ability score is less than 12, roll additional silver
+(2d0x10 again).  
+**IF** your Guard is **1 - 3**, gain a free piece of
+[armour](/character-creation/gear-tables#Arms--Armour).  
+**IF** your Guard is **4 - 6**, gain a free
+[d6 weapon](/character-creation/gear-tables#Arms--Armour).
 
 **Finally** you have the chance to spend your silver using the
 [Gear Tables](/character-creation/gear-tables).

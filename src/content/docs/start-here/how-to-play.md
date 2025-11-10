@@ -46,7 +46,7 @@ There are **three** kinds of dice roll we make during play.
 character attacks someone with their weapon.  
 [**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used any other
 time a character tries to avoid direct harm.  
-**Fate Rolls** (see below) are a catch-all for any other time a roll is called
+[**Fate Rolls**](#fate-roll) are a catch-all for any other time a roll is called
 for.
 
 ### Fate Roll

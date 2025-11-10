@@ -7,59 +7,60 @@ and how much harm they can **endure** before falling unconscious or dying.
 
 | Ability | Avoid Harm Using...                                            | Gets Hurt By...                                      | At 0 You Are |
 | ------- | -------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
-| Might   | muscle power, metabolism,<br />physical endurance              | physical damage                                      | dead         |
+| Might   | muscle power, metabolism,<br />physical endurance              | physical inury                                       | dead         |
 | Grace   | precision, agility,<br />automatic reflexes                    | disease, venom,<br />exposure to cold                | paralysed    |
 | Will    | composure, willpower,<br />acting first in a chaotic situation | magical, psychological, or<br />psychedellic attacks | comatose     |
 
-See [Resting & Healing](/rules/resting-and-healing) for recovering Ability Scores.
+See [Resting & Healing](/rules/resting-and-healing) for recovering Ability
+Scores.
 
 ## Rolling Abilities
 
-When the Guide asks you to roll an Ability,  
-roll **1d20** and compare the result to your score.
+Roll 1d20 and get a number **equal to or below** your score to succeed.
 
-If your score is **equal** or **higher** then you succeed.  
-If your score is **lower** then you fail.
-
-Rolling a **1** is lucky, and guarantees success.  
-Rolling a **20** is unlucky, and you fail (even if your score is 20 or higher)!
+Rolling a **1** always succeeds, a **20** always fails.
 
 ## Opposed Rolls
 
-If you're opposing another character and you're **both at risk**,  
-then you both roll the relevant Ability.
+If and your opponent are **both at risk**,  
+then you both roll.
 
-The winner is whoever succeeds by a **greater** margin,  
-or in case of a tie, whoever has the **larger score** wins.
+The winner is whoever succeeds by a **greater** margin.  
+If it's a tie, whoever has the **larger score** wins.
 
 ## Advice For The Guide
 
 Ability Rolls only happen when you call for them.  
 You have to decide three things:
 
--   Is time for a roll?
--   Which Ability?
--   What's the **difficulty & danger** of what the players are attempting?
+-   [Is time for a roll](#when-to-roll)?
+-   [Which Ability should be rolled](#which-ability-to-roll)?
+-   What's the [difficulty & danger](#difficulty--danger) of what the players
+    are attempting?
 
 Always **tell your players** what you decide,  
 so they know the stakes before they act.
 
 ### When To Roll
 
--   If there is a clear source of danger, AND
--   If the danger is neither overwhelmingly inevitable nor trivially avoidable, AND
--   If the players lack the **time**, **gear**, and **skill** required to avoid
-    it  
-    _(danger is often urgent, so time is usually lacking)_
+-   If there is a clear source of danger, **AND**
+-   If the danger is neither inevitable nor trivially avoidable, **AND**
+-   If the players lack either the **time**, **gear**, or **skill** to
+    methodically avoid it
+
+...then it is a good time to roll.
 
 ### Which Ability To Roll?
 
-This depends on the nature of the danger.
+This depends on what the player is doing to avoid the danger.  
+_The ability you roll to avoid danger does not have to_  
+_be the same ability which gets harmed by it._
 
--   If it rips, tears, or bludgeons the muscles, skeleton or organs, it's
-    **Might**.
--   If it disrupts the body's coordination or complex systems, it's **Grace**.
--   If it attacks the mind or how the victim percieves the world, it's **Will**.
+-   If they use strength, speed, or their sheer toughness to endure the harm,
+    it's **Might**.
+-   If they use precisely coordinated movements or quick reflexes, it's
+    **Grace**.
+-   If they use their force of will or concentrations, it's **Will**.
 
 ### Difficulty & Danger
 
