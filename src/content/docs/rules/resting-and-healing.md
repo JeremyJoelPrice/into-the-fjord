@@ -10,4 +10,6 @@ This leaves you vulnerable.
 [Ability Scores](/rules/ability-scores) are healed with a week of bed rest
 & the attention of a skilled healer.
 
-Some [Wounds](/rules/fighting/wounds) take longer to heal.
+[Wounded](/rules/fighting/wounds) characters recover after a full night's rest & the attention of a skilled healer, otherwise they have a Grim (-2) chance to recover on their own.
+
+[Special Wounds](/rules/fighting/wounds) heal differently.

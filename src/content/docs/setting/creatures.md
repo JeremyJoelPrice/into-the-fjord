@@ -2,6 +2,17 @@
 title: Creatures
 ---
 
+Below are some creatures you can use.
+
+Use **Will** for morale/panic during a fight.
+
+The **Honour** stat represents how honest, loyal and courageous a creature is.  
+Use it semantically, you probably won't need to roll Honour for anything. This
+is in place of a player's Reputation (to emphasise  
+how they'll actually behave rather than how they're percieved).
+
+## Creature List
+
 ### Angel
 
 > His body [...] was like the beryl,  
@@ -15,8 +26,9 @@ title: Creatures
 Matthew 28:3 – Angel at the tomb: “His countenance was like lightning, and his
 raiment white as snow.”
 
-Revelation 10:1 – “Another mighty angel” “clothed with a cloud, a rainbow was
-upon his head, his face was as it were the sun, his feet as pillars of fire.”
+Revelation 10:1 – “Another mighty angel [...] clothed with a cloud, a rainbow
+was upon his head, his face was as it were the sun, his feet as pillars of
+fire.”
 
 #### Cherubim
 
@@ -56,42 +68,66 @@ Ezekiel 1:15-21
 > those were lifted up from the earth, the wheels were lifted up over against
 > them: for the spirit of the living creature was in the wheels.
 
+### Bear
+
+##### Brown Bear
+
+	Grd:6, Mgt:15 Grc:13 Wil:5
+	claws (2d8) bite (d10)
+
+##### Polar Bear
+
+	Grd:12, Mgt:18 Grc:10 Wil:9
+	claws (2d12) bite (2d6)
+
+
 ### Exile
 
 Below are the regulars, but anyone may be found among exiles.
 
 ##### Bandit
 
-    Arm:1 Grd:6 Mgt:12 Grc:6 Wil:8 Hon:Poor
+    Arm:1 Grd:3 Mgt:12 Grc:6 Wil:8 Hon:Grim
     cudgel or faulty seax (d6), faulty helmet
 
--   robbers & ambushers
--   poor living conditions
--   cautious not to lose their companions or gear
+-   living rough & acting tough
+-   cautious not to lose companions or gear
 
 ##### Chief
 
-    Arm:1 Grd:12 Mgt:15 Grc:10 Wil:12 Hon:Bad
-    faulty axe (d8), tattered mail shirt, grooming kit
+    Arm:2 Grd:12 Mgt:14 Grc:10 Wil:12 Hon:Grim
+    faulty axe (d8), tattered mail shirt, helmet, grooming kit
+    special ability\*
 
 -   only the strong survive
 -   one bad call away from mutiny
 
+\* Every chief needs an edge on the competition:
+
+| 1d6 | special ability                        |
+| --- | -------------------------------------- |
+| 1   | dwarven weapon/relic (possibly faulty) |
+| 2   | undead                                 |
+| 3   | immune to iron & fire                  |
+| 4   | heals / regrows limbs but as plants    |
+| 5   | lycanthrope                            |
+| 6   | psychedellic poison expert             |
+
 ##### Wretch
 
-    Arm:0 Grd:2 Mgt:5 Grc:8 Wil:6 Hon:Good
+    Arm:0 Grd:1 Mgt:5 Grc:8 Wil:6 Hon:Terrible
 
 -   not cut out for this life
--   desperate for safety
+-   wants it all to end
 
-| 1d6 | Example Encounters                                                               |
-| --- | -------------------------------------------------------------------------------- |
-| 1   | Desperate & starving, they offer a single threat followed by full blown violence |
-| 2   | Threaten & intimidate, but won't fight unless necessary                          |
-| 3   | Follow the players at a distance, blatantly waiting to ambush                    |
-| 4   | Fresh from victory, they are cocky but have more to lose than to gain            |
-| 5   | Trade offer: information or a service in exchange for coin                       |
-| 6   | An exile wants to join the party                                                 |
+| 1d6 | Example Encounters                                                   |
+| --- | -------------------------------------------------------------------- |
+| 1   | Desperate & starving, they make a single threat then a sudden attack |
+| 2   | Threaten & intimidate, but rather flee than fight                    |
+| 3   | Follow the players at a distance, blatantly waiting to ambush        |
+| 4   | Fresh from victory, they are cocky but have a lot to lose            |
+| 5   | Trade offer: information or a service in exchange for coin           |
+| 6   | An exile wants to join the party                                     |
 
 | 1d6 | When Morale Fails They...                |
 | --- | ---------------------------------------- |
@@ -101,3 +137,66 @@ Below are the regulars, but anyone may be found among exiles.
 | 4   | Find something to cower behind           |
 | 5   | Grab something valuable & run away       |
 | 6   | Regroup near the leader                  |
+
+### Worm King
+
+A dead body being puppetted by 10,000 maggots.  
+They coordinate as a hive mind, and throw their eggs onto you.  
+Once hatched, the maggots burrow into your skin and slowly take control of your
+body.  
+After a week, you are completely under their control.  
+If they forget to make you eat, you die.
+
+    Arm:1 Grd:4 Mgt:12 Grc:6 Wil:12 Hon:Terrible
+    Punch (d4), throw eggs (Grc to avoid)
+
+### Draugr (Undead)
+
+A body which has died, and been reanimated.
+
+It can't be killed, or it already has been.  
+Bleeding, poisoning, suffocating and puncturing will have no effect.
+
+But it can be **compromised** by:
+
+-   breaking bones
+-   tearing tendons/ligaments
+-   removing limbs
+-   removing eyes / ears
+
+**Attacking Specific Bodyparts** is possible once its Guard reaches 0:
+
+-   Players roll damage against a chosen body part
+-   Draugr rolls Might (its Might never gets reduced by damage)
+-   If the Might roll fails, or the bodypart takes over 5 damage,  
+    it is destroyed / severed, and acts independently
+
+**Removing the head** will render the head & body separate, independent
+creatures.
+
+-   The head has a Fair (+0) chance of an intact voicebox, and can still bite.
+-   The body will continue it's previous action while trying not to get
+    destroyed,  
+    but will gradually lose coordination until it's crawling around randomly
+    grabbing thing.
+
+**Cremating** undead isn't quick or easy:
+
+-   The fire must be especially hot and stable over several hours  
+    to reduce a body to bones and ash.
+-   Building such a pyre is a specialist skill.
+-   The draugr must be held in place by binds which can withstand the fire.
+
+**Feeding** on human flesh and drinking human blood restores & heals them.
+
+-   They become alive, and regain their youth.
+-   They also take on the personality & qualities of the people they eat.
+-   Most draugr never discover that they can feed in this way.
+
+**Starvation** has the opposite effect:
+
+-   They begin to decay and whither.
+-   They gradually forget everything, even who they are.
+-   They ritualistically repeat old behaviours, to no purpose.
+-   Eventually they become inert, until some small creature wanders into their
+    mouth.

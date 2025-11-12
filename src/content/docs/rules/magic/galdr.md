@@ -2,22 +2,22 @@
 title: Galdr
 ---
 
-Galdr is the more respectable magic, often performed by warriors before
-battle.  
-Loud and confrontational, it challenges nature to submit to the will of the
-caster.
+_See [Galdr Spell List](/rules/magic/galdr-spell-list) for spells._
 
-Galdr is performed by chanting, singing, and ritual movements.  
-Performing galdr adds [Fatigue](/rules/fighting/fatigue), and you need:
+Galdr is the more respectable magic, as opposed to
+[seiðr](/rules/magic/seiðr/).  
+Performed by warriors before battle, it is loud, frenzied,  
+and challenges nature to submit to the caster.
 
--   A strong voice and a free hand
--   Concentration; if casting **quietly** or **under stress**, roll Will to
-    avoid a **misfire**
--   A [galdr staff](/character-creation/gear-tables#specialist--cultural-items),
-    or a **perfect** memorisation, of the desired spell
+Galdr is performed by chanting & singing, sometimes with ritual movements.  
+Performing galdr incurs [Fatigue](/rules/fighting/fatigue), and you need to:
 
-If you want to **change** how a spell works or extend it's effects in some
-way,  
-make an additional Will roll to avoid a misfire.
+-   use a loud voice
+-   be awake & alert, with steady footing
+-   hold a
+    [galdr staff](/character-creation/gear-tables#specialist--cultural-items),
+    or have a **perfect** memorisation, of the desired spell
 
-[Galdr Spell List](/rules/magic/galdr-spell-list).
+If you're missing any of these things,  
+or if you attempt to **change** some detail of how a spell works,  
+roll Will to avoid a **misfire**.

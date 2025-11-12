@@ -21,17 +21,7 @@ make a [Fate Roll](/start-here/how-to-play/#fate-roll) + your reputation bonus.
 -   your reputation is _undeserved_ if good or _well-deserved_ if bad
 -   you are generally suspicous and unpredictable
 
-### Reputation Isn't Fair
-
-Because honuorable conduct is expected of everyone,  
-it's easier to **lose** reputation than to **gain** it.
-
-A heroic deed will boost you by one or two points,  
-but you will lose **d4** points for:
-
--   lying
--   avoiding a fight
--   failing to avenge an insult
+Reputation is **not fair**: it's easier to lose it than to gain it!
 
 ### Gaining & Losing Reputation
 

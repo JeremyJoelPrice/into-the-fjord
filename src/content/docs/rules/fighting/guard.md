@@ -2,9 +2,8 @@
 title: Guard
 ---
 
-**Guard** represents you actively defending yourself.  
-Block, parry, dodge, and otherwise avoid a **gruesome injury**.  
-You can't get hurt unless your Guard is 0.
+**Guard** is your ability to block, dodge, and otherwise avoid an attack.  
+It is reduced by each attack, and once it reaches 0 you're in real danger.
 
 Losing Guard might look like:
 
@@ -12,9 +11,9 @@ Losing Guard might look like:
 -   an enemy forcing you back
 -   psychological pressure
 
-Your Guard is effectively 0 anytime you can't actively defend yourself.  
-Such as:
+Your Guard is effectively 0 anytime you can't actively defend yourself:
 
+-   when distracted
 -   when overencumbered
 -   when unaware of the danger that harms you  
     _(even if your guard is up with respect to some other danger)_

@@ -5,36 +5,29 @@ title: "Unit"
 A unit is anything **larger** or **more abstract** than a human,  
 but which is still treated as **one** character.
 
-Units should function like a single being,  
-like being in one place at a time,  
-and taking one action in a fight.
-
 Examples:
 
 -   a large group of NPCs
 -   a raging fire
 -   a swarm of tiny creatures
 
-Player attacks are typically
-[impaired](/rules/fighting/attacks-and-damage#special-attacks) or outright
-useless against a unit,  
- and players might need to figure out **how** to harm it before they can.
+Players usually need to figure out **how** to harm a unit effectively.  
+Attacks may be [impaired](/rules/fighting/attacks-and-damage#special-attacks) or
+outright useless until they do.
 
 Likewise, a unit's attacks are probably
-[enhanced](/rules/fighting/attacks-and-damage#special-attacks) against
-players,  
-unless there's a good reason they shouldn't be.
+[enhanced](/rules/fighting/attacks-and-damage#special-attacks) against players.
 
 ## Creating Units
 
-Units can have:
+Give your units any/all of the following, as needed:
 
--   Abilities (if they can withstand or reactively avoid harm)
--   Guard (if they can actively avoid harm)
--   Armour (if they can passively resist harm)
+-   Abilities (if they can withstand or avoid harm)
+-   Guard (if they can protect themselves)
+-   Armour (if they are resistant to damage)
 -   Damage dice (if they can inflict harm)
--   Skills
--   and anything else a regular character might have
+-   Skills (to highlight whatever they're effective at)
+-   anything else you think they need
 
 See [Creating Monsters](/rules/creating-monsters) for advice on assigning
 concrete numbers to units.

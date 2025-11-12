@@ -2,7 +2,7 @@
 title: Attacks & Damage
 ---
 
-Attacking works like this:
+When attacking a target:
 
 1. The attacker rolls their weapon's damage dice.
 
@@ -11,7 +11,7 @@ Attacking works like this:
 
 3. The remainder reduces the target's [Guard](/rules/fighting/Guard).
 
-4. When Guard is 0, the remainder reduces the target's
+4. When Guard is 0, any remainder reduces the target's
    [Might](/rules/ability-scores)  
    & they must **roll** Might using their new score.
 
@@ -35,6 +35,6 @@ _The berserker rolls Might and gets 13: he's wounded, and goes down._
     highest** roll counts
 -   **Area** attacks affect multiple targets; roll damage **separately** for
     each
--   To **disarm** or **trip** an opponent, first reduce their **Guard** to 0.  
+-   To **disarm** or **trip** an opponent, their **Guard** must be 0.  
     When you next attack them, deal no damage.  
     Instead they roll **Grace** to not fall/drop their weapon.

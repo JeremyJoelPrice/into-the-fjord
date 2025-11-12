@@ -2,17 +2,13 @@
 title: Dwarven Relics
 ---
 
-The dwarves made many wondrous gifts for the gods, most notably Thor's hammer
+The dwarves made many wondrous gifts for the gods, such as Thor's hammer
 Mjölnir.  
-More relics have been found in their abandoned halls.  
-These are highly prized, and worth a lot of silver to the right people.
+More relics have been found in their abandoned halls, and are highly prized.
 
 **Black Candle**  
-Think of a personal memory while lighting this candle;  
-all who feel its warmth feel your emotion from that memory.
-
-**Blue Candle**  
-Light this candle, and you'll feel the emotions of all who feel its warmth.
+Think of an emotional memory while lighting this candle;  
+that emotion is contagious to all who feel the heat of the flame.
 
 **Dinner Spoon**  
 Anything eaten with this humble wooden spoon will be harmless & nourishing.
@@ -21,7 +17,7 @@ Anything eaten with this humble wooden spoon will be harmless & nourishing.
 Looking through this band magnifies things.  
 Natural unsteadiness of the hand costs detail at long distances.
 
-**Feather Cloak**  
+**Feathered Cloak**  
 Wearer can take the form of an eagle.
 
 **Fixed Rope**  
@@ -56,4 +52,6 @@ This 9-sided crystal turns music into physical force.
 It opens Dwarven vaults, providing you know the right song.
 
 **Sun Mirror**  
-A hand mirror which reflects light with 9 times the intensity.
+A hand mirror which reflects light with 9 times the intensity.  
+Made for lighting undergroud halls using embers,  
+they don't reflect heat or other sun mirrors.
