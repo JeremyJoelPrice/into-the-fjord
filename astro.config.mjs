@@ -75,8 +75,8 @@ export default defineConfig({
 							slug: "rules/resting-and-healing"
 						},
 						{
-							label: "Reputation & Relationships",
-							slug: "rules/reputation-and-relationships"
+							label: "Reputation",
+							slug: "rules/reputation"
 						},
 						{ label: "Skills", slug: "rules/skills" },
 						{

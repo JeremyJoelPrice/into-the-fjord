@@ -2,36 +2,28 @@
 title: Skills
 ---
 
-A skill is anything your character can do that isn't supported by
-[normal play](/start-here/how-to-play/) because:
+-   Healing an injured ally
+-   Crafting a magical weapon
+-   Training a beast to serve you
 
--   there are no tactical decisions for the players to make
--   there are no opportunities for the players to be creative or express
-    themselves
--   the task requires domain knowledge which the players and the Guide may lack
+As a player, you can't make many tactical or creative decisions  
+when a task requires specialist knowledge & skill.
 
-Examples include:
+Instead, use a [Fate Roll](/start-here/how-to-play/#fate-roll) to see how well
+your character performs.
 
--   brewing an antidote
--   crafting a magical weapon
--   spending a few hours scavenging for food
+The bonus to your roll is probably Fair (+0) or worse, unless you have
+training.  
+_(Trained a skill is a good goal for characters to pursue)_
 
-Skills are resolved with a [Chance Roll](/start-here/how-to-play/#chance-roll).
+## Example
 
-The Guide can provide in-game opportunities to learn skills.
-
-## Example Play
-
-_Helga wants to reach an unexplored island, and avoid any pirates on the way._  
+_Helga wants to reach an island, and avoid pirates on the way._  
 _Helga is Great (+2) at sailing, and has a ship with a ready crew._
 
-_The Guide asks for a Chance Roll._  
-_She rolls 2d6 and gets a 5 on the dice._  
-_Adding the +2 bonus for her skill gets a 7._
-
-_This is below 8, so something's gone wrong!_  
-_As the island comes into view, Helga hears war drums beating,  
-and a crewmember shouts "Pirates approaching!"_
+_The Guide asks for a Fate Roll._  
+_She rolls 2d6 and gets 5, +2 for her skill makes 7: success!._  
+_Her ship arrives safely._
 
 ## Skill List
 
@@ -48,20 +40,22 @@ and a crewmember shouts "Pirates approaching!"_
 | Smithing                              |
 | Train Animal                          |
 
+This is not a complete list, because a skill can be anything.  
+The only rule is that skills are tasks which are not possible through
+[normal play](/start-here/how-to-play/) because:
+
+-   there are no tactical decisions for the players to make
+-   there are no opportunities for creativity / self-expression
+-   the task requires domain knowledge which the players & Guide may lack
+
 ## Skilled Hirelings
 
 You always have the option to hire skilled NPCs to travel with you.  
 They have some trade-offs:
 
--   They succeed without needing a Chance Roll,  
+-   PRO: They generally succeed without needing a Fate Roll,  
     unless they're in danger
--   They are generally Great (+3) at their specialty,  
-    because they're not good at much else
--   They need feeding & protecting
--   As non-combatants, their morale might fail in dangerous situations
-
-If you enjoy planning for what you'll need and managing an entourage, then use
-hirelings.  
-If you prefer to invest in one character and improve them over time, then learn
-Skills.  
-Choose or combine these approaches as you prefer.
+-   PRO: They are generally Excellent (+3) or better at their specialty  
+    _(because they're not good at much else)_
+-   CON: They need feeding & protecting
+-   CON: As non-combatants, they tend to flee from danger

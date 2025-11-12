@@ -60,7 +60,7 @@ The Guide should use their judgement to set the chance of success.
 Think about the fiction first:  
 Do the players have a _Good_ chance of finding a poison specialist in town,  
 or does it feel more like a _Fair_ chance?  
-Pick the description that resonates, and apply its bonus to the Chance Roll.
+Pick the description that resonates, and apply its bonus to the Fate Roll.
 
 | bonus | chance to succeed |
 | ----- | ----------------- |

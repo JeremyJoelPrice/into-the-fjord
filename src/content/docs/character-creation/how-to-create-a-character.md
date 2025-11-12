@@ -93,20 +93,17 @@ You may choose **one** of the following options:
 
 ## 7. Finishing Touches
 
-Give your character a Reputation of "Fair (+0)".
+Give your character a [Reputation](/rules/reputation) of "Fair (+0)",  
+unless your kit already established this.
 
 Write down a short description of your character.  
 Consider things like:
 
 -   Your physical appearance
 -   Your ambitions
--   How you normally respond to challenges
 -   Your core beliefs & loyalties
--   How ruthless vs honourable you are
 
 ## 8. Twist of Fate (Optional)
-
-A stroke of good or bad luck happened to you.
 
 If your highest Ability score is less than 10, you may roll 1d10 on the Twists
 of Fate table.  
