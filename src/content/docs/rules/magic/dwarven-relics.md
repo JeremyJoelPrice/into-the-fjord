@@ -8,7 +8,7 @@ More relics have been found in their abandoned halls, and are highly prized.
 
 **Black Candle**  
 Think of an emotional memory while lighting this candle;  
-that emotion is contagious to all who feel the heat of the flame.
+that emotion is contagious to all who feel its heat.
 
 **Dinner Spoon**  
 Anything eaten with this humble wooden spoon will be harmless & nourishing.
@@ -30,7 +30,7 @@ double the force.
 If used in still air, it will empty lungs & snuff fires.
 
 **Golden Apple**  
-When eaten, you are immediately healthy, warm & well-rested.
+When eaten, you are immediately healthy, warm, well-rested & one year younger.
 
 **Gripping Gloves**  
 Get a firm hold on the sheerest surface.
