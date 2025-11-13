@@ -15,11 +15,17 @@ When attacking a target:
    [Might](/rules/ability-scores)  
    & they must **roll** Might using their new score.
 
-**SUCCESS** means you're still standing.  
-**FAILURE** means you're [Wounded](/rules/fighting/wounds) & cannot continue
-fighting.
+**SUCCESS**  
+You're still standing, and able to keep fighting.
 
-**_Example_**  
+**FAILURE**
+
+-   You go down and cannot continue fighting.
+-   You need urgent help or there's a Poor (-1) chance you'll survive.
+-   If the attacker rolled maximum damage, you also recieve a
+    [Wound](/rules/fighting/wounds).
+
+**Example**  
 _The shieldmaiden Grimhild attacks a berserker, rolling **d8** for her sword._  
 _She rolls a 6. The berserker has 1 Armour, so 5 damage is dealt to him._  
 _The berserker's Guard is 3, so it is reduced to 0,_  
