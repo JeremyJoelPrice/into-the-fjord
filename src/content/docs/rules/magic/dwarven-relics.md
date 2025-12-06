@@ -48,8 +48,9 @@ When empty of cargo & crew, this ship folds away into your pocket.
 Strikes true & returns to your hand when thrown.
 
 **Song-Key**  
-This 9-sided crystal turns music into physical force.  
-It opens Dwarven vaults, providing you know the right song.
+This crystal captures a sound to release later as physical force.  
+Many Dwarven doors can only be opened by the correct sound  
+_(e.g. the battlecry of a Valkyrie)_
 
 **Sun Mirror**  
 A hand mirror which reflects light with 9 times the intensity.  
