@@ -49,8 +49,7 @@ Strikes true & returns to your hand when thrown.
 
 **Song-Key**  
 This crystal captures a sound to release later as physical force.  
-Many Dwarven doors can only be opened by the correct sound  
-_(e.g. the battlecry of a Valkyrie)_
+Many Dwarven doors can only be opened by the correct sound.
 
 **Sun Mirror**  
 A hand mirror which reflects light with 9 times the intensity.  
