@@ -8,10 +8,8 @@ but also volcanic eruptions, frozen tundras, and dark dangerous woods.
 
 ## Who Are The Player Characters?
 
-**Yesterday**, the players could have been anyone (jarl, thrall, warrior,
-priest, sailor, smith...),  
-but life is unfair and they were in an ultimately futile situation.  
-**Today** they break free of their old life and go adventuring instead!
+Normal people who live outside of normal society.  
+They are driven to survive, confront, and overcome the dangers of the world.
 
 ## What Adventures Can They Have?
 
