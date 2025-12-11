@@ -72,14 +72,13 @@ Ezekiel 1:15-21
 
 ##### Brown Bear
 
-	Grd:6, Mgt:15 Grc:13 Wil:5
-	claws (2d8) bite (d10)
+    Grd:6, Mgt:15 Grc:13 Wil:5
+    claws (2d8) bite (d10)
 
 ##### Polar Bear
 
-	Grd:12, Mgt:18 Grc:10 Wil:9
-	claws (2d12) bite (2d6)
-
+    Grd:12, Mgt:18 Grc:10 Wil:9
+    claws (2d12) bite (2d6)
 
 ### Exile
 
@@ -157,46 +156,36 @@ A body which has died, and been reanimated.
 It can't be killed, or it already has been.  
 Bleeding, poisoning, suffocating and puncturing will have no effect.
 
-But it can be **compromised** by:
-
--   breaking bones
--   tearing tendons/ligaments
--   removing limbs
--   removing eyes / ears
+But it still needs eyes to see, and you can hack it to pieces.
 
 **Attacking Specific Bodyparts** is possible once its Guard reaches 0:
 
 -   Players roll damage against a chosen body part
--   Draugr rolls Might (its Might never gets reduced by damage)
--   If the Might roll fails, or the bodypart takes over 5 damage,  
-    it is destroyed / severed, and acts independently
+-   Draugr rolls Might
+-   If the Might roll fails, or the bodypart has taken over 5 damage overall,  
+    it is severed and acts independently
 
-**Removing the head** will render the head & body separate, independent
-creatures.
+**Removing the head** will render the head & body as independent creatures.
 
 -   The head has a Fair (+0) chance of an intact voicebox, and can still bite.
 -   The body will continue it's previous action while trying not to get
     destroyed,  
-    but will gradually lose coordination until it's crawling around randomly
-    grabbing thing.
+    but will lose coordination until it's crawling around randomly.
 
-**Cremating** undead isn't quick or easy:
+**Cremating** undead works best, but:
 
--   The fire must be especially hot and stable over several hours  
-    to reduce a body to bones and ash.
--   Building such a pyre is a specialist skill.
--   The draugr must be held in place by binds which can withstand the fire.
+-   Building a fire consistently hot enough for several hours is a specialist
+    skill.
+-   The draugr will actively try to escape the entire time.
 
-**Feeding** on human flesh and drinking human blood restores & heals them.
+#### Behaviour
 
--   They become alive, and regain their youth.
--   They also take on the personality & qualities of the people they eat.
--   Most draugr never discover that they can feed in this way.
-
-**Starvation** has the opposite effect:
-
--   They begin to decay and whither.
--   They gradually forget everything, even who they are.
 -   They ritualistically repeat old behaviours, to no purpose.
--   Eventually they become inert, until some small creature wanders into their
-    mouth.
+-   They gradually forget everything, and physically decay.
+-   Eventually they become inert, until a snack wanders into their mouth.
+
+A draugr who **feeds** on human flesh or blood:
+
+-   Becomes addicted, and craves more.
+-   They become lucid, intelligent, and seemingly perfectly alive.
+-   They also absorb the personality & qualities of their victims.

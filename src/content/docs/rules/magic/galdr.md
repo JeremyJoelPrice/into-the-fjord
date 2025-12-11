@@ -5,11 +5,11 @@ title: Galdr
 _See [Galdr Spell List](/rules/magic/galdr-spell-list) for spells._
 
 Galdr is the more respectable magic, as opposed to
-[seiðr](/rules/magic/seiðr/).  
-Performed by warriors before battle, it is loud, frenzied,  
-and challenges nature to submit to the caster.
+[seiðr](/rules/magic/seiðr/),  
+and is mainly performed by chanting & singing.
 
-Galdr is performed by chanting & singing, sometimes with ritual movements.  
+It is loud, frenzied, and challenges nature to submit to the caster.
+
 Performing galdr incurs [Fatigue](/rules/fighting/fatigue), and you need to:
 
 -   use a loud voice
@@ -19,5 +19,5 @@ Performing galdr incurs [Fatigue](/rules/fighting/fatigue), and you need to:
     or have a **perfect** memorisation, of the desired spell
 
 If you're missing any of these things,  
-or if you attempt to **change** some detail of how a spell works,  
+or if you attempt to **change** how a spell works,  
 roll Will to avoid a **misfire**.
