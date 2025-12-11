@@ -17,58 +17,52 @@ Here are some sources of drama and conflict the players can get involved in.
 
 ###### Dwarven Megastructures
 
-Below ground lie the cathedral-like halls of _Niðavellir_, carved by the
-dwarves.  
-Guarded by automata & nameless monsters below, filled with
-[relics](/rules/magic/dwarven-relics) & artistic masterpieces.  
-The dwarves hid every entrace so they'd be undisturbed. Some say the dug all the
-way to [Hel](/setting/norðland-in-detail/#other-important-beings).
+Below ground lie the abandoned halls of _Niðavellir_.  
+Cathedral-like and filled with magical [relics](/rules/magic/dwarven-relics),
+artistic masterpieces,  
+and twisted automata made of iron and corpse-flesh.
 
 ###### Invaders
 
-The Holy Empire of Asculum wants to replace all cultures with worhsip of _The
-Light_.  
-Communities were torn apart when priests came in good faith and converted
-many.  
-Now an army of crusaders and exoricsts interrogate & baptise captives.
+Crusaders of _The Light_ want to replace all other cultures.  
+Priests came first, helping people and gently sharing their faith.  
+Now an army is here, interrogating & baptising captives.
 
 ###### Kings & Jarls
 
-The ruling class often hires mercenaries to protect settlements from existential
-threats,  
-strangers & schemers, and their own Shakespearean dramas.  
-They pay well, but it's messy politics: alliances are fragile and you often must
-choose a side.
+The ruling class often hires mercenaries to protect settlements  
+from existential threats, and their own Shakespearean dramas.  
+They pay well, but alliances are fragile and you often must choose a side.
 
-###### The Wilderness
+###### The Rot
 
-Monstrous predators prowl, savage populations target human settlements,  
-exposure, disease, toxic plants, shifting glacial plans & volcanic eruptions.  
-Nature is pressing & constant threat, which often complicates other conflicts.
+It's more than failed crops and rabid animals.  
+It's monstrous mutations, wasting diseases,  
+and a fearful hatred that infests your heart.
 
 ###### Exiles
 
-Honourless scavengers & bandits, shunned from their own communities.  
-Their leaders have some item or ability to give them an edge.  
-Desperate and unstable, they favour high-risk gambits.
+Bandits & scavengers, exiled from their own communities.  
+Desperate and unstable, they favour high-risk gambits,  
+and most would leave it behind if they had any other option.
 
 ###### Mythical Creatures
 
-Werewolves, trolls, giants, serpentine dragons, and more.  
-They act according to their nature, and usually want an easy meal or to protect
-their lair.
+The werewolf curse can spread with a bite.  
+Trolls are guardians and embodiments of natural places.  
+Giant destroy huamn settlements every time they learn of one.
 
 ###### Viking Warbands
 
-Exploring new lands for trade, raids & adventure by joining a band or starting
+Explore new lands for trade, raids & adventure by joining a band or starting
 your own.  
 Some are institutions, their members famous celebrities.  
-Experienced bands offer maps and knowledge of far lands for coin.
+Retired bands offer maps and knowledge of far lands for coin.
 
 ## What Is Society Like?
 
 Norðland is a formalised, diverse, and violent Iron Age society.  
-Here are some intuitions to make it feel distinct from generic fantasy:
+Here are some intuitions to make it feel distinct:
 
 ###### Social Structure
 
@@ -113,8 +107,7 @@ The jarl is similar to a mob boss:
 -   does **not** have the luxury of letting insults go unpunished
 
 The difference is that the jarl is usually elected,  
-adding a thin layer of ceremony that insulates society  
-from pure might-makes-right rule.
+a layer of ceremony which guards against pure might-makes-right rule.
 
 ### Code Of Honour
 
