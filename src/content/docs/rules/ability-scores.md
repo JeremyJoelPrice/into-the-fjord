@@ -16,9 +16,9 @@ Scores.
 
 ## Rolling Abilities
 
-Roll 1d20 and get a number **equal to or below** your score to succeed.
+Roll 1d20 and get a number **equal to or below** your Ability Score to succeed.
 
-Rolling a **1** always succeeds, a **20** always fails.
+A result of **1** always succeeds, a **20** always fails.
 
 ## Opposed Rolls
 

@@ -2,32 +2,21 @@
 title: How To Play
 ---
 
-One player is the **Guide**:
+One player is the **Guide**, who runs the game.  
+You are in charge of describing the game world and interpreting the rules.
 
--   Provide a scenario to play
--   Describe the dangers & hazards which oppose the players
--   Adjudicate based on what's fun, what's reasonable,  
-    and what the rules say
+Everyone else
+[creates a character](/character-creation/how-to-create-a-character) to play.  
+Your characters work together as a team to achieve their goals.
 
-Everyone else plays a character:
-
--   Your characters all know each other, and work together as a team
--   Your job is to answer the Guide's question: "What do you do?"
--   See
-    [How To Create A Character](/character-creation/how-to-create-a-character)
-
-**Normal play** is a conversation which goes like this:
+**Normal play** is a conversation:
 
 -   The Guide describes the situation, and asks: _"What do you do?"_
--   You can ask the Guide questions, and receive helpful answers
--   Tell the Guide what you do; you are now committed
+-   The players ponder, discuss & ask questions
+-   Players tell the Guide what they do
 -   The Guide might ask you to roll some dice
--   Finally, the Guide describes the outcome of your actions,  
+-   The Guide describes the outcome of your actions,  
     how the situation has changed, and then it's back to: _"What do you do?"_
-
-The Guide will develop a knack for **montages**:  
-Briefly describe the quiet times, resuming normal play when things get
-interesting.
 
 _See [Example Of Play](/start-here/example-of-play)._
 
@@ -35,39 +24,54 @@ _See [Example Of Play](/start-here/example-of-play)._
 
 We use dice to represent uncertainty, chaos, and luck in the shared fictional
 world.  
-The terminology is straightforward:
+**1d6** means roll one six-sided die. Likewise **2d6**, **1d8**, etc.
 
--   "2d6" means two 6-sided dice are rolled and added together
--   Likewise 3d6, 2d8, d20 (short for "1d20") etc.
+There are **three** kinds of roll:
 
-There are **three** kinds of dice roll we make during play.
-
-[**Damage Rolls**](/rules/fighting/attacks-and-damage/) are used when a
-character attacks someone with their weapon.  
-[**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used any other
-time a character tries to avoid direct harm.  
-[**Fate Rolls**](#fate-roll) are a catch-all for any other time a roll is called
-for.
+1. [**Damage Rolls**](/rules/fighting/attacks-and-damage/) are used when you
+   attack someone with your weapon.
+2. [**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used to
+   avoid harm in hazardous situations.
+3. [**Fate Rolls**](#fate-roll) are used in every other case (see below).
 
 ### Fate Roll
 
--   roll 2d6 + a **bonus**
--   7 or higher **succeeds**
--   below 7 either **fails**, or succeeds at a **cost** (Guide's choice)
--   if both dice match, the result is **extreme**
+-   Roll 2d6, trying to get a 7 or higher to succeed.
+-   If both dice match, the result is **extreme**.
+-   Failure can also mean success at a cost, Guide's choice.
 
-The Guide should use their judgement to set the chance of success.  
-Think about the fiction first:  
-Do the players have a _Good_ chance of finding a poison specialist in town,  
+#### How To Use Fate Rolls
+
+It's common and normal for the Guide to make impromptu dice rolls  
+to answer questions both dramatic and mundane.
+
+It helps to avoid bias and decision fatigue,  
+and this is the niche Fate Rolls fill.
+
+The Guide sets the chance of success by choosing a **bonus** (see below).
+
+Does it feel like the players have a _Good_ chance of succeed,  
 or does it feel more like a _Fair_ chance?  
-Pick the description that resonates, and apply its bonus to the Fate Roll.
+Pick the description that resonates, and use its bonus.
 
-| bonus | chance to succeed |
-| ----- | ----------------- |
-| +3    | Excellent (92%)   |
-| +2    | Great (83%)       |
-| +1    | Good (72%)        |
-| 0     | Fair (58%)        |
-| -1    | Poor (42%)        |
-| -2    | Grim (28%)        |
-| -3    | Terrible (17%)    |
+| bonus          | chance of success |
+| -------------- | ----------------- |
+| Excellent (+3) | 92%               |
+| Great (+2)     | 83%               |
+| Good (+1)      | 72%               |
+| Fair (+0)      | 58%               |
+| Poor (-1)      | 42%               |
+| Grim (-2)      | 28%               |
+| Terrible (-3)  | 17%               |
+
+_if the player is rolling a skill they're trained in,_  
+_they'll already have their bonus written on the character sheet._
+
+#### Example
+
+Helga wants to reach an island, and avoid pirates on the way.  
+Helga is Great (+2) at sailing, and has a ship with a ready crew.
+
+The Guide asks for a Fate Roll.  
+She rolls 2d6 and gets 5, +2 for her skill makes 7: success!.  
+Her ship arrives safely.
