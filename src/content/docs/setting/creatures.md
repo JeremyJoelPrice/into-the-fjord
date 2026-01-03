@@ -174,8 +174,8 @@ But it still needs eyes to see, and you can hack it to pieces.
 
 **Cremating** undead works best, but:
 
--   Building a fire consistently hot enough for several hours is a specialist
-    skill.
+-   Building a fire consistently hot enough for several hours requires special
+    training.
 -   The draugr will actively try to escape the entire time.
 
 #### Behaviour
