@@ -62,8 +62,12 @@ class CharacterGenerator extends HTMLElement {
 			return Math.floor(Math.random() * 6) + 1;
 		};
 
-		const chooseFrom = (table) => {
-			return table[Math.floor(Math.random() * table.length)];
+		const chooseFrom = (table, limit) => {
+			return table[
+				Math.floor(
+					limit ? Math.random() * limit : Math.random() * table.length
+				)
+			];
 		};
 
 		const generateName = () => {
@@ -202,7 +206,13 @@ class CharacterGenerator extends HTMLElement {
 			character.gear = gear;
 			character.reputation = reputation;
 			character.gift = gift;
-			character.twist = chooseFrom(twists);
+			let limit;
+			if (
+				Math.max(character.might, character.grace, character.will) < 11
+			) {
+				limit = 10;
+			}
+			character.twist = chooseFrom(twists, limit);
 			if (character.twist.includes("Poor (-1)"))
 				character.reputation = "Poor (-1)";
 			if (character.twist.includes("Great (+3)"))

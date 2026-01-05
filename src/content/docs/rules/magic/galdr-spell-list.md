@@ -22,7 +22,7 @@ Roll 2d6, taking one die as the 10s column.
 | 32  | Elf’s Empathy        | Communicate with plants & animals for 9 hours.                                                                                                                   |
 | 33  | Fish                 | You gain gills, webbed digits, and tolerance for ice-cold water. You lose your lungs. Lasts 9 minutes.                                                           |
 | 34  | Hard Hands           | Your hands become d10 weapons for 9 minutes.                                                                                                                     |
-| 35  | Identity             | Create a new name & reputation you’ve never had before. For an hour, everybody recognises this identity.                                                         |
+| 35  | Identity             | Create a new name & reputation you’ve never had before. For 9 hours, everybody recognises this identity.                                                         |
 | 36  | Loki’s Laughter      | Force another magic user to misfire.                                                                                                                             |
 | 41  | Loki’s Lure          | A sound you can hear seems to come from somewhere else.                                                                                                          |
 | 42  | Lift                 | Gently move the next thing you touch as if it weighed almost nothing. Structures may not hold together.                                                          |

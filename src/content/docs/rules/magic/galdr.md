@@ -12,12 +12,12 @@ It is loud, frenzied, and challenges nature to submit to the caster.
 
 Performing galdr incurs [Fatigue](/rules/fighting/fatigue), and you need to:
 
--   use a loud voice
--   be awake & alert, with steady footing
+-   use a loud voice **AND**
+-   be awake & alert, with steady footing **AND**
 -   hold a
     [galdr staff](/character-creation/gear-tables#specialist--cultural-items),
     or have a **perfect** memorisation, of the desired spell
 
-If you're missing any of these things,  
-or if you attempt to **change** how a spell works,  
+If you're missing any of these,  
+or if you want to **change** how a spell works,  
 roll Will to avoid a **misfire**.

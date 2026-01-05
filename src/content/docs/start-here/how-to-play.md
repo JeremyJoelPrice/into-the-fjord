@@ -18,12 +18,11 @@ Your characters work together as a team to achieve their goals.
 -   The Guide describes the outcome of your actions,  
     how the situation has changed, and then it's back to: _"What do you do?"_
 
-_See [Example Of Play](/start-here/example-of-play)._
+TODO: example of play
 
 ## Rolling Dice
 
-We use dice to represent uncertainty, chaos, and luck in the shared fictional
-world.  
+We use dice to represent uncertainty, chaos, and luck in the fictional world.  
 **1d6** means roll one six-sided die. Likewise **2d6**, **1d8**, etc.
 
 There are **three** kinds of roll:
@@ -32,7 +31,8 @@ There are **three** kinds of roll:
    attack someone with your weapon.
 2. [**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used to
    avoid harm in hazardous situations.
-3. [**Fate Rolls**](#fate-roll) are used in every other case (see below).
+3. [**Fate Rolls**](#fate-roll) are used at the Guide's discretion to  
+   resolve any question fairly.
 
 ### Fate Roll
 
@@ -40,17 +40,9 @@ There are **three** kinds of roll:
 -   If both dice match, the result is **extreme**.
 -   Failure can also mean success at a cost, Guide's choice.
 
-#### How To Use Fate Rolls
-
-It's common and normal for the Guide to make impromptu dice rolls  
-to answer questions both dramatic and mundane.
-
-It helps to avoid bias and decision fatigue,  
-and this is the niche Fate Rolls fill.
-
 The Guide sets the chance of success by choosing a **bonus** (see below).
 
-Does it feel like the players have a _Good_ chance of succeed,  
+Does it feel like the players have a _Good_ chance of succeess,  
 or does it feel more like a _Fair_ chance?  
 Pick the description that resonates, and use its bonus.
 
@@ -64,7 +56,7 @@ Pick the description that resonates, and use its bonus.
 | Grim (-2)      | 28%               |
 | Terrible (-3)  | 17%               |
 
-_if the player is rolling a skill they're trained in,_  
+_If the player is rolling for a skill they're trained in,_  
 _they'll already have their bonus written on the character sheet._
 
 #### Example

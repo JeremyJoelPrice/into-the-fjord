@@ -4,14 +4,14 @@ title: Attacks & Damage
 
 When attacking a target:
 
-1. The attacker rolls their weapon's damage dice.
+1. Attacker rolls their weapon's dice to get their **damage**.
 
-2. The target subtract's their [Armour](/rules/fighting/armour) from this
-   amount.
+2. Target subtracts their [Armour](/rules/fighting/armour) from the damage.
 
-3. The remainder reduces the target's [Guard](/rules/fighting/Guard).
+3. Target subtracts their [Guard](/rules/fighting/Guard) from the remaining
+   damage.
 
-4. When Guard is 0, any remainder reduces the target's
+4. When their Guard is 0, any remaining damage reduces the target's
    [Might](/rules/ability-scores)  
    & they must **roll** Might using their new score.
 
@@ -21,16 +21,17 @@ You're still standing, and able to keep fighting.
 **FAILURE**
 
 -   You go down and cannot continue fighting.
--   You need urgent help or there's a Poor (-1) chance you'll survive.
+-   You need urgent help, otherwise there's a Poor (-1) chance you'll survive.
 -   If the attacker rolled maximum damage, you also recieve a
     [Wound](/rules/fighting/wounds).
 
 **Example**  
 _The shieldmaiden Grimhild attacks a berserker, rolling **d8** for her sword._  
-_She rolls a 6. The berserker has 1 Armour, so 5 damage is dealt to him._  
-_The berserker's Guard is 3, so it is reduced to 0,_  
-_and the remaining 2 reduced his Might from 14 to 12._  
-_The berserker rolls Might and gets 13: he's wounded, and goes down._
+_She rolls a **6**. The berserker has 1 Armour, so **5** damage is dealt to
+him._  
+_The berserker's Guard is 3, now reduced to 0,_  
+_and the remaining **2** reduced his Might from 14 to 12._  
+_The enemy rolls Might and gets 13: he's hurt and goes down._
 
 ## Special Attacks
 
@@ -42,5 +43,5 @@ _The berserker rolls Might and gets 13: he's wounded, and goes down._
 -   **Area** attacks affect multiple targets; roll damage **separately** for
     each
 -   To **disarm** or **trip** an opponent, their **Guard** must be 0.  
-    When you next attack them, deal no damage.  
-    Instead they roll **Grace** to not fall/drop their weapon.
+    Then, use your action to force them to make a Grace roll.  
+    On failure they fall, or drop their weaopn nearby.

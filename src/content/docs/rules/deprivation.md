@@ -7,18 +7,20 @@ A character is **Deprived** if a crucial need is not met:
 -   hunger & thirst
 -   warmth
 -   rest
--   an addiction or magical compulsion
+-   any addictions or magical compulsions the suffer from
 
 Deprived characters do not benefit from any
-[Resting & Healing](/rules/resting-and-healing).
+[Resting & Healing](/rules/resting-and-healing),  
+until their crucial need is met again.
 
-The rules below add even more urgency to your basic survival needs.
+## Optional Survival Rules
 
-## Food, Water & Rest
+For those who prefer urgency and consequences tied to basic survival needs.
+
+### Food, Water & Rest
 
 Everybody needs **food**, **water**, and **rest**.  
-Without them you suffer escalating [Fatigue](/rules/fatigue).  
-Here's how that works:
+If you lack any one of them, you suffer escalating [Fatigue](/rules/fatigue):
 
 |          |            |
 | -------- | ---------- |
@@ -37,7 +39,7 @@ When you cannot take any more Fatigue, you take damage to your
 | Water | 1 litre or 4 [seal bladders](/character-creation/gear#outdoor-survival) | 1d6 Grace damage |
 | Rest  | 8 hours of rest, 4 of which must be unbroken sleep                      | 1d6 Will damage  |
 
-## Exposure
+### Exposure
 
 Going out in the bitter cold can be deadly.
 
@@ -54,4 +56,5 @@ Going out in the bitter cold can be deadly.
 If you're wet or undressed, it counts as one **colder**.  
 If you have a winter cloak, it counts as one **warmer**.
 
-Mild temperatures (10º - 20ª) won't harm you, but won't help if you're already deprived.
+Mild temperatures (10º - 20ª) won't harm you, but won't help if you're already
+deprived.

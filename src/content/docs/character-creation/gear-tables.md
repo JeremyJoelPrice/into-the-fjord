@@ -78,13 +78,15 @@ Items sell for **half** the listed price.
 
 ## Herbal / Medicinal
 
-| **item**        | **notes**                                                              | **price** |
-| --------------- | ---------------------------------------------------------------------- | --------- |
-| Berserker Leaf  | empowered attacks<br />immune to fire<br />roll WIL to avoid addiction | 20        |
-| Grooming Kit    |                                                                        | 15        |
-| Incense         | aids relaxation & focus                                                | 10        |
-| Mortar & Pestle |                                                                        | 15        |
-| Purifying Herbs |                                                                        | 10        |
+| **item**                              | **notes**                                                                                                                                                                      | **price** |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
+| Berserker Leaf                        | empowered attacks<br />immune to fire<br />roll Will to avoid addiction                                                                                                        | 20        |
+| Grooming Gear                         |                                                                                                                                                                                | 15        |
+| Incense                               | aids relaxation & focus                                                                                                                                                        | 10        |
+| Mortar & Pestle                       |                                                                                                                                                                                | 15        |
+| Purifying Herbs                       |                                                                                                                                                                                | 10        |
+| Sample Gathering Gear                 | sheers, tweezers, pouches & vials                                                                                                                                              | 10        |
+| Trance Plant <br /> (1-3 in a bundle) | Chew & swallow this pungent leaf to alter your consciousness.<br />You may have visions you can't explain.<br />After 1 hour you become lucid & gain [Fatigue](/rules/fatigue) | 5         |
 
 ## Hirelings & Services
 
@@ -125,54 +127,53 @@ Items sell for **half** the listed price.
 
 ## Outdoor Survival
 
-| **item**           | **notes**                                                                      | **price** |
-| ------------------ | ------------------------------------------------------------------------------ | --------- |
-| Bedding            | hides & woollen blankets, lets you benefit from bedrest away from civilisation | 2         |
-| Camouflage Cloak   |                                                                                | 15        |
-| Cooking Pot        | 6l capacity                                                                    | 3         |
-| Fishing Net        |                                                                                | 15        |
-| Fishing Rod        |                                                                                | 15        |
-| Kindling Box       | 3 uses                                                                         | 1         |
-| Seal Bladder       | water tight, 0.5L capacity                                                     | 15        |
-| Seasoned Firewood  | bulky, burns in any weather and produces no smoke                              | 5         |
-| Snow Shoes         |                                                                                | 15        |
-| Skis               |                                                                                | 20        |
-| Tinderbox          | weightless, contains flint, pyrite & fungus                                    | -         |
-| Trap (Bear)        | bulky                                                                          | 20        |
-| Trap (Snare)       |                                                                                | 10        |
-| Tent               | bulky, fits 2 people                                                           | 10        |
-| Trail Rations (x3) |                                                                                | 3         |
-| Walking Staff      |                                                                                | 5         |
-| Winter Cloak       | protects from [exposure](/rules/deprivation#exposure)                          | 15        |
+| **item**          | **notes**                                                                      | **price** |
+| ----------------- | ------------------------------------------------------------------------------ | --------- |
+| Bedding           | hides & woollen blankets, lets you benefit from bedrest away from civilisation | 2         |
+| Camouflage Cloak  |                                                                                | 15        |
+| Cooking Pot       | 6l capacity                                                                    | 3         |
+| Fishing Net       |                                                                                | 15        |
+| Fishing Rod       |                                                                                | 15        |
+| Kindling Box      | 3 uses                                                                         | 1         |
+| Seal Bladder      | water tight, 0.5L capacity                                                     | 15        |
+| Seasoned Firewood | bulky, burns in any weather and produces no smoke                              | 5         |
+| Snow Shoes        |                                                                                | 15        |
+| Skis              |                                                                                | 20        |
+| Tinderbox         | weightless, contains flint, pyrite & fungus                                    | -         |
+| Trap (Bear)       | bulky                                                                          | 20        |
+| Trap (Snare)      |                                                                                | 10        |
+| Tent              | bulky, fits 2 people                                                           | 10        |
+| Trail Rations     | 3 per bundle                                                                   | 3         |
+| Walking Staff     |                                                                                | 5         |
+| Winter Cloak      | protects from [exposure](/rules/deprivation#exposure)                          | 15        |
 
 ## Specialist & Cultural Items
 
-| **item**                      | **notes**                                                            | **price**                                   |
-| ----------------------------- | -------------------------------------------------------------------- | ------------------------------------------- |
-| Armring                       | for swearing loyalty, weightless                                     | 100                                         |
-| Book of Bird Songs            | to join their gossiping                                              | 30                                          |
-| Book of Kennings              | for powerful poetry                                                  | 30                                          |
-| Book of Runes                 | for seiðr magic                                                      | 150                                         |
-| Candle                        | weightless                                                           | 2                                           |
-| Ceremonial Dagger             |                                                                      | 25                                          |
-| Chastity Ring                 | weightless                                                           | 2                                           |
-| Clothes, Common               | weightless if worn                                                   | 3                                           |
-| Clothes, Noble                | weightless if worn                                                   | 110                                         |
-| Clothes, Ragged               | weightless if worn                                                   | 1                                           |
-| Dwarven Song-Key              |                                                                      | 40                                          |
-| Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/galdr-spell-list) | 80 (random spell) <br /> 180 (chosen spell) |
-| Hand Drum                     | for dancing                                                          | 3                                           |
-| Holy Symbol of The Light      | weightless                                                           | 2                                           |
-| Hornpipe                      | for popular tunes                                                    | 3                                           |
-| Hourglass                     |                                                                      | 120                                         |
-| Jar of Fireflies              | reveals Elf doings                                                   | 2                                           |
-| Jeweller’s Tools              |                                                                      | 100                                         |
-| Lens                          |                                                                      | 50                                          |
-| Lute                          | for sophisticated ballads                                            | 80                                          |
-| Quill & Ink                   | weightless                                                           | 40                                          |
-| Scales & Weights              |                                                                      | 20                                          |
-| Sickle & Tweezers             | for gathering alchemical samples                                     | 10                                          |
-| Sunstone & Navigation Scrolls |                                                                      | 15                                          |
+| **item**                      | **notes**                                                                                                                                | **price**                                   |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| Armring                       | for swearing loyalty, weightless                                                                                                         | 100                                         |
+| Book of Bird Songs            | to join their gossiping                                                                                                                  | 30                                          |
+| Book of Kennings              | for powerful poetry                                                                                                                      | 30                                          |
+| Candle                        | weightless                                                                                                                               | 2                                           |
+| Ceremonial Dagger             | 1d4 damage                                                                                                                               | 25                                          |
+| Chastity Ring                 | weightless                                                                                                                               | 2                                           |
+| Clothes, Common               | weightless if worn                                                                                                                       | 3                                           |
+| Clothes, Noble                | weightless if worn                                                                                                                       | 110                                         |
+| Clothes, Ragged               | weightless if worn                                                                                                                       | 1                                           |
+| Coinpurse                     | weightless unless full (holds 100 coins)                                                                                                 | -                                           |
+| Dwarven Song-Key              | see [Relics](/rules/magic/dwarven-relics/). Roll on the [table](rules/magic/dwarven-relics/#random-song-key-contents) for a random sound | 120                                         |
+| Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/galdr-spell-list)                                                                     | 80 (random spell) <br /> 180 (chosen spell) |
+| Hand Drum                     | for dancing                                                                                                                              | 3                                           |
+| Holy Symbol of The Light      | weightless                                                                                                                               | 2                                           |
+| Hornpipe                      | for popular tunes                                                                                                                        | 3                                           |
+| Hourglass                     |                                                                                                                                          | 120                                         |
+| Jar of Fireflies              | reveals Elf doings                                                                                                                       | 2                                           |
+| Jeweller’s Tools              |                                                                                                                                          | 100                                         |
+| Lens                          |                                                                                                                                          | 50                                          |
+| Lute                          | for sophisticated ballads                                                                                                                | 80                                          |
+| Quill & Ink                   | weightless                                                                                                                               | 40                                          |
+| Scales & Weights              |                                                                                                                                          | 20                                          |
+| Sunstone & Navigation Scrolls |                                                                                                                                          | 15                                          |
 
 ## Tools & Ironwork
 

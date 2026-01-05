@@ -108,7 +108,7 @@ Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 -   staff
 -   ceremonial dagger
 -   chisel
--   sickle & tweezers
+-   sample gathering kit
 -   book of runes
 -   2x black candle
 

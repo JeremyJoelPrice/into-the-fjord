@@ -18,21 +18,19 @@ Instead, the Guide is encouraged to use seiðr:
 
 ## Prophecy
 
-The player characters can learn this ability.
+To speak a prophecy, first take a dose of
+[Trance Plant](/character-creation/gear-tables/#herbal--medicinal).
 
--   it incurs [Fatigue](/rules/fighting/fatigue)
--   it takes an hour's ritual to perform
-
-Compose a multiple-choice or yes/no question for the Guide to truthfully
+Then, compose a multiple-choice or yes/no question for the Guide to truthfully
 answer.  
 It must be:
 
--   About the near future, but not the outcome of a battle (for that is Odin's
+-   About the near future, but not the outcome of a conflict (for that is Odin's
     domain)
 -   Simple (no "ands", "buts", or run-on sentences)
 -   Vague (no names, numbers or exactitudes)
 
-Examples:
+Example prophetic questions:
 
 -   "does our host have ill intent towards us?"
 -   "if we approach the bandits, will they attack us immediately?"

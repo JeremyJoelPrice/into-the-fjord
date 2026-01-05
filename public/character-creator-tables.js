@@ -45,9 +45,8 @@ export const maleNames = [
 ];
 
 export const skills = [
+	"Alchemy/Herbalism",
 	"Fine Crafts (jewellery & lock making)",
-	"Healing",
-	"Herbalism",
 	"Hunting & Trapping",
 	"Navigation/Wayfinding",
 	"Poetry/Music",
@@ -356,7 +355,7 @@ export const kits = [
 	},
 	{
 		name: "Herbalist",
-		gift: "Great (+2) at Healing/Herbalism",
+		gift: "Great (+2) at Alchemy/Herbalism",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
@@ -364,7 +363,7 @@ export const kits = [
 			"mortar & pestle",
 			"cooking pot",
 			"staff",
-			"sickle & tweezers",
+			"sample gathering kit",
 			"bedding"
 		]
 	},
@@ -456,8 +455,8 @@ export const kits = [
 			"staff",
 			"ceremonial dagger",
 			"chisel",
-			"sickle & tweezers",
-			"book of runes",
+			"sample gathering kit",
+			"2x trance plant",
 			"2x black candle"
 		]
 	},
@@ -498,7 +497,7 @@ export const twists = [
 	"you have a hunchback where mushrooms grow",
 	"you have a large crab claw for a hand (works like a shield, but people hate it)",
 	"you have bark-like skin (brittle, flammable & ugly)",
-	"you are illiterate & unable to speak a second language",
+	"you are illiterate & unable to learn a second language",
 	"your clan has chosen you as the next human sacrifice",
 	"you've had nightmares ever since a seiðkona cursed you"
 ];

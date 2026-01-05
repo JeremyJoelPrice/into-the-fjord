@@ -23,10 +23,6 @@ export default defineConfig({
 							slug: "start-here/how-to-play"
 						},
 						{
-							label: "Example Of Play",
-							slug: "start-here/example-of-play"
-						},
-						{
 							label: "Philosophy & Playstyle",
 							slug: "start-here/philosophy"
 						}

@@ -82,11 +82,11 @@ Then:
 ## 5. Gift
 
 Your character is gifted in some way.  
-You may choose one of the following options:
+You may choose **one** of the following options:
 
--   Roll or choose a **Skill**;, then write it on your character sheet with a
-    "Great (+2)" next to it
--   A companion: a raven or a thrall or something else
+-   Roll or choose a [Skill](/rules/skills), then write it on your character
+    sheet with a "Great (+2)" next to it
+-   A companion: a raven, a thrall (servant), etc.
 -   2 random
     [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
 -   The power of [Prophecy](/rules/magic/seiðr#prophecy)
@@ -101,12 +101,12 @@ Consider things like:
 
 -   Your physical appearance
 -   Your ambitions
--   Your core beliefs & loyalties
+-   Your beliefs & loyalties
 
 ## 8. Twist of Fate (Optional)
 
-If your highest Ability score is less than 10, you may roll 1d10 on the Twists
-of Fate table.  
+If your highest Ability score is less than 11, you may roll 1d10 on the table
+below.  
 Otherwise, roll 1d20.
 
 |     | Twists of Fate                                                                  |
@@ -128,6 +128,6 @@ Otherwise, roll 1d20.
 | 15  | you have a hunchback where mushrooms grow                                       |
 | 16  | you have a large crab claw for a hand (works like a shield, but people hate it) |
 | 17  | you have bark-like skin (brittle, flammable & ugly)                             |
-| 18  | you are illiterate & unable to speak a second language                          |
+| 18  | you are illiterate & unable to learn a second language                          |
 | 19  | your clan has chosen you as the next human sacrifice                            |
-| 20  | you've had nightmares ever since a seiðkona cursed you                          |
+| 20  | A Valkyrie has chosen you, and is on her way to collect your corpse             |

@@ -2,21 +2,17 @@
 title: Skills
 ---
 
-Sometimes there are no tactical or creative decisions for a player to make.  
-Success is just a matter of your character's knowledge and ability:
+Sometimes success is just a matter of your character's knowledge and ability,  
+and there are no **tactical** or **creative** decisions for a player to make.
 
--   Healing an injured ally
--   Crafting a magical weapon
--   Training a beast to serve you
-
-Instead, use a [Fate Roll](/start-here/how-to-play/#fate-roll) to see how well
-your character performs.
+Use a [Fate Roll](/start-here/how-to-play/#fate-roll) to see how well your
+character performs in such cases.
 
 | Some Example Skills                   |
 | ------------------------------------- |
+| Alchemy/Herbalism                     |
 | Fine Crafts (jewellery & lock making) |
 | Healing                               |
-| Herbalism                             |
 | Hunting & Trapping                    |
 | Navigation & Wayfinding               |
 | Poetry & Music                        |

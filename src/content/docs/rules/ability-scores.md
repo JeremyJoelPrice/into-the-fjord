@@ -2,14 +2,14 @@
 title: Ability Scores
 ---
 
-Your character's Ability Scores represent how well they **avoid** harm,  
-and how much harm they can **endure** before falling unconscious or dying.
+Your Ability Scores represent how well you **avoid** harm,  
+and how much you can **endure** before falling unconscious or dying.
 
-| Ability | Avoid Harm Using...                                            | Gets Hurt By...                                      | At 0 You Are |
-| ------- | -------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
-| Might   | muscle power, metabolism,<br />physical endurance              | physical inury                                       | dead         |
-| Grace   | precision, agility,<br />automatic reflexes                    | disease, venom,<br />exposure to cold                | paralysed    |
-| Will    | composure, willpower,<br />acting first in a chaotic situation | magical, psychological, or<br />psychedellic attacks | comatose     |
+| Ability | Avoid Harm Using...                                                 | Gets Hurt By...                                      | At 0 You Are |
+| ------- | ------------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
+| Might   | muscle power, metabolism,<br />physical endurance                   | physical inury                                       | dead         |
+| Grace   | precision, agility,<br />automatic reflexes                         | disease, venom,<br />exposure to cold                | paralysed    |
+| Will    | mental clarity, willpower,<br />acting first in a chaotic situation | magical, psychological, or<br />psychedellic attacks | comatose     |
 
 See [Resting & Healing](/rules/resting-and-healing) for recovering Ability
 Scores.
@@ -26,7 +26,7 @@ If and your opponent are **both at risk**,
 then you both roll.
 
 The winner is whoever succeeds by a **greater** margin.  
-If it's a tie, whoever has the **larger score** wins.
+If it's a tie, the **larger score** wins.
 
 ## Advice For The Guide
 
@@ -39,52 +39,41 @@ You have to decide three things:
     are attempting?
 
 Always **tell your players** what you decide,  
-so they know the stakes before they act.
+so they know the stakes **before they act**.
 
 ### When To Roll
 
--   If there is a clear source of danger, **AND**
--   If the danger is neither inevitable nor trivially avoidable, **AND**
--   If the players lack either the **time**, **gear**, or **skill** to
-    methodically avoid it
+-   If there is a risk of direct harm **OR**
+-   If there is a risk of the situation becoming even more dangerous **OR**
+-   If the players lack the **time**, **gear**, or **skill** to methodically
+    achieve their goal
 
-...then it is a good time to roll.
+...then it is a good time to roll!
 
-### Which Ability To Roll?
-
-This depends on what the player is doing to avoid the danger.  
-_The ability you roll to avoid danger does not have to_  
-_be the same ability which gets harmed by it._
-
--   If they use strength, speed, or their sheer toughness to endure the harm,
-    it's **Might**.
--   If they use precisely coordinated movements or quick reflexes, it's
-    **Grace**.
--   If they use their force of will or concentrations, it's **Will**.
+Use the table above to determine which Ability to roll,  
+and which Ability takes the harm.
 
 ### Difficulty & Danger
 
 The more **difficult** a task is, the **less you achieve** when you succeed.  
 The more **dangerous** a task is, the **more it costs** when you fail.
 
-This is crucial for the Guide to understand, so consider the following example.
-
----
+#### Example
 
 Three players want to climb a **treacherous cliffside**.
 
--   The **difficulty** is the size of the cliff, and how climbable its face is
+-   The **difficulty** is the size & scalability of the cliff
 -   The **danger** is getting injured by falling
 
 Suppose the players are able-bodied & have climbing gear,  
-but are forced to rush because there are enemies nearby.
+but are hurrying because there are enemy soldiers nearby.
 
 -   One enemy is at the top of the cliff, and pours **oil** down onto Player A
 -   A second enemy waits below with a spear, ready to **impale** Player B if
     they fall
--   Player C wears a pair of **spiked boots**, to make climbing easier
+-   Player C wears a pair of **spiked boots**, to make climbing faster & easier
 
-Here's one way you might handle this as the Guide:
+The Guide might handle it like this:
 
 **PLAYER A** is covered in oil. This makes the climb more **difficult**, but not
 more **dangerous**.  

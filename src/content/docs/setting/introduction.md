@@ -4,12 +4,12 @@ title: Introduction
 
 **Norðland** is a fictional fantasy Iceland where survival is tough.  
 Sweeping fjords, hot springs, & lush valleys,  
-but also volcanic eruptions, frozen tundras, and dark dangerous woods.
+but also volcanic eruptions, frozen tundras, and mysterious woods.
 
 ## Who Are The Player Characters?
 
-Normal people who live outside of normal society.  
-They are driven to survive, confront, and overcome the dangers of the world.
+Normal people who live outside of normal societal roles.  
+Damaged & out of options, they make a final push for glory & victory.
 
 ## What Adventures Can They Have?
 
@@ -36,21 +36,21 @@ They pay well, but alliances are fragile and you often must choose a side.
 
 ###### The Rot
 
-It's more than failed crops and rabid animals.  
-It's monstrous mutations, wasting diseases,  
-and a fearful hatred that infests your heart.
+It's failed crops and rabid animals.  
+It's monstrous mutations, wasting diseases.  
+It's a fearful hatred that infests hearts & minds.
 
 ###### Exiles
 
 Bandits & scavengers, exiled from their own communities.  
 Desperate and unstable, they favour high-risk gambits,  
-and most would leave it behind if they had any other option.
+and most would leave it behind if they had another option.
 
 ###### Mythical Creatures
 
 The werewolf curse can spread with a bite.  
 Trolls are guardians and embodiments of natural places.  
-Giant destroy huamn settlements every time they learn of one.
+Giants destroy huamn settlements every time they learn of one.
 
 ###### Viking Warbands
 
@@ -62,12 +62,13 @@ Retired bands offer maps and knowledge of far lands for coin.
 ## What Is Society Like?
 
 Norðland is a formalised, diverse, and violent Iron Age society.  
-Here are some intuitions to make it feel distinct:
+Here are some intuitions to make it feel distinct from other times & places:
 
-###### Social Structure
+###### Clan As The Social Unit
 
--   The family, or clan, is the social unit, and most settlements have a single
-    ruling clan
+-   Their family, or clan, is a central part of a person's identity &
+    reputation.  
+    Most settlements have a single ruling clan
 -   Social classes:
     -   **Jarls** are the wealthy class, with "The Jarl" being the ruler of a
         settlement
@@ -79,7 +80,8 @@ Here are some intuitions to make it feel distinct:
 ###### Individuals Over Institutions
 
 -   People are loyal to a ruler, not "the crown" or "the country".
--   No taverns: people drink & socialise at each other's homes.
+-   No taverns: people drink & socialise at
+    [each other's homes](#show-hospitality).
 -   Trades are practiced by families, not guilds.
 
 ###### No Bureaucracy
@@ -98,6 +100,15 @@ Here are some intuitions to make it feel distinct:
 -   Writing is intimate & informal; used for graffiti, memorials, and magic
     rituals.
 
+###### Legal Violence vs Informal Peacekeeping
+
+-   Insults should be repaid in blood
+-   Holmgangs (duels) can settle legal matters
+-   Fearsome warriors can act with impunity, since few challenge them
+
+In practice, however, most folks want peace & order,  
+and would rather pretend an insult wasn't truly meant that way.
+
 ###### Gangster-Style Politics
 
 The jarl is similar to a mob boss:
@@ -106,12 +117,14 @@ The jarl is similar to a mob boss:
 -   uses diplomacy to avoid full-blown blood feuds
 -   does **not** have the luxury of letting insults go unpunished
 
-The difference is that the jarl is usually elected,  
-a layer of ceremony which guards against pure might-makes-right rule.
-
 ### Code Of Honour
 
 Everyone is held to this code.
+
+###### Show Hospitality
+
+-   provide food & shelter to someone who asks for it
+-   good guests arrive with a token gift, and never stay too long
 
 ###### Don't Be A Coward
 
@@ -125,8 +138,3 @@ Everyone is held to this code.
 -   be careful challenging those of a different social status:
     -   Punching up is bold but risky; you might be dismissed as arrogant
     -   Punching down is safe but shameful; you might be seen as a bully
-
-###### Show Hospitality
-
--   provide food & shelter to someone who asks for it
--   good guests arrive with a token gift, and never stay too long

@@ -11,8 +11,8 @@ Examples:
 -   a raging fire
 -   a swarm of tiny creatures
 
-Players usually need to figure out **how** to harm a unit effectively.  
-Attacks may be [impaired](/rules/fighting/attacks-and-damage#special-attacks) or
+Players usually need to figure out **how** to harm a unit effectively;  
+attacks may be [impaired](/rules/fighting/attacks-and-damage#special-attacks) or
 outright useless until they do.
 
 Likewise, a unit's attacks are probably
@@ -20,14 +20,11 @@ Likewise, a unit's attacks are probably
 
 ## Creating Units
 
-Give your units any/all of the following, as needed:
+Give your units any or all of the following, as needed:
 
 -   Abilities (if they can withstand or avoid harm)
 -   Guard (if they can protect themselves)
 -   Armour (if they are resistant to damage)
 -   Damage dice (if they can inflict harm)
 -   Skills (to highlight whatever they're effective at)
--   anything else you think they need
-
-See [Creating Monsters](/rules/creating-monsters) for advice on assigning
-concrete numbers to units.
+-   Any special or unique abilities

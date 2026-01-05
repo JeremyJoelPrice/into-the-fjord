@@ -6,9 +6,16 @@ None of this is necessary to run the game.
 
 ## History of Norðland
 
-Most people arrived here after fleeing from the tyrant King Harald Shockhead.  
-The volcanic ashlands and frost-bitten tundras make most parts uninhabitable,  
-but the free people settled where they could find farmable land.
+Most people arrived here after fleeing from the tyrant King Stormcrown,  
+settling wherever they could between the volcanic ashlands and the frost-bitten
+tundras.
+
+After some years of exploration, priests of _The Light_ arrived, followed by a
+holy army of crusaders.  
+They are actively invading, forcing coversions and destabilising alliances
+between settlements.
+
+Today people either defend their home, or sail in search of somewhere new.
 
 ## Religion & Mythology
 
@@ -55,7 +62,7 @@ Yggdrasil, the World Tree.
 ## Beyond Norðland
 
 To the south there are 9 warring kingdoms.  
-The _City of Asculum_ is the seat of the church,  
-and spreads faith in The Light with tithes paid by these kingdoms.
+The _City of Light_ is the seat of the church,  
+and spreads faith in _The Light_ with tithes paid by these kingdoms.
 
 There are many more lands not yet discovered...

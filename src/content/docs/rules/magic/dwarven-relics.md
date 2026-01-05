@@ -55,3 +55,14 @@ Many Dwarven doors can only be opened by the correct sound.
 A hand mirror which reflects light with 9 times the intensity.  
 Made for lighting undergroud halls using embers,  
 they don't reflect heat or other sun mirrors.
+
+## Random Song-Key Contents
+
+| 1d6 | Song-Key Sound                                        | Physical Effect                                                                        |
+| --- | ----------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1   | Nothing; can be used to capture any sound             | -                                                                                      |
+| 2   | A dragon's shriek                                     | Defeans, maybe permantently                                                            |
+| 3   | Mjölnir striking down a giant                         | Can knock down a wall                                                                  |
+| 4   | A random [Galdr Spell](/rules/magic/galdr-spell-list) | Sends bodies flying & casts the spell on everything nearby                             |
+| 5   | A valkyrie's battle-cry                               | Rush of strong wind                                                                    |
+| 6   | A troll's pained roar                                 | The ground tremors like an earthquake, nearby plants & animals turn feral & aggressive |
