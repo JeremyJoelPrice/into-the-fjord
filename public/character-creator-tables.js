@@ -482,7 +482,7 @@ export const d6Weapons = ["cudgel", "seax", "staff", "bow"];
 export const twists = [
 	"you gain or improve a Skill of your choice",
 	"you can hold your breath for an hour & talk to fish",
-	"a famous ancestor gives you a Great (+3) reputation",
+	"a famous ancestor gives you an Excellent (+3) reputation",
 	"you have an intelligent raven",
 	"you are immune to cold",
 	"you are immune to poison & ageing",
