@@ -113,7 +113,7 @@ Otherwise, roll 1d20.
 | --- | ------------------------------------------------------------------------------- |
 | 1   | you gain or improve a Skill of your choice                                      |
 | 2   | you can hold your breath for an hour & talk to fish                             |
-| 3   | a famous ancestor gives you a Great (+3) reputation                             |
+| 3   | a famous ancestor gives you an Excellent (+3) reputation                             |
 | 4   | you have an intelligent raven                                                   |
 | 5   | you are immune to cold                                                          |
 | 6   | you are immune to poison & ageing                                               |
