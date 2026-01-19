@@ -35,18 +35,17 @@ _e.g. Helga Runasdóttir_
 
 ## 2. Ability Scores
 
-Your Abilities are:  
 **Might** - muscle power, metabolism, & endurance  
 **Grace** - precision, agile movements, & reflexes  
 **Will** - strength of mind, composure, & acting first in a chaotic situation
 
-_see [Ability Scores](/rules/ability-scores)_
-
-Roll [3d6](/start-here/introduction#dice) to generate each score. Assign each
-score to whichever Ability you prefer.
+Roll [3d6](/start-here/introduction#dice) to generate each score.  
+Assign each score to whichever Ability you prefer.
 
 If your character is the child of your previous character,  
 keep their highest Ability score and generate the other two.
+
+_see [Ability Scores](/rules/ability-scores)_
 
 ## 3. Guard
 
@@ -60,9 +59,9 @@ _see [Guard](/rules/fighting/guard)_
 
 Every character starts with:
 
--   50 silver pieces (weightless)
--   3 trail rations (1 slot)
--   1 torch (1 slot)
+- 50 silver pieces (weightless)
+- 3 trail rations (1 slot)
+- 1 torch (1 slot)
 
 Then:  
 **EITHER** roll 2d10x10 for additional silver,  
@@ -84,12 +83,12 @@ Then:
 Your character is gifted in some way.  
 You may choose **one** of the following options:
 
--   Roll or choose a [Skill](/rules/skills), then write it on your character
-    sheet with a "Great (+2)" next to it
--   A companion: a raven, a thrall (servant), etc.
--   2 random
-    [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
--   The power of [Prophecy](/rules/magic/seiðr#prophecy)
+- Roll or choose a [Skill](/rules/skills), then write it on your character sheet
+  with a "Great (+2)" next to it
+- A companion: a raven, a thrall (servant), etc.
+- 2 random
+  [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
+- The power of [Prophecy](/rules/magic/seiðr#prophecy)
 
 ## 7. Finishing Touches
 
@@ -99,9 +98,9 @@ unless your kit already established this.
 Write down a short description of your character.  
 Consider things like:
 
--   Your physical appearance
--   Your ambitions
--   Your beliefs & loyalties
+- Your physical appearance
+- Your ambitions
+- Your beliefs & loyalties
 
 ## 8. Twist of Fate (Optional)
 
@@ -113,7 +112,7 @@ Otherwise, roll 1d20.
 | --- | ------------------------------------------------------------------------------- |
 | 1   | you gain or improve a Skill of your choice                                      |
 | 2   | you can hold your breath for an hour & talk to fish                             |
-| 3   | a famous ancestor gives you an Excellent (+3) reputation                             |
+| 3   | a famous ancestor gives you an Excellent (+3) reputation                        |
 | 4   | you have an intelligent raven                                                   |
 | 5   | you are immune to cold                                                          |
 | 6   | you are immune to poison & ageing                                               |
