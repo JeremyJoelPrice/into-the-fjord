@@ -75,6 +75,7 @@ export default defineConfig({
 							slug: "rules/reputation"
 						},
 						{ label: "Skills", slug: "rules/skills" },
+						{ label: "Exposure", slug: "rules/exposure" },
 						{
 							label: "Fighting",
 							items: [
