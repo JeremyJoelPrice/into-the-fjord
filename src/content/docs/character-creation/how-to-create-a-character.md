@@ -65,11 +65,11 @@ Every character starts with:
 
 Then:  
 **EITHER** roll 2d10x10 for additional silver,  
-**OR** select a pre-defined [Kit](/character-creation/kits).
+**OR** select a pre-defined [background](/character-creation/backgrounds).
 
 Then:  
 **IF** your highest Ability score is less than 12, roll additional silver
-(2d0x10 again).  
+(2d10x10 again).  
 **IF** your Guard is **1 - 3**, gain a free piece of
 [armour](/character-creation/gear-tables#Arms--Armour).  
 **IF** your Guard is **4 - 6**, gain a free

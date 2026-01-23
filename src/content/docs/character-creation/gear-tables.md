@@ -2,128 +2,141 @@
 title: Gear Tables
 ---
 
-**Faulty** items cost 1d4 silver & might break anytime.  
-Items sell for **half** the listed price.
+- **bulky**: takes 2 slots
+- **weightless**: takes 0 slots
+- **bundle**: takes 1 slot but can fit more items in that slot (e.g. trail
+  rations 3 per bundle)
+- **faulty** items cost 1d4 silver & have a Fair (+0) chance to break after each
+  use.
 
 ## Arms & Armour
 
-| **d6 Weapons**     | **notes**                            | **price** |
-| ------------------ | ------------------------------------ | --------- |
-| Cudgel             |                                      | 5         |
-| Seax               | combat knife                         | 30        |
-| Staff              |                                      | 5         |
-| **d8 Weapons**     |                                      |           |
-| Axe                |                                      | 50        |
-| Spear              |                                      | 50        |
-| Sword              |                                      | 300       |
-| **d10 Weapons**    |                                      |           |
-| Dane Axe           | bulky                                | 70        |
-| Greatsword         |                                      | 500       |
-| **Ranged Weapons** |                                      |           |
-| Bow                | d6, bulky                            | 50        |
-| Crossbow           | d8, bulky, slow reload               | 100       |
-| Sling              | d4, d8 with lead bullets, weightless | 4         |
-| **Armour**         |                                      |           |
-| Mail Shirt         | 1 Armour                             | 100       |
-| Helmet             | 1 Armour                             | 10        |
-| Shield             | 1 Armour                             | 10        |
-| **Ammo**           |                                      |           |
-| Lead Bullets       | 20 shots                             | 6         |
+| **d6 Weapons**     | **notes**                              | **price** |
+| ------------------ | -------------------------------------- | --------- |
+| Cudgel             |                                        | 5         |
+| Seax               | combat knife                           | 30        |
+| Staff              |                                        | 5         |
+| **d8 Weapons**     |                                        |           |
+| Axe                |                                        | 50        |
+| Spear              |                                        | 50        |
+| Sword              |                                        | 300       |
+| **d10 Weapons**    |                                        |           |
+| Dane Axe           | _bulky_                                | 70        |
+| Greatsword         |                                        | 500       |
+| **Ranged Weapons** |                                        |           |
+| Bow                | d6, _bulky_                            | 50        |
+| Crossbow           | d8, _bulky_, slow reload               | 100       |
+| Sling              | d4, d8 with lead bullets, _weightless_ | 4         |
+| **Armour**         |                                        |           |
+| Mail Shirt         | 1 Armour                               | 100       |
+| Helmet             | 1 Armour                               | 10        |
+| Shield             | 1 Armour                               | 10        |
+| **Ammo**           |                                        |           |
+| Lead Bullets       | 20 shots                               | 6         |
 
 ## Expeditionary Gear
 
-| **item**        | **notes**                                | **price** |
-| --------------- | ---------------------------------------- | --------- |
-| Battering Ram   | _bulky_<br><br>wooden log with iron head | 100       |
-| Birch Tar       | sticky & flammable, lots of black smoke  | 4         |
-| Grappling Hook  |                                          | 20        |
-| Ladder (10ft)   | bulky                                    | 4         |
-| Lantern         | burns for an hour                        | 10        |
-| Mirror          | polished iron                            | 4         |
-| Pig Tallow      | slippery, greasy, melts before it burns  | 2         |
-| Rope (25ft)     |                                          | 10        |
-| Signalling Horn |                                          | 4         |
-| Spike           |                                          | 8         |
-| Spiked Boots    |                                          | 15        |
-| Torch           | burns for an hour                        | 1         |
-| Waxed Pouch     | waterproof                               | 10        |
-| Whale Oil       | flammable oil used in lanterns, 3 uses   | 4         |
+| **item**        | **notes**                                      | **price** |
+| --------------- | ---------------------------------------------- | --------- |
+| Battering Ram   | wooden log with iron head<br />_bulky_         | 100       |
+| Birch Tar       | sticky & flammable, lots of black smoke        | 4         |
+| Grappling Hook  |                                                | 20        |
+| Ladder (10ft)   | _bulky_                                        | 4         |
+| Lantern         | burns for an hour                              | 10        |
+| Mirror          | polished iron                                  | 4         |
+| Pig Tallow      | slippery, greasy, melts before it burns        | 2         |
+| Powdered Dye    | colours smoke, liquids etc. <br />_weightless_ | 10        |
+| Rope (25ft)     |                                                | 10        |
+| Signalling Horn |                                                | 4         |
+| Spike           |                                                | 8         |
+| Spiked Boots    |                                                | 15        |
+| Torch           | burns for an hour                              | 1         |
+| Waxed Pouch     | waterproof container                           | 10        |
+| Whale Oil       | flammable oil, used in lanterns (3 uses)       | 4         |
 
 ## Farmsteads
 
-| **item**                   | **notes**                                | **price** |
-| -------------------------- | ---------------------------------------- | --------- |
-| Bull                       |                                          | 100       |
-| Chicken                    |                                          | 4         |
-| Cow                        |                                          | 20        |
-| Derelict House             |                                          | 15        |
-| Goat                       |                                          | 10        |
-| Horse                      |                                          | 20        |
-| House (one room)           |                                          | 80        |
-| Jarl’s Longhouse           |                                          | 3000      |
-| Large House with Enclosure | large enough to grow a few herbs         | 500       |
-| Large Field                | produces enough to build a little wealth | 300       |
-| Pig                        |                                          | 10        |
-| Small Field                | produces enough to be self sufficient    | 75        |
+| **item**                  | **notes**                                                                                                           | **price** |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------- |
+| House, Derelict           | barely a shack                                                                                                      | 15        |
+| House, Small              | packed earth & logs, no locking door,<br />homes a small family with a few animals                                  | 80        |
+| House, Large              | timber structure with a thatched roof,<br />homes a family with servents, animals, and a small garden to grow herbs | 200       |
+| Large House with Workshop | includes an area to make & sell your wares                                                                          | 300       |
+| Jarl’s Longhouse          | grand structure with a tiled roof, homes a large family with servents, guest rooms,<br />and stockpiled food        | 3000      |
+| Ring Fortress             | contains several longhouses, homes a few hundred people, fortified against invaders                                 | 20000     |
+| Field, Small              | no profit, feeds 2 workers & a small family                                                                         | 75        |
+| Field, Large              | profit: 8 silver per week, feeds 5 workers & a large family                                                         | 300       |
+| Bull                      |                                                                                                                     | 100       |
+| Chicken                   |                                                                                                                     | 4         |
+| Cow                       |                                                                                                                     | 20        |
+| Goat                      |                                                                                                                     | 10        |
+| Horse                     |                                                                                                                     | 20        |
+| Pig                       |                                                                                                                     | 10        |
 
 ## Food & Lodging
 
-| **item**         | **notes**                                         | **price per person** |
-| ---------------- | ------------------------------------------------- | -------------------- |
-| Honoured Guest   | stay in the longhouse under the Jarl's protection | 50                   |
-| House Guest      | real bed, ale & a proper meal                     | 4                    |
-| Low-Status Guest | straw on the floor & a cup of water               | 1                    |
-| Bag of Flour     |                                                   | 2                    |
-| Ale              |                                                   | 1                    |
+| **item**              | **notes**                                         | **price per person** |
+| --------------------- | ------------------------------------------------- | -------------------- |
+| Honoured Guest        | stay in the longhouse under the Jarl's protection | 50                   |
+| House Guest           | bed, ale & a meal                                 | 4                    |
+| Low-Status Guest      | straw on the floor, some water & scraps of food   | 1                    |
+| Ale                   |                                                   | 1                    |
+| Bag of Flour          |                                                   | 2                    |
+| Bladder of Breadflour |                                                   | 1                    |
+| Hard Cheese           |                                                   | 1                    |
+| Reindeer Jerky        |                                                   | 1                    |
 
 ## Herbal / Medicinal
 
-| **item**                              | **notes**                                                                                                                                                                      | **price** |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
-| Berserker Leaf                        | empowered attacks<br />immune to fire<br />roll Will to avoid addiction                                                                                                        | 20        |
-| Grooming Gear                         |                                                                                                                                                                                | 15        |
-| Incense                               | aids relaxation & focus                                                                                                                                                        | 10        |
-| Mortar & Pestle                       |                                                                                                                                                                                | 15        |
-| Purifying Herbs                       |                                                                                                                                                                                | 10        |
-| Sample Gathering Gear                 | sheers, tweezers, pouches & vials                                                                                                                                              | 10        |
-| Trance Plant <br /> (1-3 in a bundle) | Chew & swallow this pungent leaf to alter your consciousness.<br />You may have visions you can't explain.<br />After 1 hour you become lucid & gain [Fatigue](/rules/fatigue) | 5         |
+| **item**                          | **notes**                                                                                                   | **price** |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------- |
+| Grooming Kit                      | make a better impression on others                                                                          | 15        |
+| Mortar & Pestle                   | enables an alchemist to prepare mixtures                                                                    | 15        |
+| Sampling Kit                      | sheers, tweezers, pouches & vials                                                                           | 10        |
+| Dwarf Nettle                      | fights disease and infection                                                                                | 3         |
+| Fly Agaric <br /> _3 per bundle_  | You may have visions you can't explain.<br />After 1 hour you become lucid & gain [Fatigue](/rules/fatigue) | 5         |
+| Henbane mixture<br />_weightless_ | armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1d4 hours, then gain Fatigue    | 5         |
+| Incense                           | aids relaxation & focus                                                                                     | 10        |
 
 ## Hirelings & Services
 
-| **item**            | **notes**                       | hire per week            | **apprenticeship<br>or one-off task** |
-| ------------------- | ------------------------------- | ------------------------ | ------------------------------------- |
-| Berserker           |                                 | 60                       | 500                                   |
-| Craftsman           | carpenter, smith, etc.          | 20                       | 100                                   |
-| Duellist            |                                 | -                        | 100                                   |
-| Healer              |                                 | 5                        | 20                                    |
-| Herbalist           |                                 | 5                        | 20                                    |
-| Hunter/Tracker      |                                 | 8                        | 20                                    |
-| Mercenary           |                                 | 20                       | 100                                   |
-| Mercenary (Draugr)  | hard to find                    | 60                       | 500                                   |
-| Mercenary (Exiled)  | opportunistic, less trustworthy | 2                        | 5                                     |
-| Priest of The Light |                                 | 30                       | 100                                   |
-| Sailor              |                                 | 4                        | 20                                    |
-| Seiðr               | hard to find                    | 25                       | 100                                   |
-| Thrall (feeble)     | only 2 slots                    | pay once to hire forever | 1                                     |
-| Thrall (healthy)    |                                 | 1                        | 4                                     |
-| Traveller/Navigator |                                 | 6                        | 20                                    |
-| Wanderer/Loremaster |                                 | 3                        | 20                                    |
-| Werewolf            | hard to find                    | 120                      | 500                                   |
+| **item**            | **notes**                            | **price**  |
+| ------------------- | ------------------------------------ | ---------- |
+| Berserker           |                                      | 6 per day  |
+| Craftsman           | carpenter, smith, etc.               | 4 per day  |
+| Duellist            |                                      | 6 per day  |
+| Healer              |                                      | 4 per day  |
+| Herbalist           |                                      | 4 per day  |
+| Housecarl           | warrior, poet, negotiator            | 5 per day  |
+| Hunter/Tracker      |                                      | 4 per day  |
+| Mercenary           |                                      | 6 per day  |
+| Mercenary, draugr   | hard to find                         | 10 per day |
+| Mercenary, exiled   | opportunistic,<br />less trustworthy | 4 per day  |
+| Priest of The Light |                                      | 5 per day  |
+| Sailor              |                                      | 4 per day  |
+| Seiðr               | hard to find                         | 5 per day  |
+| Thrall              |                                      | 2 per day  |
+| Thrall, feeble      | 5 gear slots, generally poor health  | 1 per day  |
+| Traveller/Navigator |                                      | 4 per day  |
+| Wanderer/Loremaster |                                      | 4 per day  |
+| Werewolf            | hard to find                         | 10 per day |
 
 ## Hounds, Mounts & Vehicles
 
-| **item**                      | **notes**                                                 | **price** |
-| ----------------------------- | --------------------------------------------------------- | --------- |
-| Battle-Ready Horse (+2 slots) |                                                           | 100       |
-| Cart (+8 slots, slow)         |                                                           | 10        |
-| Hound, mutt                   | Just a Good (+1) dog                                      | 5         |
-| Hound, hunting                | Great (+2) at tracking & circling prey                    | 20        |
-| Hound, herding                | Great (+2) at complex tasks, can work without supervision | 15        |
-| Hound, sled                   | 4 gear slots, can pull heavy loads                        | 20        |
-| Hound, wolfdog                | Larg, loyal and protective to the end                     | 45        |
-| Pack Mule (+6 slots), slow    |                                                           | 15        |
-| Sled, small                   | Carries 2 people, 4 gear slots, pulled by 1 sled hound    | 30        |
-| Sled, large                   | Carries 4 people, 20 gear slots, pulled by 4 sled hounds  | 75        |
+| **item**              | **notes**                                                 | **price** |
+| --------------------- | --------------------------------------------------------- | --------- |
+| Cart, horse-drawn     | +8 slots, slow                                            | 10        |
+| Cart, hand            | +6 slots, slow, _bulky_                                   | 5         |
+| Horse                 |                                                           | 40        |
+| Horse, battle-trained | Doesn't panic during battle                               | 100       |
+| Hound, mutt           | Just a good dog                                           | 3         |
+| Hound, hunting        | Great (+2) at tracking & circling prey                    | 20        |
+| Hound, herding        | Great (+2) at complex tasks, can work without supervision | 15        |
+| Hound, sled           | 4 gear slots, can pull heavy loads                        | 20        |
+| Hound, wolfdog        | As big & dangerous as a wolf, loyal to the end            | 45        |
+| Pack Mule             | 6 gear slots, slow                                        | 15        |
+| Sled, small           | 2 passengers, 4 gear slots, pulled by 1 sled hound        | 30        |
+| Sled, large           | 4 passengers, 20 gear slots, pulled by 4 sled hounds      | 75        |
 
 ## Outdoor Survival
 
@@ -136,14 +149,14 @@ Items sell for **half** the listed price.
 | Fishing Rod       |                                                                                | 15        |
 | Kindling Box      | 3 uses                                                                         | 1         |
 | Seal Bladder      | water tight, 0.5L capacity                                                     | 15        |
-| Seasoned Firewood | bulky, burns in any weather and produces no smoke                              | 5         |
+| Seasoned Firewood | burns in any weather and produces no smoke<br />_bulky_                        | 5         |
 | Snow Shoes        |                                                                                | 15        |
 | Skis              |                                                                                | 20        |
-| Tinderbox         | weightless, contains flint, pyrite & fungus                                    | -         |
-| Trap (Bear)       | bulky                                                                          | 20        |
-| Trap (Snare)      |                                                                                | 10        |
-| Tent              | bulky, fits 2 people                                                           | 10        |
-| Trail Rations     | 3 per bundle                                                                   | 3         |
+| Tinderbox         | _weightless_, contains flint, pyrite & fungus                                  | -         |
+| Trap, bear        | _bulky_                                                                        | 20        |
+| Trap, snare       |                                                                                | 10        |
+| Tent              | fits 2 people<br />_bulky_                                                     | 10        |
+| Trail Rations     | reindeer jerky, hard cheese & dense bread<br />_3 per bundle_                  | 2         |
 | Walking Staff     |                                                                                | 5         |
 | Winter Cloak      | protects from [exposure](/rules/deprivation#exposure)                          | 15        |
 
@@ -151,27 +164,27 @@ Items sell for **half** the listed price.
 
 | **item**                      | **notes**                                                                                                                                | **price**                                   |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| Armring                       | for swearing loyalty, weightless                                                                                                         | 100                                         |
+| Armring                       | for swearing loyalty<br /> _weightless_                                                                                                  | 50                                          |
 | Book of Bird Songs            | to join their gossiping                                                                                                                  | 30                                          |
 | Book of Kennings              | for powerful poetry                                                                                                                      | 30                                          |
-| Candle                        | weightless                                                                                                                               | 2                                           |
-| Ceremonial Dagger             | 1d4 damage                                                                                                                               | 25                                          |
-| Chastity Ring                 | weightless                                                                                                                               | 2                                           |
-| Clothes, Common               | weightless if worn                                                                                                                       | 3                                           |
-| Clothes, Noble                | weightless if worn                                                                                                                       | 110                                         |
-| Clothes, Ragged               | weightless if worn                                                                                                                       | 1                                           |
-| Coinpurse                     | weightless unless full (holds 100 coins)                                                                                                 | -                                           |
+| Candle                        | _weightless_                                                                                                                             | 2                                           |
+| Ceremonial Dagger             |                                                                                                                                          | 25                                          |
+| Chastity Ring                 | symbolises purity in the southern kingdoms<br />_weightless_                                                                             | 2                                           |
+| Clothes, Common               | _weightless_ if worn                                                                                                                     | 3                                           |
+| Clothes, Noble                | _weightless_ if worn                                                                                                                     | 110                                         |
+| Clothes, Ragged               | _weightless_ if worn                                                                                                                     | 1                                           |
+| Coinpurse                     | _weightless_ unless full (holds 100 coins)                                                                                               | -                                           |
 | Dwarven Song-Key              | see [Relics](/rules/magic/dwarven-relics/). Roll on the [table](rules/magic/dwarven-relics/#random-song-key-contents) for a random sound | 120                                         |
 | Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/galdr-spell-list)                                                                     | 80 (random spell) <br /> 180 (chosen spell) |
 | Hand Drum                     | for dancing                                                                                                                              | 3                                           |
-| Holy Symbol of The Light      | weightless                                                                                                                               | 2                                           |
+| Holy Symbol of The Light      | _weightless_                                                                                                                             | 2                                           |
 | Hornpipe                      | for popular tunes                                                                                                                        | 3                                           |
 | Hourglass                     |                                                                                                                                          | 120                                         |
 | Jar of Fireflies              | reveals Elf doings                                                                                                                       | 2                                           |
 | Jeweller’s Tools              |                                                                                                                                          | 100                                         |
 | Lens                          |                                                                                                                                          | 50                                          |
 | Lute                          | for sophisticated ballads                                                                                                                | 80                                          |
-| Quill & Ink                   | weightless                                                                                                                               | 40                                          |
+| Quill & Ink                   | _weightless_                                                                                                                             | 40                                          |
 | Scales & Weights              |                                                                                                                                          | 20                                          |
 | Sunstone & Navigation Scrolls |                                                                                                                                          | 15                                          |
 

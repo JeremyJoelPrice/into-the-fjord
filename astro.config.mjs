@@ -37,8 +37,8 @@ export default defineConfig({
 							slug: "character-creation/how-to-create-a-character"
 						},
 						{
-							label: "Kits",
-							slug: "character-creation/kits"
+							label: "Backgrounds",
+							slug: "character-creation/backgrounds"
 						},
 						{
 							label: "Gear Tables",
