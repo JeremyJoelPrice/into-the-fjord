@@ -140,7 +140,7 @@ Below are the regulars, but anyone may be found among exiles.
 
 ### Giants
 
-Giants destroy human settlements whenever they learn of one.  
+Giants destroy human settlements whenever they learn of one.
 
     Arm:3 Grd:6 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
     fists or boulder (3d12, area)
@@ -150,12 +150,11 @@ Giants destroy human settlements whenever they learn of one.
 
 ### Maggot King
 
-A dead body being puppetted by 10,000 maggots.  
-They coordinate as a hive mind, and throw their eggs onto you.  
-Once hatched, the maggots burrow into your skin and slowly take control of your
-body.  
-After a week, you are completely under their control.  
-If they forget to make you eat, you die.
+A dead body being puppetted by a hivemind of 10,000 maggots.
 
     Arm:1 Grd:4 Mgt:12 Grc:6 Wil:12 Hon:Terr (-3)
     Punch (d4), throw eggs (Grc to avoid)
+
+- thrown eggs stick to skin & hair
+- they hatch in moments & start burrowing
+- over the next 48 hours, they gradually take control of the victims' body
