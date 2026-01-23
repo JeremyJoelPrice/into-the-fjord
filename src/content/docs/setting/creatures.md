@@ -7,8 +7,8 @@ Below are some creatures you can use.
 Roll **Will** when a creature might panic/lose morale in a fight,  
 for example:
 
--   when one of them goes down
--   when they start losing the fight
+- when one of them goes down
+- when they start losing the fight
 
 **Honour** represents how honest, loyal and courageous a creature is.  
 Rolled when a creature is offered a choice, such as taking a bribe.  
@@ -25,8 +25,59 @@ Rolled when a creature is offered a choice, such as taking a bribe.
 
 ##### Polar Bear
 
-    Arm:1 Grd:12, Mgt:18 Grc:10 Wil:9 Hon:Poor (-1)
+    Arm:1 Grd:12 Mgt:18 Grc:10 Wil:9 Hon:Poor (-1)
     claws (2d12) bite (2d6)
+
+### Draugr (Undead)
+
+A body which has died, and been reanimated.
+
+**Mindless Draugr**
+
+    Arm:1 Grd:3 Mgt:15 Grc:5 Wil:- Hon:n/a
+    fists (1d6), faulty axe (d6), faulty helmet
+
+**Lucid Draugr Warrior**
+
+    Arm:2 Grd:6 Mgt:16 Grc:9 Wil:10 Hon:Grim (-2)
+    fists (1d6), axe (d6), helmet, shield
+
+It can't be killed, for it is already dead.  
+Bleeding, poisoning, suffocating and puncturing will have no effect.
+
+**Attacking Specific Bodyparts** is possible once its Guard reaches 0:
+
+- Players roll damage against a chosen body part
+- If the Draugr fails a **Might** roll, or the bodypart has taken **5 damage**
+  overall,  
+  it is severed or destroyed
+
+**Removing the head** will render the head & body as independent creatures.
+
+- The head has a Fair (+0) chance of an intact voicebox, and can still bite.
+- The body will continue it's previous action while trying not to get destroyed.
+
+**Cremating** undead works best, but:
+
+- Building a fire consistently hot enough for several hours requires special
+  training.
+- The draugr will actively try to escape the entire time.
+
+#### Behaviour
+
+- They ritualistically repeat old behaviours, to no purpose.
+- They gradually forget everything, and physically decay.
+- Eventually they become inert, until a snack wanders into their mouth.
+
+A draugr who **feeds** on human flesh or blood:
+
+- Becomes addicted, and craves more.
+- They become lucid, intelligent and self-aware.
+- They absorb the personality & qualities of their victims.
+- Assuming their victim has a moral compass, they inherit this and are horrified
+  by themselves.  
+  Many opt to starve themselves back to mindlessness, and can get trapped in
+  this loop forever.
 
 ### Exile
 
@@ -37,8 +88,8 @@ Below are the regulars, but anyone may be found among exiles.
     Arm:1 Grd:3 Mgt:12 Grc:6 Wil:8 Hon:Grim (-2)
     cudgel or faulty seax (d6), faulty helmet
 
--   living rough & acting tough
--   cautious not to lose companions or gear
+- living rough & acting tough
+- cautious not to lose companions or gear
 
 ##### Chief
 
@@ -46,8 +97,8 @@ Below are the regulars, but anyone may be found among exiles.
     faulty axe (d8), tattered mail shirt, helmet, grooming kit
     special ability\*
 
--   only the strong survive
--   one bad call away from mutiny
+- only the strong survive
+- one bad call away from mutiny
 
 \* Every chief needs an edge on the competition:
 
@@ -64,8 +115,8 @@ Below are the regulars, but anyone may be found among exiles.
 
     Arm:0 Grd:1 Mgt:5 Grc:8 Wil:6 Hon:Terr (-3)
 
--   not cut out for this life
--   wants it all to end
+- not cut out for this life
+- wants it all to end
 
 ##### Tables
 
@@ -89,11 +140,15 @@ Below are the regulars, but anyone may be found among exiles.
 
 ### Giants
 
-TODO
+Giants destroy human settlements whenever they learn of one.  
 
-Giants destroy human settlements whenever they learn of one.
+    Arm:3 Grd:6 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
+    fists or boulder (3d12, area)
 
-### Worm King
+- Solitary, can be mistaken for part of a mountain.
+- Their rocky skin is impervious to normal weapons.
+
+### Maggot King
 
 A dead body being puppetted by 10,000 maggots.  
 They coordinate as a hive mind, and throw their eggs onto you.  
@@ -104,55 +159,3 @@ If they forget to make you eat, you die.
 
     Arm:1 Grd:4 Mgt:12 Grc:6 Wil:12 Hon:Terr (-3)
     Punch (d4), throw eggs (Grc to avoid)
-
-### Draugr (Undead)
-
-A body which has died, and been reanimated.
-
-**Mindless Draugr**
-
-    Arm:1 Grd:3 Mgt:15 Grc:5 Wil:- Hon:n/a
-    fists (1d6), faulty axe (d6), faulty helmet
-
-**Lucid Draugr Warrior**
-
-    Arm:2 Grd:6 Mgt:16 Grc:9 Wil:10 Hon:Grim (-2)
-    fists (1d6), axe (d6), helmet, shield
-
-It can't be killed, for it is already dead.  
-Bleeding, poisoning, suffocating and puncturing will have no effect.
-
-**Attacking Specific Bodyparts** is possible once its Guard reaches 0:
-
--   Players roll damage against a chosen body part
--   If the Draugr fails a **Might** roll, or the bodypart has taken **5 damage**
-    overall,  
-    it is severed or destroyed
-
-**Removing the head** will render the head & body as independent creatures.
-
--   The head has a Fair (+0) chance of an intact voicebox, and can still bite.
--   The body will continue it's previous action while trying not to get
-    destroyed.
-
-**Cremating** undead works best, but:
-
--   Building a fire consistently hot enough for several hours requires special
-    training.
--   The draugr will actively try to escape the entire time.
-
-#### Behaviour
-
--   They ritualistically repeat old behaviours, to no purpose.
--   They gradually forget everything, and physically decay.
--   Eventually they become inert, until a snack wanders into their mouth.
-
-A draugr who **feeds** on human flesh or blood:
-
--   Becomes addicted, and craves more.
--   They become lucid, intelligent and self-aware.
--   They absorb the personality & qualities of their victims.
--   Assuming their victim has a moral compass, they inherit this and are
-    horrified by themselves.  
-    Many opt to starve themselves back to mindlessness, and can get trapped in
-    this loop forever.
