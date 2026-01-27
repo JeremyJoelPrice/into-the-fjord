@@ -324,12 +324,12 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"axe",
+			"axe (d8)",
 			"book of kennings",
 			"grooming kit",
 			"helmet",
 			"shield",
-			"spear"
+			"spear (d8)"
 		]
 	},
 	{
@@ -338,12 +338,12 @@ export const backgrounds = [
 		reputation: "Poor (-1)",
 		gear: [
 			"ragged clothes",
-			"axe",
+			"axe (d8)",
+			"camouflage cloak",
+			"henbane mixture x2",
 			"hornpipe",
-			"seal bladder (filled with wine)",
-			"2x berserker leaf",
 			"fishing net",
-			"camouflage cloak"
+			"seal bladder (filled with wine)"
 		]
 	},
 	{
@@ -352,12 +352,12 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"purifying herbs",
-			"mortar & pestle",
+			"bedding",
 			"cooking pot",
-			"staff",
-			"sample gathering kit",
-			"bedding"
+			"dwarf nettle x3",
+			"mortar & pestle",
+			"sampling kit",
+			"staff (d6)"
 		]
 	},
 	{
@@ -366,12 +366,12 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"seax",
-			"bow",
-			"hound",
-			"trap (snare)",
+			"bow (d6)",
+			"cooking pot",
+			"hunting hound",
+			"seax (d6)",
 			"signalling horn",
-			"cooking pot"
+			"snare trap"
 		]
 	},
 	{
@@ -380,34 +380,25 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"helmet",
 			"armring",
-			"dane axe",
-			"bow",
+			"bow (d6)",
+			"dane axe (d10)",
 			"grooming kit",
-			"manacles",
-			"lute"
+			"helmet",
+			"lyre",
+			"manacles"
 		]
 	},
 	{
 		name: "Jarl",
 		gift: "Feeble but loyal thrall (5 gear slots)",
 		reputation: "Good (+1)",
-		gear: ["noble clothes", "sword", "mail shirt", "shield", "grooming kit"]
-	},
-	{
-		name: "Skald",
-		gift: "Great (+2) at Poetry/Music",
-		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
-			"axe",
+			"noble clothes",
+			"grooming kit",
+			"mail shirt",
 			"shield",
-			"sling",
-			"lute",
-			"drum",
-			"book of kennings",
-			"incense"
+			"sword (d8)"
 		]
 	},
 	{
@@ -416,12 +407,12 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"seax",
-			"crossbow",
-			"scales & weights",
-			"lens",
 			"dwarven song-key",
-			"pack mule"
+			"crossbow (d8)",
+			"lens",
+			"pack mule",
+			"scales & weights",
+			"seax (d6)"
 		]
 	},
 	{
@@ -430,12 +421,12 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"axe",
-			"sunstone & navigation scrolls",
+			"axe (d8)",
 			"carved whale tooth",
 			"fishing net",
-			"seal bladder",
 			"lantern",
+			"seal bladder",
+			"sunstone & navigation scrolls",
 			"whale oil"
 		]
 	},
@@ -444,13 +435,28 @@ export const backgrounds = [
 		gift: "Prophecy",
 		reputation: "Fair (+0)",
 		gear: [
-			"priest's robes with catskin gloves",
-			"staff",
+			"priestess robes with catskin gloves",
+			"candle x2",
+			"book of runes",
 			"ceremonial dagger",
 			"chisel",
 			"sample gathering kit",
-			"2x trance plant",
-			"2x black candle"
+			"staff (d6)"
+		]
+	},
+	{
+		name: "Skald",
+		gift: "Great (+2) at Poetry/Music",
+		reputation: "Fair (+0)",
+		gear: [
+			"common clothes",
+			"axe",
+			"book of kennings",
+			"drum",
+			"incense",
+			"lyre",
+			"shield",
+			"sling (d4)"
 		]
 	},
 	{
@@ -459,13 +465,13 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"winter cloak",
-			"staff",
-			"axe",
-			"sling",
-			"jar of fireflies",
+			"axe (d8)",
 			"bedding",
-			"book of bird songs"
+			"book of bird songs",
+			"jar of fireflies",
+			"winter cloak",
+			"staff (d6)",
+			"sling (d4)"
 		]
 	}
 ];

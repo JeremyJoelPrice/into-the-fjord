@@ -7,12 +7,12 @@ title: Backgrounds
 Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
-- axe
+- axe (d8)
 - book of kennings
 - grooming kit
 - helmet
 - shield
-- spear
+- spear (d8)
 
 ## Exile
 
@@ -20,7 +20,7 @@ Suggested Gift: Great (+2) at Animal Handling
 
 - Poor (-1) reputation
 - ragged clothes
-- axe
+- axe (d8)
 - camouflage cloak
 - henbane mixture x2
 - hornpipe
@@ -34,20 +34,20 @@ Suggested Gift: Great (+2) at Herbalism
 - common clothes
 - bedding
 - cooking pot
+- dwarf nettle x3
 - mortar & pestle
-- purifying herbs
 - sampling kit
-- staff
+- staff (d6)
 
 ## Houndmaster
 
 Suggested Gift: Great (+2) at Hunting
 
 - common clothes
+- bow (d6)
 - cooking pot
-- bow
-- hound
-- seax
+- hunting hound
+- seax (d6)
 - signalling horn
 - snare trap
 
@@ -57,8 +57,8 @@ Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
 - armring
-- bow
-- dane axe
+- bow (d6)
+- dane axe (d10)
 - grooming kit
 - helmet
 - lyre
@@ -73,26 +73,27 @@ Feeble but loyal thrall (5 gear slots)
 - grooming kit
 - mail shirt
 - shield
-- sword
+- sword (d8)
 
 ## Merchant
 
 Suggested Gift: Great (+2) at Mercantile
 
 - common clothes
-- dwarven song-key
-- crossbow
+- dwarven song-key with
+  [random contents](/rules/magic/dwarven-relics/#random-song-key-contents)
+- crossbow (d8)
 - lens
 - pack mule
 - scales & weights
-- seax
+- seax (d6)
 
 ## Sailor
 
 Suggested Gift: Great (+2) at Sailing
 
 - common clothes
-- axe
+- axe (d8)
 - carved whale tooth
 - fishing net
 - lantern
@@ -105,12 +106,12 @@ Suggested Gift: Great (+2) at Sailing
 Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
 - priest's robes with catskin gloves
-- black candle x2
+- candle x2
 - book of runes
 - ceremonial dagger
 - chisel
 - sample gathering kit
-- staff
+- staff (d6)
 
 ## Skald
 
@@ -123,17 +124,17 @@ Suggested Gift: Great (+2) at Poetry & Music
 - incense
 - lyre
 - shield
-- sling
+- sling (d4)
 
 ## Wanderer
 
 Suggested Gift: Great (+2) at Wayfinding
 
 - common clothes
-- axe
+- axe (d8)
 - bedding
 - book of bird songs
 - jar of fireflies
 - winter cloak
-- staff
-- sling
+- staff (d6)
+- sling (d4)
