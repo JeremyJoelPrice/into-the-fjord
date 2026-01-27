@@ -2,16 +2,14 @@
 title: Creatures
 ---
 
-Below are some creatures you can use.
-
 Roll **Will** when a creature might panic/lose morale in a fight,  
 for example:
 
-- when one of them goes down
-- when they start losing the fight
+- when they start losing a fight
+- when their first ally falls
+- when their leader falls
 
 **Honour** represents how honest, loyal and courageous a creature is.  
-Rolled when a creature is offered a choice, such as taking a bribe.  
 **Failure**: they do the selfsih thing.
 
 ## Creature List
@@ -138,12 +136,12 @@ Below are the regulars, but anyone may be found among exiles.
 | 5   | Grab something valuable & run away       |
 | 6   | Regroup near the leader                  |
 
-### Giants
+### Giant
 
 Giants destroy human settlements whenever they learn of one.
 
-    Arm:3 Grd:6 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
-    fists or boulder (3d12, area)
+    Arm:3 Grd:8 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
+    fists or boulder (1d6 vs other giants, 3d12 area vs regular folk)
 
 - Solitary, can be mistaken for part of a mountain.
 - Their rocky skin is impervious to normal weapons.
