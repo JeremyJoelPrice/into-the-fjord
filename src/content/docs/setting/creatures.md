@@ -138,21 +138,44 @@ Below are the regulars, but anyone may be found among exiles.
 
 ### Giant
 
-Giants destroy human settlements whenever they learn of one.
+A giant will destroy human settlements whenever they learn of one.
 
-    Arm:3 Grd:8 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
-    fists or boulder (1d6 vs other giants, 3d12 area vs regular folk)
+    Arm:3 Grd:14 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
+    fists (2d10) or thrown boulder (2d12 area)
 
-- Solitary, can be mistaken for part of a mountain.
-- Their rocky skin is impervious to normal weapons.
+- Solitary, can be mistaken for a rock formation
+- Their skin is impervious to normal weapons
 
 ### Maggot King
 
 A dead body being puppetted by a hivemind of 10,000 maggots.
 
     Arm:1 Grd:4 Mgt:12 Grc:6 Wil:12 Hon:Terr (-3)
-    Punch (d4), throw eggs (Grc to avoid)
+    Punch (d4), throw eggs
 
 - thrown eggs stick to skin & hair
 - they hatch in moments & start burrowing
 - over the next 48 hours, they gradually take control of the victims' body
+
+## Creating Your Own Creatures
+
+The following tables may help you come up with stats for your own creatures.
+
+|                   | feeble | poor | average | good | great | heroic |
+| ----------------: | :----: | :--: | :-----: | :--: | :---: | :----: |
+|         **guard** |   0    |  1   |    3    |  6   |  10   |  10+   |
+|        **armour** |   0    |  0   |    1    |  2   |   3   |   3+   |
+| **ability score** |   3    |  6   |   10    |  13  |  16   |  18+   |
+
+| **dice** | **dmg** | **avg dmg** |
+| -------: | :-----: | :---------- |
+|     3d10 |  3-30   | 16.5        |
+|     2d12 |  2-24   | 13          |
+|     2d10 |  2-20   | 11          |
+|      3d6 |  3-18   | 10.5        |
+|      2d8 |  2-16   | 9           |
+|     1d12 |  1-12   | 6.5         |
+|     1d10 |  1-10   | 5.5         |
+|      1d8 |   1-8   | 4.5         |
+|      1d6 |   1-6   | 3.5         |
+|      1d4 |   1-4   | 2.5         |
