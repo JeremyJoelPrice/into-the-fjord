@@ -128,6 +128,7 @@ class CharacterGenerator extends HTMLElement {
 				} while (gear.includes(freebie));
 			}
 			gear.push(freebie);
+			gear.sort();
 
 			if (Math.random() < 0.3) gift = generateGift();
 
