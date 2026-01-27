@@ -46,14 +46,16 @@ export const maleNames = [
 
 export const skills = [
 	"Alchemy/Herbalism",
+	"Animal Handling",
 	"Fine Crafts (jewellery & lock making)",
-	"Hunting & Trapping",
-	"Navigation/Wayfinding",
-	"Poetry/Music",
+	"Healing",
+	"Hunting",
+	"Mercantile",
+	"Poetry & Music",
 	"Sailing",
 	"Ship-Building & Carpentry",
 	"Smithing",
-	"Train Animal"
+	"Wayfinding"
 ];
 
 export const galdrSpells = [

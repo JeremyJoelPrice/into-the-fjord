@@ -4,7 +4,7 @@ title: Backgrounds
 
 ## Drengr
 
-Suggested Gift: skilled in Poetry & Music
+Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
 - spear
@@ -16,7 +16,7 @@ Suggested Gift: skilled in Poetry & Music
 
 ## Exile
 
-Suggested Gift: skilled in Animal Training
+Suggested Gift: Great (+2) at Animal Handling
 
 - ragged clothes
 - axe
@@ -29,7 +29,7 @@ Suggested Gift: skilled in Animal Training
 
 ## Herbalist
 
-Suggested Gift: skilled in Healing & Herbalism
+Suggested Gift: Great (+2) at Healing & Herbalism
 
 - common clothes
 - purifying herbs
@@ -41,7 +41,7 @@ Suggested Gift: skilled in Healing & Herbalism
 
 ## Houndmaster
 
-Suggested Gift: skilled in Hunting & Tracking
+Suggested Gift: Great (+2) at Hunting
 
 - common clothes
 - seax
@@ -53,7 +53,7 @@ Suggested Gift: skilled in Hunting & Tracking
 
 ## Housekarl
 
-Suggested Gift: skilled in Poetry & Music
+Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
 - helmet
@@ -77,7 +77,7 @@ Feeble but loyal thrall (5 gear slots)
 
 ## Merchant
 
-Suggested Gift: skilled in Mercantile
+Suggested Gift: Great (+2) at Mercantile
 
 - common clothes
 - seax
@@ -89,7 +89,7 @@ Suggested Gift: skilled in Mercantile
 
 ## Sailor
 
-Suggested Gift: skilled in Sailing
+Suggested Gift: Great (+2) at Sailing
 
 - common clothes
 - axe
@@ -114,7 +114,7 @@ Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
 ## Skald
 
-Suggested Gift: skilled in Poetry & Music
+Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
 - axe
@@ -127,7 +127,7 @@ Suggested Gift: skilled in Poetry & Music
 
 ## Wanderer
 
-Suggested Gift: skilled in Wayfinding
+Suggested Gift: Great (+2) at Wayfinding
 
 - common clothes
 - winter cloak
