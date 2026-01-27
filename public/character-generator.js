@@ -115,7 +115,7 @@ class CharacterGenerator extends HTMLElement {
 		};
 
 		const generateGear = ({ guard }) => {
-			const defaultGear = ["3 x trail ration (1 slot)", "1 torch"];
+			const defaultGear = ["trail ration x3", "1 torch"];
 			let { name: kit, gift, reputation, gear } = chooseFrom(backgrounds);
 			gear = [...defaultGear, ...gear];
 
