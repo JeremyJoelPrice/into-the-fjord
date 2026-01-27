@@ -9,7 +9,7 @@ leaving you vulnerable.
 meal.
 
 [Ability Scores](/rules/ability-scores) are healed with a week of bed rest & the
-attention of a skilled healer.
+attention of a skilled herbalist.
 
 [Wounds](/rules/fighting/wounds/) generally recover with varying amounts of bed
-rest and the attention of a skilled healer.
+rest and the attention of a skilled herbalist.

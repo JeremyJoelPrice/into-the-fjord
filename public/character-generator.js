@@ -1,9 +1,9 @@
 import {
+	backgrounds,
 	characterisation,
 	d6Weapons,
 	femaleNames,
 	galdrSpells,
-	kits,
 	maleNames,
 	skills,
 	twists
@@ -116,7 +116,7 @@ class CharacterGenerator extends HTMLElement {
 
 		const generateGear = ({ guard }) => {
 			const defaultGear = ["3 x trail ration (1 slot)", "1 torch"];
-			let { name: kit, gift, reputation, gear } = chooseFrom(kits);
+			let { name: kit, gift, reputation, gear } = chooseFrom(backgrounds);
 			gear = [...defaultGear, ...gear];
 
 			let freebie;
@@ -191,14 +191,14 @@ class CharacterGenerator extends HTMLElement {
 					: (Math.floor(Math.random() * 10) +
 							1 +
 							(Math.floor(Math.random() * 10) + 1)) *
-					  10);
+						10);
 			const coinageWeight = Math.floor(coins / 100);
 			character.silver = `${coins} (${
 				coinageWeight === 0
 					? "weightless"
 					: coinageWeight === 1
-					? "1 slot"
-					: `${coinageWeight} slots`
+						? "1 slot"
+						: `${coinageWeight} slots`
 			})`;
 
 			const { kit, gift, reputation, gear } = generateGear(character);

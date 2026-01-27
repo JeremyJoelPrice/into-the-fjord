@@ -105,7 +105,6 @@ title: Gear Tables
 | Berserker           |                                      | 6 per day  |
 | Craftsman           | carpenter, smith, etc.               | 4 per day  |
 | Duellist            |                                      | 6 per day  |
-| Healer              |                                      | 4 per day  |
 | Herbalist           |                                      | 4 per day  |
 | Housecarl           | warrior, poet, negotiator            | 5 per day  |
 | Hunter/Tracker      |                                      | 4 per day  |
@@ -183,7 +182,7 @@ title: Gear Tables
 | Jar of Fireflies              | reveals Elf doings                                                                                                                       | 2                                           |
 | Jeweller’s Tools              |                                                                                                                                          | 100                                         |
 | Lens                          |                                                                                                                                          | 50                                          |
-| Lute                          | for sophisticated ballads                                                                                                                | 80                                          |
+| Lyre                          | for sophisticated ballads                                                                                                                | 80                                          |
 | Quill & Ink                   | _weightless_                                                                                                                             | 40                                          |
 | Scales & Weights              |                                                                                                                                          | 20                                          |
 | Sunstone & Navigation Scrolls |                                                                                                                                          | 15                                          |

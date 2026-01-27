@@ -10,10 +10,9 @@ character performs in such cases.
 
 | Some Example Skills                   |
 | ------------------------------------- |
-| Alchemy/Herbalism                     |
 | Animal Handling                       |
 | Fine Crafts (jewellery & lock making) |
-| Healing                               |
+| Herbalism                             |
 | Hunting                               |
 | Mercantile                            |
 | Poetry & Music                        |

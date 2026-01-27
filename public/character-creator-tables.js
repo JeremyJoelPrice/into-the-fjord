@@ -45,10 +45,9 @@ export const maleNames = [
 ];
 
 export const skills = [
-	"Alchemy/Herbalism",
 	"Animal Handling",
 	"Fine Crafts (jewellery & lock making)",
-	"Healing",
+	"Herbalism",
 	"Hunting",
 	"Mercantile",
 	"Poetry & Music",
@@ -247,7 +246,6 @@ const hairCharacterisation = [
 	"Hair is dark blonde and flows down past their shoulder",
 	"Hair is dark blonde and tussled",
 	"Hair is dark blonde and unkempt",
-	"Hair is dark blonde and braided",
 	"Hair is light blonde and short",
 	"Hair is light blonde and braided",
 	"Hair is light blonde and windswept",
@@ -257,7 +255,6 @@ const hairCharacterisation = [
 	"Hair is light blonde and flows down past their shoulder",
 	"Hair is light blonde and tussled",
 	"Hair is light blonde and unkempt",
-	"Hair is light blonde and braided",
 	"Hair is dark red and short",
 	"Hair is dark red and braided",
 	"Hair is dark red and windswept",
@@ -267,7 +264,6 @@ const hairCharacterisation = [
 	"Hair is dark red and flows down past their shoulder",
 	"Hair is dark red and tussled",
 	"Hair is dark red and unkempt",
-	"Hair is dark red and braided",
 	"Hair is light red and short",
 	"Hair is light red and braided",
 	"Hair is light red and windswept",
@@ -277,7 +273,6 @@ const hairCharacterisation = [
 	"Hair is light red and flows down past their shoulder",
 	"Hair is light red and tussled",
 	"Hair is light red and unkempt",
-	"Hair is light red and braided",
 	"Hair is dark brown and short",
 	"Hair is dark brown and braided",
 	"Hair is dark brown and windswept",
@@ -287,7 +282,6 @@ const hairCharacterisation = [
 	"Hair is dark brown and flows down past their shoulder",
 	"Hair is dark brown and tussled",
 	"Hair is dark brown and unkempt",
-	"Hair is dark brown and braided",
 	"Hair is grey and short",
 	"Hair is grey and braided",
 	"Hair is grey and windswept",
@@ -297,7 +291,6 @@ const hairCharacterisation = [
 	"Hair is grey and flows down past their shoulder",
 	"Hair is grey and tussled",
 	"Hair is grey and unkempt",
-	"Hair is grey and braided",
 	"Hair is white and short",
 	"Hair is white and braided",
 	"Hair is white and windswept",
@@ -307,7 +300,6 @@ const hairCharacterisation = [
 	"Hair is white and flows down past their shoulder",
 	"Hair is white and tussled",
 	"Hair is white and unkempt",
-	"Hair is white and braided",
 	"Hair is black and short",
 	"Hair is black and braided",
 	"Hair is black and windswept",
@@ -316,8 +308,7 @@ const hairCharacterisation = [
 	"Hair is black and neatly arranged",
 	"Hair is black and flows down past their shoulder",
 	"Hair is black and tussled",
-	"Hair is black and unkempt",
-	"Hair is black and braided"
+	"Hair is black and unkempt"
 ];
 
 export const characterisation = {
@@ -326,24 +317,24 @@ export const characterisation = {
 	hairCharacterisation
 };
 
-export const kits = [
+export const backgrounds = [
 	{
 		name: "Drengr",
-		gift: "Great (+2) at Poetry/Music",
+		gift: "Great (+2) at Poetry & Music",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
-			"spear",
-			"shield",
-			"helmet",
 			"axe",
 			"book of kennings",
-			"grooming kit"
+			"grooming kit",
+			"helmet",
+			"shield",
+			"spear"
 		]
 	},
 	{
 		name: "Exile",
-		gift: "Great (+2) at Animal Training",
+		gift: "Great (+2) at Animal Handling",
 		reputation: "Poor (-1)",
 		gear: [
 			"ragged clothes",
@@ -357,7 +348,7 @@ export const kits = [
 	},
 	{
 		name: "Herbalist",
-		gift: "Great (+2) at Alchemy/Herbalism",
+		gift: "Great (+2) at Herbalism",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
@@ -371,7 +362,7 @@ export const kits = [
 	},
 	{
 		name: "Houndmaster",
-		gift: "Great (+2) at Hunting/Tracking",
+		gift: "Great (+2) at Hunting",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes",
@@ -400,7 +391,7 @@ export const kits = [
 	},
 	{
 		name: "Jarl",
-		gift: "Feeble but loyal thrall (5 inventory slots)",
+		gift: "Feeble but loyal thrall (5 gear slots)",
 		reputation: "Good (+1)",
 		gear: ["noble clothes", "sword", "mail shirt", "shield", "grooming kit"]
 	},
@@ -429,7 +420,7 @@ export const kits = [
 			"crossbow",
 			"scales & weights",
 			"lens",
-			"Dwarven song-key",
+			"dwarven song-key",
 			"pack mule"
 		]
 	},
@@ -490,8 +481,8 @@ export const twists = [
 	"you are immune to poison & ageing",
 	"you have an Elf ancestor, and can communicate feelings with plants & animals",
 	"you have a Dwarf ancestor, and can echolocate by the sounds of tools",
-	"your weapon is Dwarf-made; when thrown it strikes true and returns to your ",
-	"you are fated to never die until Ragnarök (can still be beheaded)",
+	"your weapon is Dwarf-made; when thrown it strikes true and returns to your hand",
+	"you are fated to never die until Ragnarök (can still be beheaded etc.)",
 	"animals react badly to you",
 	"you're an exile with a Poor (-1) reputation",
 	"you're a werewolf",

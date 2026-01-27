@@ -7,85 +7,85 @@ title: Backgrounds
 Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
-- spear
-- shield
-- helmet
 - axe
 - book of kennings
 - grooming kit
+- helmet
+- shield
+- spear
 
 ## Exile
 
 Suggested Gift: Great (+2) at Animal Handling
 
+- Poor (-1) reputation
 - ragged clothes
 - axe
-- hornpipe
-- seal bladder (filled with wine)
-- 2x henbane mixture
-- fishing net
 - camouflage cloak
-- Poor (-1) reputation
+- henbane mixture x2
+- hornpipe
+- fishing net
+- seal bladder (filled with wine)
 
 ## Herbalist
 
-Suggested Gift: Great (+2) at Healing & Herbalism
+Suggested Gift: Great (+2) at Herbalism
 
 - common clothes
-- purifying herbs
-- mortar & pestle
-- cooking pot
-- staff
-- sickle & tweezers
 - bedding
+- cooking pot
+- mortar & pestle
+- purifying herbs
+- sampling kit
+- staff
 
 ## Houndmaster
 
 Suggested Gift: Great (+2) at Hunting
 
 - common clothes
-- seax
+- cooking pot
 - bow
 - hound
-- trap (snare)
+- seax
 - signalling horn
-- cooking pot
+- snare trap
 
 ## Housekarl
 
 Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
-- helmet
 - armring
-- dane axe
 - bow
+- dane axe
 - grooming kit
+- helmet
+- lyre
 - manacles
-- lute
 
 ## Jarl
 
 Feeble but loyal thrall (5 gear slots)
 
+- Good (+1) reputation
 - noble clothes
-- sword
+- grooming kit
 - mail shirt
 - shield
-- grooming kit
-- Good (+1) reputation
+- sword
 
 ## Merchant
 
 Suggested Gift: Great (+2) at Mercantile
 
 - common clothes
-- seax
+- dwarven song-key
 - crossbow
-- scales & weights
 - lens
-- Dwarven song-key
 - pack mule
+- scales & weights
+- seax
 
 ## Sailor
 
@@ -93,11 +93,11 @@ Suggested Gift: Great (+2) at Sailing
 
 - common clothes
 - axe
-- sunstone & navigation scrolls
 - carved whale tooth
 - fishing net
-- seal bladder
 - lantern
+- seal bladder
+- sunstone & navigation scrolls
 - whale oil
 
 ## Seiðkona
@@ -105,12 +105,12 @@ Suggested Gift: Great (+2) at Sailing
 Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
 - priest's robes with catskin gloves
-- staff
+- black candle x2
+- book of runes
 - ceremonial dagger
 - chisel
 - sample gathering kit
-- book of runes
-- 2x black candle
+- staff
 
 ## Skald
 
@@ -118,22 +118,22 @@ Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes
 - axe
+- book of kennings
+- drum
+- incense
+- lyre
 - shield
 - sling
-- lute
-- drum
-- book of kennings
-- incense
 
 ## Wanderer
 
 Suggested Gift: Great (+2) at Wayfinding
 
 - common clothes
-- winter cloak
-- staff
 - axe
-- sling
-- jar of fireflies
 - bedding
 - book of bird songs
+- jar of fireflies
+- winter cloak
+- staff
+- sling
