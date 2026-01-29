@@ -138,13 +138,14 @@ Below are the regulars, but anyone may be found among exiles.
 
 ### Giant
 
-A giant will destroy human settlements whenever they learn of one.
+00
 
     Arm:1 Grd:14 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
     fists (2d10) or thrown boulder (2d12 area)
 
 - Sometimes mistaken for a rock formation
 - Their skin is impervious to normal weapons
+- Will destroy human settlements whenever they learn of one
 
 ### Maggot King
 
