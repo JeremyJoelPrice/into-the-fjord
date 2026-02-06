@@ -2,7 +2,7 @@
 title: Backgrounds
 ---
 
-## Drengr
+## Drengr (Warrior)
 
 Suggested Gift: Great (+2) at Poetry & Music
 

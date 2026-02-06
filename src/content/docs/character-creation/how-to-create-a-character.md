@@ -39,8 +39,8 @@ _e.g. Helga Runasdóttir_
 **Grace** - precision, agile movements, & reflexes  
 **Will** - strength of mind, composure, & acting first in a chaotic situation
 
-Roll [3d6](/start-here/introduction#dice) to generate each score.  
-Assign each score to whichever Ability you prefer.
+For each ability, roll [3d6](/start-here/how-to-play/#rolling-dice) to generate
+its score.
 
 If your character is the child of your previous character,  
 keep their highest Ability score and generate the other two.
@@ -52,7 +52,8 @@ _see [Ability Scores](/rules/ability-scores)_
 Roll 1d6 to generate your Guard.
 
 Guard is how well you defend yourself in a fight.  
-It is depleted when you take damage, and recovers quickly.  
+It is depleted when you take damage, and recovers quickly.
+
 _see [Guard](/rules/fighting/guard)_
 
 ## 4. Gear
@@ -68,27 +69,26 @@ Then:
 **OR** select a pre-defined [background](/character-creation/backgrounds).
 
 Then:  
-**IF** your highest Ability score is less than 12, roll additional silver
-(2d10x10 again).  
+**IF** your highest Ability score is 10 or less, roll additional silver (2d10x10
+again).  
 **IF** your Guard is **1 - 3**, gain a free piece of
 [armour](/character-creation/gear-tables#Arms--Armour).  
 **IF** your Guard is **4 - 6**, gain a free
 [d6 weapon](/character-creation/gear-tables#Arms--Armour).
 
-**Finally** you have the chance to spend your silver using the
-[Gear Tables](/character-creation/gear-tables).
+**Finally**, you have the option to spend your silver on additional
+[gear](/character-creation/gear-tables).
 
 ## 5. Gift
 
-Your character is gifted in some way.  
-You may choose **one** of the following options:
+You may choose one of the following options:
 
-- Roll or choose a [Skill](/rules/skills), then write it on your character sheet
-  with a "Great (+2)" next to it
+- Write any [Skill](/rules/skills) on your character sheet with "Great (+2)"
+  next to it
 - A companion: a raven, a thrall (servant), etc.
 - 2 random
   [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
-- The power of [Prophecy](/rules/magic/seiðr#prophecy)
+- Able to [prophesy](/rules/magic/seiðr#prophecy) the future
 
 ## 7. Finishing Touches
 
@@ -104,7 +104,7 @@ Consider things like:
 
 ## 8. Twist of Fate (Optional)
 
-If your highest Ability score is less than 11, you may roll 1d10 on the table
+If your highest Ability score is 10 or less, you may roll 1d10 on the table
 below.  
 Otherwise, roll 1d20.
 
