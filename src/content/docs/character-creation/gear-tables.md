@@ -2,12 +2,12 @@
 title: Gear Tables
 ---
 
-- **bulky**: takes 2 slots
-- **weightless**: takes 0 slots
-- **bundle**: takes 1 slot but can fit more items in that slot (e.g. trail
-  rations 3 per bundle)
-- **faulty** items cost 1d4 silver & have a Fair (+0) chance to break after each
-  use.
+-   **bulky**: takes 2 slots
+-   **weightless**: takes 0 slots
+-   **bundle**: takes 1 slot but can fit more items in that slot
+-   **coins** take 1 slot per 100 coins
+-   **faulty** items cost 1d4 silver & have a Fair (+0) chance to break after
+    each use.
 
 ## Arms & Armour
 
@@ -173,7 +173,7 @@ title: Gear Tables
 | Clothes, Common               | _weightless_ if worn                                                                                                                     | 3                                           |
 | Clothes, Noble                | _weightless_ if worn                                                                                                                     | 110                                         |
 | Clothes, Ragged               | _weightless_ if worn                                                                                                                     | 1                                           |
-| Coinpurse                     | _weightless_ unless full (100 coins)                                                                                                     | -                                           |
+| Coinpurse                     | _weightless_                                                                                                                             | -                                           |
 | Dwarven Song-Key              | see [Relics](/rules/magic/dwarven-relics/). Roll on the [table](rules/magic/dwarven-relics/#random-song-key-contents) for a random sound | 120                                         |
 | Galdr Staff                   | runed staff lets you cast one [spell](/rules/magic/galdr-spell-list)                                                                     | 80 (random spell) <br /> 180 (chosen spell) |
 | Hand Drum                     | for dancing                                                                                                                              | 3                                           |

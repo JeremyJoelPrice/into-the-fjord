@@ -58,6 +58,7 @@ _see [Guard](/rules/fighting/guard)_
 
 ## 4. Gear
 
+Every character has 10 [slots](/rules/carrying-gear) for gear.  
 Every character starts with:
 
 - 50 silver pieces (weightless)
