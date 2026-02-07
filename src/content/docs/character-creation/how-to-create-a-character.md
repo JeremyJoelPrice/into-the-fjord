@@ -4,11 +4,8 @@ title: How To Create A Character
 
 ## 1. Name
 
-Choose or roll 1d20 on either table for your **first name**.  
-Choose or roll again for your **surname**, and append "son" or "sdóttir", as you
-prefer.
-
-_e.g. Helga Runasdóttir_
+Roll 1d20 twice on the tables below for 1) a first name 2) a surname  
+Append -son or -sdottir to your surname e.g. Helga Runasdottir
 
 **Female Names**
 
