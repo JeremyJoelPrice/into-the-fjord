@@ -9,26 +9,26 @@ Append -son or -sdottir to your surname e.g. Helga Runasdottir
 
 **Female Names**
 
-|     |          |     |          |     |          |     |           |
-| --- | -------- | --- | -------- | --- | -------- | --- | --------- |
-| 1   | Aestrid  | 6   | Grimhild | 11  | Katla    | 16  | Runa      |
-| 2   | Brynhild | 7   | Guðrun   | 12  | Ljufa    | 17  | Sibbe     |
-| 3   | Drifa    | 8   | Helga    | 13  | Melkorka | 18  | Thorgrima |
-| 4   | Freydis  | 9   | Hrefna   | 14  | Odindis  | 19  | Una       |
-| 5   | Frida    | 10  | Ingunn   | 15  | Ottkatla | 20  | Yrsa      |
+|     |          |     |          |     |       |     |       |
+| --- | -------- | --- | -------- | --- | ----- | --- | ----- |
+| 1   | Agatha   | 6   | Grimhild | 11  | Lífa  | 16  | Skuld |
+| 2   | Brynhild | 7   | Helga    | 12  | Magna | 17  | Tóla  |
+| 3   | Dalla    | 8   | Ingunn   | 13  | Nefja | 18  | Una   |
+| 4   | Elisif   | 9   | Jórunn   | 14  | Oda   | 19  | Valka |
+| 5   | Frida    | 10  | Katla    | 15  | Rúna  | 20  | Yrsa  |
 
 <br />
 <br />
 
 **Male Names**
 
-|     |       |     |        |     |        |     |          |
-| --- | ----- | --- | ------ | --- | ------ | --- | -------- |
-| 1   | Abi   | 6   | Finn   | 11  | Kodran | 16  | Ragnar   |
-| 2   | Björn | 7   | Galti  | 12  | Lambi  | 17  | Sigurður |
-| 3   | Cnut  | 8   | Harald | 13  | Magnus | 18  | Trygg    |
-| 4   | Dyri  | 9   | Ingi   | 14  | Nafni  | 19  | Vali     |
-| 5   | Egil  | 10  | Jokul  | 15  | Olaf   | 20  | Yngvar   |
+|     |       |     |        |     |        |     |        |
+| --- | ----- | --- | ------ | --- | ------ | --- | ------ |
+| 1   | Alver | 6   | Finn   | 11  | Kolr   | 16  | Ragnar |
+| 2   | Björn | 7   | Galti  | 12  | Lambi  | 17  | Sigurð |
+| 3   | Cnut  | 8   | Harald | 13  | Magnus | 18  | Trygg  |
+| 4   | Dagr  | 9   | Ivar   | 14  | Nafni  | 19  | Vali   |
+| 5   | Egil  | 10  | Jokul  | 15  | Olaf   | 20  | Yngvar |
 
 ## 2. Ability Scores
 
