@@ -436,10 +436,11 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"priestess robes with catskin gloves",
-			"candle x2",
 			"book of runes",
+			"candle x2",
 			"ceremonial dagger",
 			"chisel",
+			"fly agaric x3",
 			"sample gathering kit",
 			"staff (d6)"
 		]

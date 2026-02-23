@@ -2,12 +2,12 @@
 title: Gear Tables
 ---
 
--   **bulky**: takes 2 slots
--   **weightless**: takes 0 slots
--   **bundle**: takes 1 slot but can fit more items in that slot
--   **coins** take 1 slot per 100 coins
--   **faulty** items cost 1d4 silver & have a Fair (+0) chance to break after
-    each use.
+- **bulky**: takes 2 slots
+- **weightless**: takes 0 slots
+- **bundle**: takes 1 slot but can fit more items in that slot
+- **coins** take 1 slot per 100 coins
+- **faulty** items cost 1d4 silver & have a Fair (+0) chance to break after each
+  use.
 
 ## Arms & Armour
 
@@ -88,15 +88,15 @@ title: Gear Tables
 
 ## Herbal / Medicinal
 
-| **item**        | **notes**                                                                                                                        | **price** |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Grooming Kit    | make a better impression on others                                                                                               | 15        |
-| Mortar & Pestle | enables an alchemist to prepare mixtures                                                                                         | 15        |
-| Sampling Kit    | sheers, tweezers, pouches & vials                                                                                                | 10        |
-| Dwarf Nettle    | _3 per bundle_ <br />fights disease and infection                                                                                | 3         |
-| Fly Agaric      | _3 per bundle_ <br />You may have visions you can't explain.<br />After 1 hour you become lucid & gain [Fatigue](/rules/fatigue) | 5         |
-| Henbane mixture | _3 per bundle_<br /> armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1d4 hours, then gain Fatigue    | 5         |
-| Incense         | aids relaxation & focus                                                                                                          | 10        |
+| **item**        | **notes**                                                                                                                                     | **price** |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Grooming Kit    | make a better impression on others                                                                                                            | 15        |
+| Mortar & Pestle | enables an alchemist to prepare mixtures                                                                                                      | 15        |
+| Sampling Kit    | sheers, tweezers, pouches & vials                                                                                                             | 10        |
+| Dwarf Nettle    | _3 per bundle_ <br />fights disease and infection                                                                                             | 3         |
+| Fly Agaric      | _3 per bundle_ <br />causes hallucinations                                                                                                    | 5         |
+| Henbane mixture | _3 per bundle_<br /> armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1 hour, then gain [Fatigue](/rules/fatigue/) | 5         |
+| Incense         | aids relaxation & focus                                                                                                                       | 10        |
 
 ## Hirelings & Services
 

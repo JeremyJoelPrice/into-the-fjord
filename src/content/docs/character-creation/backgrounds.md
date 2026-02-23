@@ -106,10 +106,11 @@ Suggested Gift: Great (+2) at Sailing
 Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
 - priest's robes with catskin gloves
-- candle x2
 - book of runes
+- candle x2
 - ceremonial dagger
 - chisel
+- fly agaric x3
 - sample gathering kit
 - staff (d6)
 
