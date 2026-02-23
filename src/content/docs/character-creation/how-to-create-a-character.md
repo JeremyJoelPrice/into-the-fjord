@@ -88,19 +88,7 @@ You may choose one of the following options:
   [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
 - Able to [prophesy](/rules/magic/seiðr#prophecy) the future
 
-## 7. Finishing Touches
-
-Give your character a [Reputation](/rules/reputation) of "Fair (+0)",  
-unless your kit already established this.
-
-Write down a short description of your character.  
-Consider things like:
-
-- Your physical appearance
-- Your ambitions
-- Your beliefs & loyalties
-
-## 8. Twist of Fate (Optional)
+## 6. Twist of Fate (Optional)
 
 If your highest Ability score is 10 or less, you may roll 1d10 on the table
 below.  
@@ -128,3 +116,15 @@ Otherwise, roll 1d20.
 | 18  | you are illiterate & unable to learn a second language                          |
 | 19  | your clan has chosen you as the next human sacrifice                            |
 | 20  | A Valkyrie has chosen you, and is on her way to collect your corpse             |
+
+## 7. Finishing Touches
+
+Give your character a [Reputation](/rules/reputation) of "Fair (+0)",  
+unless your kit already established this.
+
+Write down a short description of your character.  
+Consider things like:
+
+- Your physical appearance
+- Your ambitions
+- Your beliefs & loyalties
