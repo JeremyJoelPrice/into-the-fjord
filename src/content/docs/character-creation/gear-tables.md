@@ -122,20 +122,16 @@ title: Gear Tables
 
 ## Hounds, Mounts & Vehicles
 
-| **item**              | **notes**                                                 | **price** |
-| --------------------- | --------------------------------------------------------- | --------- |
-| Cart, horse-drawn     | +8 slots, slow                                            | 10        |
-| Cart, hand            | _bulky_<br />+6 slots, slow                               | 5         |
-| Horse                 |                                                           | 40        |
-| Horse, battle-trained | Doesn't panic during battle                               | 100       |
-| Hound, mutt           | Just a good dog                                           | 3         |
-| Hound, hunting        | Excellent (+3) at tracking & circling prey                | 20        |
-| Hound, herding        | Great (+2) at complex tasks, can work without supervision | 15        |
-| Hound, sled           | 4 gear slots, can pull heavy loads                        | 20        |
-| Hound, wolfdog        | As big & dangerous as a wolf, loyal to the end            | 45        |
-| Pack Mule             | 6 gear slots, slow                                        | 15        |
-| Sled, small           | 2 passengers, 4 gear slots, pulled by 1 sled hound        | 30        |
-| Sled, large           | 4 passengers, 20 gear slots, pulled by 4 sled hounds      | 75        |
+| **item**              | **notes**                                            | **price** |
+| --------------------- | ---------------------------------------------------- | --------- |
+| Cart, horse-drawn     | +8 slots, slow                                       | 10        |
+| Cart, hand            | _bulky_<br />+6 slots, slow                          | 5         |
+| Horse                 |                                                      | 40        |
+| Horse, battle-trained | Doesn't panic during battle                          | 100       |
+| Hound                 | Well trained, can work without supervision           | 20        |
+| Pack Mule             | 6 gear slots, slow                                   | 15        |
+| Sled, small           | 2 passengers, 4 gear slots, pulled by 1 sled hound   | 30        |
+| Sled, large           | 4 passengers, 20 gear slots, pulled by 4 sled hounds | 75        |
 
 ## Outdoor Survival
 
