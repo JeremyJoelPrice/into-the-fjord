@@ -6,7 +6,7 @@ title: Backgrounds
 
 Suggested Gift: Great (+2) at Poetry & Music
 
-- common clothes
+- common clothes (_weightless_)
 - axe (d8)
 - book of kennings
 - grooming kit
@@ -19,7 +19,7 @@ Suggested Gift: Great (+2) at Poetry & Music
 Suggested Gift: Great (+2) at Animal Handling
 
 - Poor (-1) reputation
-- ragged clothes
+- ragged clothes (_weightless_)
 - axe (d8)
 - camouflage cloak
 - henbane mixture x2
@@ -31,8 +31,8 @@ Suggested Gift: Great (+2) at Animal Handling
 
 Suggested Gift: Great (+2) at Herbalism
 
-- common clothes
-- bedding
+- common clothes (_weightless_)
+- bedding (_bulky_)
 - cooking pot
 - dwarf nettle x3
 - mortar & pestle
@@ -43,8 +43,8 @@ Suggested Gift: Great (+2) at Herbalism
 
 Suggested Gift: Great (+2) at Hunting
 
-- common clothes
-- bow (d6)
+- common clothes (_weightless_)
+- bow (d6) (_bulky_)
 - cooking pot
 - hound
 - seax (d6)
@@ -55,10 +55,10 @@ Suggested Gift: Great (+2) at Hunting
 
 Suggested Gift: Great (+2) at Poetry & Music
 
-- common clothes
+- common clothes (_weightless_)
 - armring
-- bow (d6)
-- dane axe (d10)
+- bow (d6) (_bulky_)
+- dane axe (d10) (_bulky_)
 - grooming kit
 - helmet
 - lyre
@@ -69,7 +69,7 @@ Suggested Gift: Great (+2) at Poetry & Music
 Feeble but loyal thrall (5 gear slots)
 
 - Good (+1) reputation
-- noble clothes
+- noble clothes (_weightless_)
 - grooming kit
 - mail shirt
 - shield
@@ -79,10 +79,10 @@ Feeble but loyal thrall (5 gear slots)
 
 Suggested Gift: Great (+2) at Mercantile
 
-- common clothes
+- common clothes (_weightless_)
 - dwarven song-key with
   [random contents](/rules/magic/dwarven-relics/#random-song-key-contents)
-- crossbow (d8)
+- crossbow (d8) (_bulky_)
 - lens
 - pack mule
 - scales & weights
@@ -92,7 +92,7 @@ Suggested Gift: Great (+2) at Mercantile
 
 Suggested Gift: Great (+2) at Sailing
 
-- common clothes
+- common clothes (_weightless_)
 - axe (d8)
 - carved whale tooth
 - fishing net
@@ -105,7 +105,7 @@ Suggested Gift: Great (+2) at Sailing
 
 Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
-- priest's robes with catskin gloves
+- priest's robes with catskin gloves (_weightless_)
 - book of runes
 - candle x2
 - ceremonial dagger
@@ -118,7 +118,7 @@ Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
 Suggested Gift: Great (+2) at Poetry & Music
 
-- common clothes
+- common clothes (_weightless_)
 - axe
 - book of kennings
 - drum
@@ -131,7 +131,7 @@ Suggested Gift: Great (+2) at Poetry & Music
 
 Suggested Gift: Great (+2) at Wayfinding
 
-- common clothes
+- common clothes (_weightless_)
 - axe (d8)
 - bedding
 - book of bird songs
