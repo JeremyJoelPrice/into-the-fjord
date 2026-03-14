@@ -46,7 +46,7 @@ Suggested Gift: Great (+2) at Hunting
 - common clothes
 - bow (d6)
 - cooking pot
-- hunting hound
+- hound
 - seax (d6)
 - signalling horn
 - snare trap

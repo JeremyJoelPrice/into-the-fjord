@@ -122,16 +122,16 @@ title: Gear Tables
 
 ## Hounds, Mounts & Vehicles
 
-| **item**              | **notes**                                            | **price** |
-| --------------------- | ---------------------------------------------------- | --------- |
-| Cart, horse-drawn     | +8 slots, slow                                       | 10        |
-| Cart, hand            | _bulky_<br />+6 slots, slow                          | 5         |
-| Horse                 |                                                      | 40        |
-| Horse, battle-trained | Doesn't panic during battle                          | 100       |
-| Hound                 | Well trained, can work without supervision           | 20        |
-| Pack Mule             | 6 gear slots, slow                                   | 15        |
-| Sled, small           | 2 passengers, 4 gear slots, pulled by 1 sled hound   | 30        |
-| Sled, large           | 4 passengers, 20 gear slots, pulled by 4 sled hounds | 75        |
+| **item**              | **notes**                                       | **price** |
+| --------------------- | ----------------------------------------------- | --------- |
+| Cart, horse-drawn     | +8 slots, slow                                  | 10        |
+| Cart, hand            | _bulky_<br />+6 slots, slow                     | 5         |
+| Horse                 |                                                 | 40        |
+| Horse, battle-trained | Doesn't panic during battle                     | 100       |
+| Hound                 | Well trained companion                          | 20        |
+| Pack Mule             | 6 gear slots, slow                              | 15        |
+| Sled, small           | 2 passengers, 4 gear slots, pulled by 1 hound   | 30        |
+| Sled, large           | 4 passengers, 20 gear slots, pulled by 4 hounds | 75        |
 
 ## Outdoor Survival
 
