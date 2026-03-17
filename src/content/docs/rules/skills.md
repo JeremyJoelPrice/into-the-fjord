@@ -8,18 +8,18 @@ and there are no **tactical** or **creative** decisions for a player to make.
 Use a [Fate Roll](/start-here/how-to-play/#fate-roll) to see how well your
 character performs in such cases.
 
-| Some Example Skills                   |
-| ------------------------------------- |
-| Animal Handling                       |
-| Fine Crafts (jewellery & lock making) |
-| Herbalism                             |
-| Hunting                               |
-| Mercantile                            |
-| Poetry & Music                        |
-| Sailing                               |
-| Ship-Building & Carpentry             |
-| Smithing                              |
-| Wayfinding                            |
+| Some Example Skills                    |
+| -------------------------------------- |
+| Animal Handling                        |
+| Fine Crafts (jewellery & locksmithing) |
+| Herbalism                              |
+| Hunting                                |
+| Mercantile                             |
+| Poetry & Music                         |
+| Sailing                                |
+| Ship-Building & Carpentry              |
+| Smithing                               |
+| Wayfinding                             |
 
 ## Skilled Hirelings
 
