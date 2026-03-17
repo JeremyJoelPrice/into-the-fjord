@@ -8,7 +8,6 @@ Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes (_weightless_)
 - axe (d8)
-- book of kennings
 - grooming kit
 - helmet
 - shield
@@ -23,8 +22,6 @@ Suggested Gift: Great (+2) at Animal Handling
 - axe (d8)
 - camouflage cloak
 - henbane mixture x2
-- hornpipe
-- fishing net
 - seal bladder (filled with wine)
 
 ## Herbalist
@@ -33,7 +30,6 @@ Suggested Gift: Great (+2) at Herbalism
 
 - common clothes (_weightless_)
 - bedding (_bulky_)
-- cooking pot
 - dwarf nettle x3
 - mortar & pestle
 - sampling kit
@@ -45,7 +41,6 @@ Suggested Gift: Great (+2) at Hunting
 
 - common clothes (_weightless_)
 - bow (d6) (_bulky_)
-- cooking pot
 - hound
 - seax (d6)
 - signalling horn
@@ -61,14 +56,12 @@ Suggested Gift: Great (+2) at Poetry & Music
 - dane axe (d10) (_bulky_)
 - grooming kit
 - helmet
-- lyre
 - manacles
 
 ## Jarl
 
 Feeble but loyal thrall (5 gear slots)
 
-- Good (+1) reputation
 - noble clothes (_weightless_)
 - grooming kit
 - mail shirt
@@ -98,18 +91,18 @@ Suggested Gift: Great (+2) at Sailing
 - fishing net
 - lantern
 - seal bladder
-- sunstone & navigation scrolls
+- treasure map (distand island)
 - whale oil
 
 ## Seiðkona
 
 Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 
-- priest's robes with catskin gloves (_weightless_)
-- book of runes
+- priestess robes with catskin gloves (_weightless_)
+- catalogue of runes
 - candle x2
 - ceremonial dagger
-- chisel
+- mallet & chisel
 - fly agaric x3
 - sample gathering kit
 - staff (d6)
@@ -120,7 +113,6 @@ Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes (_weightless_)
 - axe
-- book of kennings
 - drum
 - incense
 - lyre
@@ -134,7 +126,7 @@ Suggested Gift: Great (+2) at Wayfinding
 - common clothes (_weightless_)
 - axe (d8)
 - bedding
-- book of bird songs
+- catalogue of birdsongs
 - jar of fireflies
 - winter cloak
 - staff (d6)

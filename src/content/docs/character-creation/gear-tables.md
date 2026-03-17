@@ -150,8 +150,8 @@ Herbs need to be properly prepared before they work as described below.
 | Grooming Kit    | make a better first impression                                                                                                                | 15        |
 | Henbane mixture | _3 per bundle_<br /> armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1 hour, then gain [Fatigue](/rules/fatigue/) | 5         |
 | Incense         | aids relaxation & focus                                                                                                                       | 10        |
-| Mortar & Pestle | enables an alchemist to prepare mixtures                                                                                                      | 15        |
-| Sampling Kit    | sheers, tweezers, pouches & vials                                                                                                             | 10        |
+| Mortar & Pestle | enables a herbalist to prepare mixtures                                                                                                       | 15        |
+| Sampling Kit    | gather samples - sheers, tweezers, pouches & vials                                                                                            | 10        |
 
 ## Hirelings & Services
 
@@ -190,13 +190,13 @@ Herbs need to be properly prepared before they work as described below.
 
 ## Items of Power
 
-| **item**           | **notes**                                              | **price**                                   |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------- |
-| Catalogue of Runes | read any magical inscriptions                          | 80                                          |
-| Dwarven Song-Key   | see [Relics](/rules/magic/dwarven-relics/)             | 120                                         |
-| Edda of Beasts     | floors Animal Handling at Good (+1)                    | 30                                          |
-| Edda of Kennings   | floors Poetry at Good (+1)                             | 30                                          |
-| Edda of ...        | floors a skill at Good (+1)                            | 30                                          |
-| Feathered Flute    | join in bird gossip                                    | 30                                          |
-| Galdr Staff        | lets you cast a [spell](/rules/magic/galdr-spell-list) | 80 (random spell) <br /> 200 (chosen spell) |
-| Jar of Fireflies   | elves turn visible in firefly light                    | 2                                           |
+| **item**               | **notes**                                                 | **price**                                   |
+| ---------------------- | --------------------------------------------------------- | ------------------------------------------- |
+| Catalogue of Birdsongs | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
+| Catalogue of Runes     | read any magical inscriptions                             | 80                                          |
+| Dwarven Song-Key       | see [Relics](/rules/magic/dwarven-relics/)                | 120                                         |
+| Edda of Beasts         | floors Animal Handling at Good (+1)                       | 30                                          |
+| Edda of Kennings       | floors Poetry at Good (+1)                                | 30                                          |
+| Edda of ...            | floors a skill at Good (+1)                               | 30                                          |
+| Galdr Staff            | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
+| Jar of Fireflies       | elves turn visible in firefly light                       | 2                                           |
