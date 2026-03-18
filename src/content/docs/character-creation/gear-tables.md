@@ -149,9 +149,8 @@ Herbs need to be properly prepared before they work as described below.
 | Fly Agaric      | _3 per bundle_<br />causes hallucinations                                                                                                     | 5         |
 | Grooming Kit    | make a better first impression                                                                                                                | 15        |
 | Henbane mixture | _3 per bundle_<br /> armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1 hour, then gain [Fatigue](/rules/fatigue/) | 5         |
+| Herbalism Kit   | _bulky_<br />gather samples, create & administer mixtures                                                                                     | 30        |
 | Incense         | aids relaxation & focus                                                                                                                       | 10        |
-| Mortar & Pestle | enables a herbalist to prepare mixtures                                                                                                       | 15        |
-| Sampling Kit    | gather samples - sheers, tweezers, pouches & vials                                                                                            | 10        |
 
 ## Hirelings & Services
 

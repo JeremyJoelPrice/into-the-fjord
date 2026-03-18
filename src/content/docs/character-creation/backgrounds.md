@@ -31,8 +31,7 @@ Suggested Gift: Great (+2) at Herbalism
 - common clothes (_weightless_)
 - bedding (_bulky_)
 - dwarf nettle x3
-- mortar & pestle
-- sampling kit
+- Herbalism Kit (_bulky_)
 - staff (d6)
 
 ## Houndmaster
