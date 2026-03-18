@@ -189,13 +189,14 @@ Herbs need to be properly prepared before they work as described below.
 
 ## Items of Power
 
-| **item**               | **notes**                                                 | **price**                                   |
-| ---------------------- | --------------------------------------------------------- | ------------------------------------------- |
-| Catalogue of Birdsongs | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
-| Catalogue of Runes     | read any magical inscriptions                             | 80                                          |
-| Dwarven Song-Key       | see [Relics](/rules/magic/dwarven-relics/)                | 120                                         |
-| Edda of Beasts         | floors Animal Handling at Good (+1)                       | 30                                          |
-| Edda of Kennings       | floors Poetry at Good (+1)                                | 30                                          |
-| Edda of ...            | floors a skill at Good (+1)                               | 30                                          |
-| Galdr Staff            | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
-| Jar of Fireflies       | elves turn visible in firefly light                       | 2                                           |
+| **item**                      | **notes**                                                 | **price**                                   |
+| ----------------------------- | --------------------------------------------------------- | ------------------------------------------- |
+| Catalogue of Birdsongs        | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
+| Catalogue of Runes            | read any magical inscriptions                             | 80                                          |
+| Dwarven Song-Key              | see [Relics](/rules/magic/dwarven-relics/)                | 120                                         |
+| Edda of Beasts                | floors Animal Handling at Good (+1)                       | 30                                          |
+| Edda of Kennings              | floors Poetry at Good (+1)                                | 30                                          |
+| Edda of ...                   | floors a skill at Good (+1)                               | 30                                          |
+| Galdr Staff                   | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
+| Jar of Fireflies              | elves turn visible in firefly light                       | 2                                           |
+| sunstone & navigation scrolls | floors Wayfinding at Good (+1)                            | 30                                          |

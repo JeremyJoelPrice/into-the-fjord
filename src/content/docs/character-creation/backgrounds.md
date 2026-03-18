@@ -43,6 +43,7 @@ Suggested Gift: Great (+2) at Hunting
 - hound
 - seax (d6)
 - signalling horn
+- bear trap
 - snare trap
 
 ## Housekarl
@@ -86,16 +87,15 @@ Suggested Gift: Great (+2) at Sailing
 
 - common clothes (_weightless_)
 - axe (d8)
-- carved whale tooth
 - fishing net
-- lantern
 - seal bladder
+- sunstone & navigation scrolls
 - treasure map (distand island)
 - whale oil
 
 ## Seiðkona
 
-Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
+Suggested Gift: [Prophecy](/rules/magic/seiðr#prophecy)
 
 - priestess robes with catskin gloves (_weightless_)
 - catalogue of runes
@@ -103,7 +103,7 @@ Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 - ceremonial dagger
 - mallet & chisel
 - fly agaric x3
-- sample gathering kit
+- herbalism kit
 - staff (d6)
 
 ## Skald
@@ -111,7 +111,7 @@ Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
 Suggested Gift: Great (+2) at Poetry & Music
 
 - common clothes (_weightless_)
-- axe
+- axe (d8)
 - drum
 - incense
 - lyre
