@@ -156,7 +156,7 @@ A dead body being puppetted by a hivemind of 10,000 maggots.
 - they hatch in moments & start burrowing
 - over the next 48 hours, they gradually take control of the victims' body
 
-### Rot Zombie
+### Rotted
 
 A living thing overcome by The Rot, in this example a human.  
 Covered in tiny thorns, its skin damaged & oozing.
