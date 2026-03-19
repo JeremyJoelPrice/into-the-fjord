@@ -10,7 +10,7 @@ for example:
 - when their leader falls
 
 **Honour** represents how honest, loyal and courageous a creature is.  
-**Failure**: they do the selfsih thing.
+**Failure**: they do the selfish thing.
 
 ## Creature List
 
@@ -155,6 +155,19 @@ A dead body being puppetted by a hivemind of 10,000 maggots.
 - thrown eggs stick to skin & hair
 - they hatch in moments & start burrowing
 - over the next 48 hours, they gradually take control of the victims' body
+
+### Rot Zombie
+
+A living thing overcome by The Rot, in this example a human.  
+Covered in tiny thorns, its skin damaged & oozing.
+
+    Arm:1 Grd:5 Mgt:11 Grc:9 Wil:5
+    Scratch (d4)
+
+- Scratch transmits Rot
+- Constant frenzy of attacking new victims
+- Doesn't kill; if a victim is dying, will vomit blood-sap into their mouth to
+  save them
 
 ## Creating Your Own Creatures
 
