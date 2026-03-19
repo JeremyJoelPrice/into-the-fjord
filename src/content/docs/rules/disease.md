@@ -19,12 +19,14 @@ diseased:
 
 ## Common Diseases
 
-Each day when you wake, roll d6 and suffer the corresponding effect.
+Each day when you wake, roll d6 and suffer the corresponding effect.  
+You'll recover naturally, but it's quicker using the listed cure or a skilled
+herablist.
 
 ### Bone-sickness
 
-Cure: Ingest powdered troll bones  
-Effects (d6):
+**Cure**: Ingest powdered troll bones  
+**Effects** (d6):
 
 1. Reduce total Might by d4
 2. Gain Fatigue
@@ -35,8 +37,8 @@ Effects (d6):
 
 ### Blood-sickness
 
-Cure: Bathe in near-boiling water  
-Effects (d6):
+**Cure**: Bathe in near-boiling water  
+**Effects** (d6):
 
 1. Reduce total Grace by d6
 2. Extreme vertigo when moving up or down e.g. ladders
@@ -47,8 +49,8 @@ Effects (d6):
 
 ### Mind-sickness
 
-Cure: Rub freshly pressed berries in your ears  
-Effects (d6):
+**Cure**: Rub freshly pressed berries in your ears  
+**Effects** (d6):
 
 1. Reduce total Will by d4
 2. Require a stick to walk
@@ -60,12 +62,34 @@ Effects (d6):
 ### Flesh-sickness
 
 _A lump grows on your back._  
-Cure: Cover an axe in both fire and ice, then use it to cut off the lump  
-Effects (d6):
+**Cure**: Cover an axe in both fire and ice, then use it to cut off the lump  
+**Effects** (d6):
 
-1. Lump consumes a gear slot
-2. Lump consumes a gear slot
-3. Lump sprouts a mushroom
-4. Lump moves to another part of your back
-5. Lump shrinks, freeing a gear slot.
-6. Lump shrivels away for good.
+1. Lump consumes a random gear slot (roll d10)
+2. Lump consumes a random gear slot (roll d10)
+3. Lump moves to another part of your back (reroll d10 for each consumed gear
+   slot)
+4. Lump sprouts a softly glowing mushroom
+5. Lump shrinks, freeing a gear slot
+6. Disease ends, lump shrivels away for good
+
+## The Rot
+
+The Rot is an out-of-control curse which spoils crops and turns animals rabid.  
+It comes in many forms like the diseases below.  
+These can be cured by powerful magic, or by discovering the remedy.
+
+### Thorns
+
+_Tiny thorns grow around the infected area, irritating your skin._  
+_They slowly spread until your mind is bent on infecting others._
+
+**Cure**: unknown to most.  
+**How it progresses**:
+
+1. Thorns gradually spread over your body
+2. One scratch is enough to infect someone else
+3. When they reach your head, begin making daily Will rolls
+4. On a failed roll, you lose your mind and become rabid
+5. You are now a monster, and must be slain or cured before you infect anyone
+   else
