@@ -2,8 +2,12 @@
 title: Creatures
 ---
 
-Roll **Will** when a creature might panic/lose morale in a fight,  
-for example:
+Below are the most iconic creatures you might encounter in Norðland.
+
+When encountering natural animals or humans, there is a Poor (-1) chance  
+one or more of them is [diseased](/rules/disease/).
+
+Roll **Will** when a creature might panic/lose morale in a fight, for example:
 
 - when they start losing a fight
 - when their first ally falls
