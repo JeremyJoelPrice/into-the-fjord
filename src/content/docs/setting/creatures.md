@@ -77,6 +77,19 @@ A draugr who **feeds** on human flesh or blood:
   Many opt to starve themselves back to mindlessness, and can get trapped in
   this loop forever.
 
+### Elf
+
+Mysterious beings invisible by fire or sun light.  
+Their bodies are translucent, their minds are child-like and arbitrary.
+
+    Arm:3 Grd:2 Mgt:6 Grc:18 Wil:9 Hon:Grim (-2)
+    Flash of light (roll Grace or be dazzled for a turn)
+
+- Natural users of [seiðr magic](/rules/magic/seiðr/), and willing to trade
+- Especially apt at repelling undead, Rot disease, and anything unnatural
+- Love to explore & steal things, always leaving invisible notes and stashes of
+  gear for others
+
 ### Exile
 
 Below are the regulars, but anyone may be found among exiles.
