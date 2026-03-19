@@ -67,6 +67,10 @@ export default defineConfig({
 							slug: "rules/deprivation"
 						},
 						{
+							label: "Disease",
+							slug: "rules/disease"
+						},
+						{
 							label: "Resting & Healing",
 							slug: "rules/resting-and-healing"
 						},

@@ -8,7 +8,7 @@ and are **reduced** you take harm.
 | Ability | Represents                                                       | Harm                                                 | At 0 You Are |
 | ------- | ---------------------------------------------------------------- | ---------------------------------------------------- | ------------ |
 | Might   | muscle power, metabolism,<br />endurance                         | physical inury                                       | dead         |
-| Grace   | precision, agility,<br />quick reflexes                          | disease, venom,<br />exposure to cold                | paralysed    |
+| Grace   | precision, agility,<br />quick reflexes                          | venom,<br />exposure to cold                         | paralysed    |
 | Will    | mental clarity, willpower,<br />act first in a chaotic situation | magical, psychological, or<br />psychedellic attacks | comatose     |
 
 _See [Resting & Healing](/rules/resting-and-healing) for recovering Ability
