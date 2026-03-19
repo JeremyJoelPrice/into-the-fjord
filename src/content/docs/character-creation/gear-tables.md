@@ -56,56 +56,63 @@ title: Gear Tables
 
 ## Cultural/Specialist Items
 
-| **item**                 | **notes**                                    | **price** |
-| ------------------------ | -------------------------------------------- | --------- |
-| Armring                  | _weightless_<br />symbolises a sworn oath    | 50        |
-| Clothes, Common          | _weightless if worn_                         | 3         |
-| Clothes, Noble           | _weightless if worn_                         | 110       |
-| Clothes, Ragged          | _weightless if worn_                         | 1         |
-| Fine Tools               | _weightless_<br />For jewelery & lockpicking | 100       |
-| Hand Drum                | for dancing                                  | 3         |
-| Holy Symbol of The Light | _weightless_ necklace                        | 2         |
-| Hornpipe                 | for popular tunes                            | 3         |
-| Hourglass                |                                              | 120       |
-| Lyre                     | for sophisticated ballads                    | 80        |
-| Lens                     |                                              | 50        |
-| Quill & Ink              | _weightless_                                 | 40        |
-| Scales & Weights         |                                              | 20        |
+| **item**                 | **notes**                                                 | **price**                                   |
+| ------------------------ | --------------------------------------------------------- | ------------------------------------------- |
+| Armring                  | _weightless_<br />symbolises a sworn oath                 | 50                                          |
+| Clothes, Common          | _weightless if worn_                                      | 3                                           |
+| Clothes, Noble           | _weightless if worn_                                      | 110                                         |
+| Clothes, Ragged          | _weightless if worn_                                      | 1                                           |
+| Catalogue of Birdsongs   | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
+| Catalogue of Runes       | read any magical inscriptions                             | 80                                          |
+| Dwarven Song-Key         | see [Relics](/rules/magic/dwarven-relics/)                | 120                                         |
+| Edda of Kennings         | floors Poetry at Good (+1)                                | 30                                          |
+| Fine Tools               | _weightless_<br />For jewelery & lockpicking              | 100                                         |
+| Galdr Staff              | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
+| Hand Drum                | for dancing                                               | 3                                           |
+| Holy Symbol of The Light | _weightless_ necklace                                     | 2                                           |
+| Hornpipe                 | for popular tunes                                         | 3                                           |
+| Hourglass                |                                                           | 120                                         |
+| Jar of Fireflies         | elves turn visible in firefly light                       | 2                                           |
+| Lens                     |                                                           | 50                                          |
+| Lyre                     | for sophisticated ballads                                 | 80                                          |
+| Quill & Ink              | _weightless_                                              | 40                                          |
+| Scales & Weights         |                                                           | 20                                          |
 
 ## Expeditionary Gear
 
-| **item**          | **notes**                                                                                 | **price** |
-| ----------------- | ----------------------------------------------------------------------------------------- | --------- |
-| Battering Ram     | _bulky_ <br />wooden log with iron head                                                   | 100       |
-| Bedding           | _bulky_<br />hides & woollen blankets, <br />lets you have bedrest away from civilisation | 2         |
-| Birch Tar         | sticky & flammable, lots of black smoke                                                   | 4         |
-| Camouflage Cloak  | _weightless if worn_                                                                      | 15        |
-| Cooking Pot       | 6l                                                                                        | 3         |
-| Fishing Gear      | bait, small net & rod                                                                     | 15        |
-| Grappling Hook    |                                                                                           | 20        |
-| Kindling Box      | set fire to logs or structures which are large/wet/lacquered                              | 1         |
-| Ladder (10ft)     | _bulky_                                                                                   | 4         |
-| Lantern           | burns for an hour                                                                         | 10        |
-| Mirror            | polished iron                                                                             | 4         |
-| Pig Tallow        | slippery, greasy, melts before it burns                                                   | 2         |
-| Powdered Dye      | _weightless_<br />colours smoke, liquids etc.                                             | 10        |
-| Rope (25ft)       |                                                                                           | 10        |
-| Seal Bladder      | _weightless when empty_<br />water tight, 0.5l                                            | 15        |
-| Seasoned Firewood | _bulky_<br />burns in any weather and produces no smoke                                   | 5         |
-| Signalling Horn   |                                                                                           | 4         |
-| Skis              | _bulky_<br />travel faster than horses over snowy ground                                  | 20        |
-| Snow Shoes        | walk on snow without sinking in                                                           | 15        |
-| Spike             |                                                                                           | 8         |
-| Spiked Boots      |                                                                                           | 15        |
-| Tinderbox         | _weightless_<br />flint, pyrite & fungus                                                  | -         |
-| Torch             | burns for an hour                                                                         | 1         |
-| Trap, bear        | _bulky_                                                                                   | 20        |
-| Trap, snare       |                                                                                           | 10        |
-| Tent              | _bulky_<br />fits 2 people                                                                | 10        |
-| Trail Rations     | _3 per bundle_<br />reindeer jerky, hard cheese & dense bread                             | 1         |
-| Waxed Pouch       | waterproof container                                                                      | 10        |
-| Whale Oil         | flammable oil, used in lanterns (3 uses)                                                  | 4         |
-| Winter Cloak      | protects from [exposure](/rules/deprivation#exposure)                                     | 15        |
+| **item**                      | **notes**                                                                                 | **price** |
+| ----------------------------- | ----------------------------------------------------------------------------------------- | --------- |
+| Battering Ram                 | _bulky_ <br />wooden log with iron head                                                   | 100       |
+| Bedding                       | _bulky_<br />hides & woollen blankets, <br />lets you have bedrest away from civilisation | 2         |
+| Birch Tar                     | sticky & flammable, lots of black smoke                                                   | 4         |
+| Camouflage Cloak              | _weightless if worn_                                                                      | 15        |
+| Cooking Pot                   | 6l                                                                                        | 3         |
+| Fishing Gear                  | bait, small net & rod                                                                     | 15        |
+| Grappling Hook                |                                                                                           | 20        |
+| Kindling Box                  | set fire to logs or structures which are large/wet/lacquered                              | 1         |
+| Ladder (10ft)                 | _bulky_                                                                                   | 4         |
+| Lantern                       | burns for an hour                                                                         | 10        |
+| Mirror                        | polished iron                                                                             | 4         |
+| Pig Tallow                    | slippery, greasy, melts before it burns                                                   | 2         |
+| Powdered Dye                  | _weightless_<br />colours smoke, liquids etc.                                             | 10        |
+| Rope (25ft)                   |                                                                                           | 10        |
+| Seal Bladder                  | _weightless when empty_<br />water tight, 0.5l                                            | 15        |
+| Seasoned Firewood             | _bulky_<br />burns in any weather and produces no smoke                                   | 5         |
+| Signalling Horn               |                                                                                           | 4         |
+| Skis                          | _bulky_<br />travel faster than horses over snowy ground                                  | 20        |
+| Snow Shoes                    | walk on snow without sinking in                                                           | 15        |
+| Spike                         |                                                                                           | 8         |
+| Spiked Boots                  |                                                                                           | 15        |
+| Sunstone & navigation scrolls | floors Wayfinding at Good (+1)                                                            | 30        |
+| Tinderbox                     | _weightless_<br />flint, pyrite & fungus                                                  | -         |
+| Torch                         | burns for an hour                                                                         | 1         |
+| Trap, bear                    | _bulky_                                                                                   | 20        |
+| Trap, snare                   |                                                                                           | 10        |
+| Tent                          | _bulky_<br />fits 2 people                                                                | 10        |
+| Trail Rations                 | _3 per bundle_<br />reindeer jerky, hard cheese & dense bread                             | 1         |
+| Waxed Pouch                   | waterproof container                                                                      | 10        |
+| Whale Oil                     | flammable oil, used in lanterns (3 uses)                                                  | 4         |
+| Winter Cloak                  | protects from [exposure](/rules/deprivation#exposure)                                     | 15        |
 
 ## Farmsteads
 
@@ -143,14 +150,15 @@ title: Gear Tables
 
 Herbs need to be properly prepared before they work as described below.
 
-| **item**        | **notes**                                                                                                                                     | **price** |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Dwarf Nettle    | _3 per bundle_<br />fights disease and infection                                                                                              | 3         |
-| Fly Agaric      | _3 per bundle_<br />causes hallucinations                                                                                                     | 5         |
-| Grooming Kit    | make a better first impression                                                                                                                | 15        |
-| Henbane mixture | _3 per bundle_<br /> armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1 hour, then gain [Fatigue](/rules/fatigue/) | 5         |
-| Herbalism Kit   | _bulky_<br />gather samples, create & administer mixtures                                                                                     | 30        |
-| Incense         | aids relaxation & focus                                                                                                                       | 10        |
+| **item**             | **notes**                                                                                                                                     | **price** |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| Catalogue of Disease | floors Herbalism at Good (+1) when curing diseases                                                                                            | 20        |
+| Dwarf Nettle         | _3 per bundle_<br />fights disease and infection                                                                                              | 3         |
+| Fly Agaric           | _3 per bundle_<br />causes hallucinations                                                                                                     | 5         |
+| Grooming Kit         | make a better first impression                                                                                                                | 15        |
+| Henbane mixture      | _3 per bundle_<br /> armour: 3 when naked<br />immune to fire<br />violently restless<br />lasts 1 hour, then gain [Fatigue](/rules/fatigue/) | 5         |
+| Herbalism Kit        | _bulky_<br />gather samples, create & administer mixtures                                                                                     | 30        |
+| Incense              | aids relaxation & focus                                                                                                                       | 10        |
 
 ## Hirelings & Services
 
@@ -180,23 +188,10 @@ Herbs need to be properly prepared before they work as described below.
 | --------------------- | ----------------------------------------------- | --------- |
 | Cart, horse-drawn     | +8 slots, slow                                  | 10        |
 | Cart, hand            | _bulky_<br />+6 slots, slow                     | 5         |
+| Edda of Beasts        | floors Animal Handling at Good (+1)             | 30        |
 | Horse                 |                                                 | 40        |
 | Horse, battle-trained | Doesn't panic during battle                     | 100       |
 | Hound                 | Well trained companion                          | 20        |
 | Pack Mule             | 6 gear slots, slow                              | 15        |
 | Sled, small           | 2 passengers, 4 gear slots, pulled by 1 hound   | 30        |
 | Sled, large           | 4 passengers, 20 gear slots, pulled by 4 hounds | 75        |
-
-## Items of Power
-
-| **item**                      | **notes**                                                 | **price**                                   |
-| ----------------------------- | --------------------------------------------------------- | ------------------------------------------- |
-| Catalogue of Birdsongs        | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
-| Catalogue of Runes            | read any magical inscriptions                             | 80                                          |
-| Dwarven Song-Key              | see [Relics](/rules/magic/dwarven-relics/)                | 120                                         |
-| Edda of Beasts                | floors Animal Handling at Good (+1)                       | 30                                          |
-| Edda of Kennings              | floors Poetry at Good (+1)                                | 30                                          |
-| Edda of ...                   | floors a skill at Good (+1)                               | 30                                          |
-| Galdr Staff                   | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
-| Jar of Fireflies              | elves turn visible in firefly light                       | 2                                           |
-| sunstone & navigation scrolls | floors Wayfinding at Good (+1)                            | 30                                          |
