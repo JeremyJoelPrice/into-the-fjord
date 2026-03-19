@@ -9,21 +9,18 @@ for example:
 - when their first ally falls
 - when their leader falls
 
-**Honour** represents how honest, loyal and courageous a creature is.  
-**Failure**: they do the selfish thing.
-
 ## Creature List
 
 ### Bear
 
 ##### Brown Bear
 
-    Grd:6 Mgt:15 Grc:13 Wil:5 Hon: Poor (-1)
+    Grd:6 Mgt:15 Grc:13 Wil:5
     claws (2d8) bite (d10)
 
 ##### Polar Bear
 
-    Arm:1 Grd:12 Mgt:18 Grc:10 Wil:9 Hon:Poor (-1)
+    Arm:1 Grd:12 Mgt:18 Grc:10 Wil:9
     claws (2d12) bite (2d6)
 
 ### Draugr (Undead)
@@ -32,12 +29,12 @@ A body which has died, and been reanimated.
 
 **Mindless Draugr**
 
-    Arm:1 Grd:3 Mgt:15 Grc:5 Wil:- Hon:n/a
+    Arm:1 Grd:3 Mgt:15 Grc:5 Wil:-
     fists (1d6), faulty axe (d6), faulty helmet
 
 **Lucid Draugr Warrior**
 
-    Arm:2 Grd:6 Mgt:16 Grc:9 Wil:10 Hon:Grim (-2)
+    Arm:2 Grd:6 Mgt:16 Grc:9 Wil:10
     fists (1d6), axe (d6), helmet, shield
 
 It can't be killed, for it is already dead.  
@@ -82,7 +79,7 @@ A draugr who **feeds** on human flesh or blood:
 Mysterious beings invisible by fire or sun light.  
 Their bodies are translucent, their minds are child-like and arbitrary.
 
-    Arm:3 Grd:2 Mgt:6 Grc:18 Wil:9 Hon:Grim (-2)
+    Arm:3 Grd:2 Mgt:6 Grc:18 Wil:9
     Flash of light (roll Grace or be dazzled for a turn)
 
 - Natural users of [seiðr magic](/rules/magic/seiðr/), and willing to trade
@@ -96,7 +93,7 @@ Below are the regulars, but anyone may be found among exiles.
 
 ##### Bandit
 
-    Arm:1 Grd:3 Mgt:12 Grc:6 Wil:8 Hon:Grim (-2)
+    Arm:1 Grd:3 Mgt:12 Grc:6 Wil:8
     cudgel or faulty seax (d6), faulty helmet
 
 - living rough & acting tough
@@ -104,7 +101,7 @@ Below are the regulars, but anyone may be found among exiles.
 
 ##### Chief
 
-    Arm:2 Grd:12 Mgt:14 Grc:10 Wil:12 Hon:Terr (-3)
+    Arm:2 Grd:12 Mgt:14 Grc:10 Wil:12
     faulty axe (d8), tattered mail shirt, helmet, grooming kit
     special ability\*
 
@@ -124,7 +121,7 @@ Below are the regulars, but anyone may be found among exiles.
 
 ##### Wretch
 
-    Arm:0 Grd:1 Mgt:5 Grc:8 Wil:6 Hon:Terr (-3)
+    Arm:0 Grd:1 Mgt:5 Grc:8 Wil:6
 
 - not cut out for this life
 - wants it all to end
@@ -151,7 +148,7 @@ Below are the regulars, but anyone may be found among exiles.
 
 ### Giant
 
-    Arm:1 Grd:14 Mgt:15 Grc:8 Wil:12 Hon:Great (+2)
+    Arm:1 Grd:14 Mgt:15 Grc:8 Wil:12
     fists (2d10) or thrown boulder (2d12 area)
 
 - Sometimes mistaken for a rock formation
@@ -162,7 +159,7 @@ Below are the regulars, but anyone may be found among exiles.
 
 A dead body being puppetted by a hivemind of 10,000 maggots.
 
-    Arm:1 Grd:4 Mgt:12 Grc:6 Wil:12 Hon:Terr (-3)
+    Arm:1 Grd:4 Mgt:12 Grc:6 Wil:12
     Punch (d4), throw eggs
 
 - thrown eggs stick to skin & hair
