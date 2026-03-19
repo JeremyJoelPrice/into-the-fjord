@@ -2,8 +2,8 @@
 title: Disease
 ---
 
-It's fairly common to encounter diseased creatures or people. You become
-infected if you fail a Might roll after being exposed to a disease.  
+It's fairly common to encounter diseased creatures or people.  
+You become infected if you fail a Might roll after being exposed to a disease.  
 Become exposed by:
 
 - a diseased creature attacking you and dealing Might damage
