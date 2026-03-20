@@ -64,6 +64,7 @@ export const galdrSpells = [
 	"Call Creature",
 	"Command Current",
 	"Dart",
+	"Deafen",
 	"Deathmaiden's Delay",
 	"Dominate",
 	"Draw Disease",
@@ -71,6 +72,9 @@ export const galdrSpells = [
 	"Dry",
 	"Dwarf's Darkvision",
 	"Elf's Empathy",
+	"Fear",
+	"Fish",
+	"Fury",
 	"Hard Hands",
 	"Loki's Laughter",
 	"Loki's Lure",
@@ -80,6 +84,7 @@ export const galdrSpells = [
 	"Secret Sight",
 	"Serpent Spit",
 	"Shoot",
+	"Shriek",
 	"Snuff",
 	"Spark",
 	"Spiteful Senna",
@@ -88,7 +93,8 @@ export const galdrSpells = [
 	"Stir",
 	"Stone Stomach",
 	"Thor's Threnody",
-	"Warding Weapon"
+	"Transform",
+	"Valkyrie"
 ];
 
 const nonphysicalCharacterisation = [
