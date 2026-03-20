@@ -2,18 +2,16 @@
 title: Disease
 ---
 
-It's fairly common to encounter diseased creatures or people.  
-You become infected if you fail a Might roll after being exposed to a disease.  
-Become exposed by:
+You catch diseases by failing a [Might](/rules/ability-scores/) roll after:
 
-- a diseased creature attacking you and dealing Might damage
-- a trap purposely designed to infect victims
-- environmental hazards, insects, or ingesting spoiled food
+- a diseased creature attacks
+- exopsure infected places, insects, or ingesting spoiled food
+- springing a trap designed to infect you
 
-In such a martial society there are actually social advantages to being
-diseased:
+In this martial society, disease means you're weak & unimportant.  
+This has social advantages:
 
-- you are seen as too weak to matter; secrets are spoken aloud in front of you
+- secrets are carelessly spoken aloud in front of you
 - able to slip into restricted places
 - people are kinder to you, especially exiles, elves, and other outsiders
 
@@ -84,12 +82,9 @@ These can be cured by powerful magic, or by discovering the remedy.
 _Tiny thorns grow around the infected area, irritating your skin._  
 _They slowly spread until your mind is bent on infecting others._
 
-**Cure**: unknown to most.  
-**How it progresses**:
-
 1. Thorns gradually spread over your body
-2. One scratch is enough to infect someone else
-3. When they reach your head, begin making daily Will rolls
+2. One scratch can infect someone else
+3. When they reach your brain, begin making daily Will rolls
 4. On a failed roll, you lose your mind and become rabid
 5. You are now a monster, and must be slain or cured before you infect anyone
    else

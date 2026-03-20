@@ -4,9 +4,9 @@ title: Wounds
 
 You are Wounded when:
 
--   An attacker rolls maximum damage, **AND**
--   You fail your Might roll  
-    _(see [Attacks & Damage](/rules/fighting/attacks-and-damage/))_
+- An attacker rolls maximum damage, **AND**
+- You fail your Might roll  
+  _(see [Attacks & Damage](/rules/fighting/attacks-and-damage/))_
 
 Wounds are nasty, but you come back stronger.  
 Lookup the Might damage you took below.
@@ -25,18 +25,19 @@ your new max.
 
 **5-6**  
 _Your flesh is torn apart and blood soaks your clothes._  
-You gain a [**Fatigue**](/rules/fatigue) until you get **1 week** of rest.  
+You gain a [**Fatigue**](/rules/fatigue) until you get **1 week** of bed rest.  
 On recovery: roll **1d6**; add it to your max **Guard**.
 
 **7-8**  
 _Fractured bones leave you semi-conscious._  
-You are [**Deprived**](/rules/deprivation) until you get **1 week** of rest.  
+You are [**Deprived**](/rules/deprivation) until you get **1 week** of bed
+rest.  
 On recovery: roll **3d6**; if it's higher than your max **Grace**, it becomes
 your new max.
 
 **9-10**  
 _Your guts are hanging out, your wakefulness flickers._  
-**Deprived** & crippled until you get **3 weeks** of rest.  
+**Deprived** & crippled until you get **3 weeks** of bed rest.  
 On recovery: roll **3d6**; if it's higher than your max **Will**, it becomes
 your new max.
 
@@ -49,7 +50,7 @@ Roll 1d4\*:
 | 3   | Left Leg | 4   | Right Leg |
 
 _This limb is chopped off, crushed, or rendered useless._  
-You need **immediate** help, then **2 weeks** of rest.  
+You need **immediate** help, then **2 weeks** of bed rest.  
 On recovery: increase your **Will** by **1d6**.
 
 \*If your character is four-legged or has wings, roll 1d6 when choosing a
