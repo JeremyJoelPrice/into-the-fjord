@@ -74,10 +74,6 @@ export default defineConfig({
 							label: "Resting & Healing",
 							slug: "rules/resting-and-healing"
 						},
-						{
-							label: "Reputation",
-							slug: "rules/reputation"
-						},
 						{ label: "Skills", slug: "rules/skills" },
 						{
 							label: "Fighting",
@@ -136,6 +132,10 @@ export default defineConfig({
 								{
 									label: "Exposure",
 									slug: "rules/optional-rules/exposure"
+								},
+								{
+									label: "Reputation",
+									slug: "rules/optional-rules/reputation"
 								}
 							]
 						}
