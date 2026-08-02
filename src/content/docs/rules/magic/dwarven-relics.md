@@ -27,6 +27,9 @@ On command, this rope is fixed in place with the strength of 9 men.
 The rest of the time it is like a living serpent; it wants sleep,  
 sunlight, and prey to chase. If angered it lashes out causing rope burn.
 
+**Dwarven Rope**  
+Invisible and unbreakable.
+
 **Flying Weapon**  
 When thrown, this weapon strikes true & returns to your hand.  
 It can hit 1 extra target for each consecutive Grace roll you make,  

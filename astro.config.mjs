@@ -11,20 +11,20 @@ export default defineConfig({
 			customCss: ["/src/styles/custom.css"],
 			sidebar: [
 				{
-					// start here
-					label: "Start Here",
+					// about the game
+					label: "About The Game",
 					items: [
 						{
 							label: "Introduction",
-							slug: "start-here/introduction"
+							slug: "about/introduction"
 						},
 						{
 							label: "How To Play",
-							slug: "start-here/how-to-play"
+							slug: "about/how-to-play"
 						},
 						{
 							label: "Philosophy & Playstyle",
-							slug: "start-here/philosophy"
+							slug: "about/philosophy"
 						}
 					]
 				},
@@ -67,15 +67,14 @@ export default defineConfig({
 							slug: "rules/deprivation"
 						},
 						{
+							label: "Disease",
+							slug: "rules/disease"
+						},
+						{
 							label: "Resting & Healing",
 							slug: "rules/resting-and-healing"
 						},
-						{
-							label: "Reputation",
-							slug: "rules/reputation"
-						},
 						{ label: "Skills", slug: "rules/skills" },
-						{ label: "Exposure", slug: "rules/exposure" },
 						{
 							label: "Fighting",
 							items: [
@@ -123,6 +122,20 @@ export default defineConfig({
 								{
 									label: "Dwarven Relics",
 									slug: "rules/magic/dwarven-relics"
+								}
+							]
+						},
+						{
+							// optional
+							label: "Optional Rules",
+							items: [
+								{
+									label: "Exposure",
+									slug: "rules/optional-rules/exposure"
+								},
+								{
+									label: "Reputation",
+									slug: "rules/optional-rules/reputation"
 								}
 							]
 						}

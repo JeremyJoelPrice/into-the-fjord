@@ -15,7 +15,7 @@ Damaged & out of options, they make a final push for glory & victory.
 
 Here are some sources of drama and conflict the players can get involved in.
 
-###### Dwarven Megastructures
+###### Dwarven Halls
 
 Below ground lie the abandoned halls of _Niðavellir_.  
 Cathedral-like and filled with magical [relics](/rules/magic/dwarven-relics),

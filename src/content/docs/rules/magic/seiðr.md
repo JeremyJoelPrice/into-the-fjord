@@ -20,15 +20,14 @@ Unless you gifted with prophecy, you must be taught this ability by a mentor.
 
 1. Take a dose of
    [Fly Agaric](/character-creation/gear-tables/#herbal--medicinal)
-2. Compose a multiple-choice or yes/no question
+2. Compose 1d4 multiple-choice or yes/no questions
 
-3. The Guide will answer your question truthfully,  
+3. The Guide will answer your questions truthfully,  
    using the choices you provided
 
 **Question must be**:
 
-- About the near future, but not the outcome of a conflict (that is Odin's
-  domain)
+- About the future, but not the outcome of a conflict (that is Odin's domain)
 - Simple - no "ands", "buts" or run-on sentences
 - Vague - no names, numbers or exactitudes
 

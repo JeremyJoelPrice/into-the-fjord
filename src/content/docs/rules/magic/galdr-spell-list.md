@@ -20,16 +20,17 @@ Roll 2d6, taking one die as the 10s column.
 | 26  | Dry                  | Draws out moisture from a nearby target into a small cloud, which can gently move & precipitate. Dissipates after 9 minutes.                             |
 | 31  | Dwarf’s Darkvision   | Echolocate by singing - all who hear you effectively see. Colour & markings are not visible, carvings can be read slowly.                                |
 | 32  | Elf’s Empathy        | Communicate with plants & animals for 9 hours.                                                                                                           |
-| 33  | Fish                 | You gain gills, webbed digits, and tolerance for ice-cold water. You lose your lungs. Lasts 9 minutes.                                                   |
-| 34  | Hard Hands           | Your hands become d10 weapons for 9 minutes.                                                                                                             |
-| 35  | Identity             | Create a new name & reputation you’ve never had before. For 9 hours, everybody recognises this identity.                                                 |
+| 33  | Fear                 | Nearby group is fearful & cowardly for 9 minutes.                                                                                                        |
+| 34  | Fish                 | You gain gills, webbed digits, and tolerance for ice-cold water. You lose your lungs. Lasts 9 minutes.                                                   |
+| 34  | Fury                 | All nearby fallen allies rise with at least 1 Might.                                                                                                     |
+| 35  | Hard Hands           | Your hands become living iron & deal d10 damage for 9 minutes.                                                                                           |
 | 36  | Loki’s Laughter      | Force another magic user to misfire.                                                                                                                     |
 | 41  | Loki’s Lure          | A sound you can hear seems to come from somewhere else.                                                                                                  |
 | 42  | Lift                 | Gently move the next thing you touch as if it weighed almost nothing. Structures may not hold together.                                                  |
-| 43  | Possess              | Your body lies helpless while you inhabit a nearby animal. Timid & tired animals are easiest to possess.                                                 |
+| 43  | Possess              | Your body lies helpless while you possess a nearby animal.                                                                                               |
 | 44  | Reach                | Choose a target with nothing between you: touch it as if there’s no distance. Ends when you touch something else.                                        |
 | 45  | Secret Sight         | Choose a target you can locate; you see through their eyes instead of your own for as long as you chant.                                                 |
-| 46  | Serpent Spit         | A serpent emerges from a poison victim’s mouth: they are no longer poisoned, the serpent is your friend, and its bite transmits the same poison.         |
+| 46  | Serpent Spit         | A serpent emerges from a victim’s mouth: they are no longer poisoned, and this _friendly_ serpent's bite transmits the same poison.                      |
 | 51  | Shoot                | A bow you can see shoots a magical arrow in whatever direction it’s pointing. The arrow drags the target along until it hits a flat surface, pinning it. |
 | 52  | Shriek               | Shatters glass, damages walls/doors, and stuns anyone who fails a Might roll.                                                                            |
 | 53  | Snuff                | Extinguish all nearby fires. Huge ones might be tricky.                                                                                                  |
@@ -38,7 +39,7 @@ Roll 2d6, taking one die as the 10s column.
 | 56  | Splinter             | Force plants to make way.                                                                                                                                |
 | 61  | Spy                  | A target you touch is visible to you no matter what for 9 hours.                                                                                         |
 | 62  | Stir                 | A liquid you can see will violently bubble and spin for 9 breaths.                                                                                       |
-| 63  | Stone Stomach        | Nearby target can safely eat rotten or poisonous food.                                                                                                   |
+| 63  | Stone Stomach        | Nearby target is immune to poison/disease for 1 day.                                                                                                     |
 | 64  | Thor’s Threnody      | Sacrificing a goat changes the weather.                                                                                                                  |
-| 65  | Transform            | Willing target becomes an inanimate object.                                                                                                              |
-| 66  | Warding Weapon       | Carve runes on a weapon: it will never harm the person you name.                                                                                         |
+| 65  | Transform            | Willing target becomes an inanimate object until you release them.                                                                                       |
+| 66  | Valkyrie             | Summons a Valkyrie.                                                                                                                                      |

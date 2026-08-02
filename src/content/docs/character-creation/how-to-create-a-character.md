@@ -9,26 +9,26 @@ Append -son or -sdottir to your surname e.g. Helga Runasdottir
 
 **Female Names**
 
-|     |          |     |          |     |       |     |       |
-| --- | -------- | --- | -------- | --- | ----- | --- | ----- |
-| 1   | Agatha   | 6   | Grimhild | 11  | Lífa  | 16  | Skuld |
-| 2   | Brynhild | 7   | Helga    | 12  | Magna | 17  | Tóla  |
-| 3   | Dalla    | 8   | Ingunn   | 13  | Nefja | 18  | Una   |
-| 4   | Elisif   | 9   | Jórunn   | 14  | Oda   | 19  | Valka |
-| 5   | Frida    | 10  | Katla    | 15  | Rúna  | 20  | Yrsa  |
+|     |        |     |        |     |          |     |        |
+| --- | ------ | --- | ------ | --- | -------- | --- | ------ |
+| 1   | Alva   | 6   | Estrid | 11  | Ingrid   | 16  | Signe  |
+| 2   | Astrid | 7   | Freya  | 12  | Kari     | 17  | Sigrid |
+| 3   | Bodil  | 8   | Gudrun | 13  | Liv      | 18  | Thyra  |
+| 4   | Brita  | 9   | Helga  | 14  | Ragnhild | 19  | Tora   |
+| 5   | Dagny  | 10  | Hilda  | 15  | Runa     | 20  | Ylva   |
 
 <br />
 <br />
 
 **Male Names**
 
-|     |       |     |        |     |        |     |        |
-| --- | ----- | --- | ------ | --- | ------ | --- | ------ |
-| 1   | Alver | 6   | Finn   | 11  | Kolr   | 16  | Ragnar |
-| 2   | Björn | 7   | Galti  | 12  | Lambi  | 17  | Sigurð |
-| 3   | Cnut  | 8   | Harald | 13  | Magnus | 18  | Trygg  |
-| 4   | Dagr  | 9   | Ivar   | 14  | Nafni  | 19  | Vali   |
-| 5   | Egil  | 10  | Jokul  | 15  | Olaf   | 20  | Yngvar |
+|     |        |     |        |     |        |     |         |
+| --- | ------ | --- | ------ | --- | ------ | --- | ------- |
+| 1   | Anders | 6   | Halvar | 11  | Leif   | 16  | Sigurd  |
+| 2   | Arne   | 7   | Harald | 12  | Magnus | 17  | Sten    |
+| 3   | Bjorn  | 8   | Ivar   | 13  | Nils   | 18  | Svend   |
+| 4   | Erik   | 9   | Karl   | 14  | Olaf   | 19  | Torsten |
+| 5   | Eskil  | 10  | Knut   | 15  | Rune   | 20  | Ulf     |
 
 ## 2. Ability Scores
 
@@ -88,19 +88,7 @@ You may choose one of the following options:
   [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
 - Able to [prophesy](/rules/magic/seiðr#prophecy) the future
 
-## 7. Finishing Touches
-
-Give your character a [Reputation](/rules/reputation) of "Fair (+0)",  
-unless your kit already established this.
-
-Write down a short description of your character.  
-Consider things like:
-
-- Your physical appearance
-- Your ambitions
-- Your beliefs & loyalties
-
-## 8. Twist of Fate (Optional)
+## 6. Twist of Fate (Optional)
 
 If your highest Ability score is 10 or less, you may roll 1d10 on the table
 below.  
@@ -127,4 +115,16 @@ Otherwise, roll 1d20.
 | 17  | you have bark-like skin (brittle, flammable & ugly)                             |
 | 18  | you are illiterate & unable to learn a second language                          |
 | 19  | your clan has chosen you as the next human sacrifice                            |
-| 20  | A Valkyrie has chosen you, and is on her way to collect your corpse             |
+| 20  | A Valkyrie has marked you for a glorious death, and is actively pursuing you    |
+
+## 7. Finishing Touches
+
+Give your character a [Reputation](/rules/reputation) of "Fair (+0)",  
+unless your kit already established this.
+
+Write down a short description of your character.  
+Consider things like:
+
+- Your physical appearance
+- Your ambitions
+- Your beliefs & loyalties

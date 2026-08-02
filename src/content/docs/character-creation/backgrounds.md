@@ -6,9 +6,8 @@ title: Backgrounds
 
 Suggested Gift: Great (+2) at Poetry & Music
 
-- common clothes
+- common clothes (_weightless_)
 - axe (d8)
-- book of kennings
 - grooming kit
 - helmet
 - shield
@@ -19,57 +18,51 @@ Suggested Gift: Great (+2) at Poetry & Music
 Suggested Gift: Great (+2) at Animal Handling
 
 - Poor (-1) reputation
-- ragged clothes
+- ragged clothes (_weightless_)
 - axe (d8)
 - camouflage cloak
 - henbane mixture x2
-- hornpipe
-- fishing net
 - seal bladder (filled with wine)
 
 ## Herbalist
 
 Suggested Gift: Great (+2) at Herbalism
 
-- common clothes
-- bedding
-- cooking pot
+- common clothes (_weightless_)
+- bedding (_bulky_)
 - dwarf nettle x3
-- mortar & pestle
-- sampling kit
+- Herbalism Kit (_bulky_)
 - staff (d6)
 
 ## Houndmaster
 
 Suggested Gift: Great (+2) at Hunting
 
-- common clothes
-- bow (d6)
-- cooking pot
-- hunting hound
+- common clothes (_weightless_)
+- bow (d6) (_bulky_)
+- hound
 - seax (d6)
 - signalling horn
+- bear trap
 - snare trap
 
 ## Housekarl
 
 Suggested Gift: Great (+2) at Poetry & Music
 
-- common clothes
+- common clothes (_weightless_)
 - armring
-- bow (d6)
-- dane axe (d10)
+- bow (d6) (_bulky_)
+- dane axe (d10) (_bulky_)
 - grooming kit
 - helmet
-- lyre
 - manacles
 
 ## Jarl
 
 Feeble but loyal thrall (5 gear slots)
 
-- Good (+1) reputation
-- noble clothes
+- noble clothes (_weightless_)
 - grooming kit
 - mail shirt
 - shield
@@ -79,10 +72,10 @@ Feeble but loyal thrall (5 gear slots)
 
 Suggested Gift: Great (+2) at Mercantile
 
-- common clothes
+- common clothes (_weightless_)
 - dwarven song-key with
   [random contents](/rules/magic/dwarven-relics/#random-song-key-contents)
-- crossbow (d8)
+- crossbow (d8) (_bulky_)
 - lens
 - pack mule
 - scales & weights
@@ -92,34 +85,33 @@ Suggested Gift: Great (+2) at Mercantile
 
 Suggested Gift: Great (+2) at Sailing
 
-- common clothes
+- common clothes (_weightless_)
 - axe (d8)
-- carved whale tooth
 - fishing net
-- lantern
 - seal bladder
 - sunstone & navigation scrolls
+- treasure map (distand island)
 - whale oil
 
 ## Seiðkona
 
-Suggested Gift: Knows [Prophecy](/rules/magic/seiðr#prophecy)
+Suggested Gift: [Prophecy](/rules/magic/seiðr#prophecy)
 
-- priest's robes with catskin gloves
+- priestess robes with catskin gloves (_weightless_)
+- catalogue of runes
 - candle x2
-- book of runes
 - ceremonial dagger
-- chisel
-- sample gathering kit
+- mallet & chisel
+- fly agaric x3
+- herbalism kit
 - staff (d6)
 
 ## Skald
 
 Suggested Gift: Great (+2) at Poetry & Music
 
-- common clothes
-- axe
-- book of kennings
+- common clothes (_weightless_)
+- axe (d8)
 - drum
 - incense
 - lyre
@@ -130,10 +122,10 @@ Suggested Gift: Great (+2) at Poetry & Music
 
 Suggested Gift: Great (+2) at Wayfinding
 
-- common clothes
+- common clothes (_weightless_)
 - axe (d8)
 - bedding
-- book of bird songs
+- catalogue of birdsongs
 - jar of fireflies
 - winter cloak
 - staff (d6)

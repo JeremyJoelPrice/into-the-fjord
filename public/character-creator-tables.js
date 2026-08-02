@@ -1,47 +1,47 @@
 export const femaleNames = [
-	"Agatha",
-	"Brynhild",
-	"Dalla",
-	"Elisif",
-	"Frida",
-	"Grimhild",
+	"Alva",
+	"Astrid",
+	"Bodil",
+	"Brita",
+	"Dagny",
+	"Estrid",
+	"Freya",
+	"Gudrun",
 	"Helga",
-	"Ingunn",
-	"Jórunn",
-	"Katla",
-	"Lífa",
-	"Magna",
-	"Nefja",
-	"Oda",
-	"Rúna",
-	"Skuld",
-	"Tóla",
-	"Una",
-	"Valka",
-	"Yrsa"
+	"Hilda",
+	"Ingrid",
+	"Kari",
+	"Liv",
+	"Ragnhild",
+	"Runa",
+	"Signe",
+	"Sigrid",
+	"Thyra",
+	"Tora",
+	"Ylva"
 ];
 
 export const maleNames = [
-	"Alver",
-	"Björn",
-	"Cnut",
-	"Dagr",
-	"Egil",
-	"Finn",
-	"Galti",
+	"Anders",
+	"Arne",
+	"Bjorn",
+	"Erik",
+	"Eskil",
+	"Halvar",
 	"Harald",
 	"Ivar",
-	"Jokul",
-	"Kolr",
-	"Lambi",
+	"Karl",
+	"Knut",
+	"Leif",
 	"Magnus",
-	"Nafni",
+	"Nils",
 	"Olaf",
-	"Ragnar",
-	"Sigurð",
-	"Trygg",
-	"Vali",
-	"Yngvar"
+	"Rune",
+	"Sigurd",
+	"Sten",
+	"Svend",
+	"Torsten",
+	"Ulf"
 ];
 
 export const skills = [
@@ -64,6 +64,7 @@ export const galdrSpells = [
 	"Call Creature",
 	"Command Current",
 	"Dart",
+	"Deafen",
 	"Deathmaiden's Delay",
 	"Dominate",
 	"Draw Disease",
@@ -71,6 +72,9 @@ export const galdrSpells = [
 	"Dry",
 	"Dwarf's Darkvision",
 	"Elf's Empathy",
+	"Fear",
+	"Fish",
+	"Fury",
 	"Hard Hands",
 	"Loki's Laughter",
 	"Loki's Lure",
@@ -80,6 +84,7 @@ export const galdrSpells = [
 	"Secret Sight",
 	"Serpent Spit",
 	"Shoot",
+	"Shriek",
 	"Snuff",
 	"Spark",
 	"Spiteful Senna",
@@ -88,7 +93,8 @@ export const galdrSpells = [
 	"Stir",
 	"Stone Stomach",
 	"Thor's Threnody",
-	"Warding Weapon"
+	"Transform",
+	"Valkyrie"
 ];
 
 const nonphysicalCharacterisation = [
@@ -323,9 +329,8 @@ export const backgrounds = [
 		gift: "Great (+2) at Poetry & Music",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
+			"common clothes (weightless)",
 			"axe (d8)",
-			"book of kennings",
 			"grooming kit",
 			"helmet",
 			"shield",
@@ -337,12 +342,10 @@ export const backgrounds = [
 		gift: "Great (+2) at Animal Handling",
 		reputation: "Poor (-1)",
 		gear: [
-			"ragged clothes",
+			"ragged clothes (weightless)",
 			"axe (d8)",
 			"camouflage cloak",
 			"henbane mixture x2",
-			"hornpipe",
-			"fishing net",
 			"seal bladder (filled with wine)"
 		]
 	},
@@ -351,12 +354,10 @@ export const backgrounds = [
 		gift: "Great (+2) at Herbalism",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
+			"common clothes (weightless)",
 			"bedding",
-			"cooking pot",
 			"dwarf nettle x3",
-			"mortar & pestle",
-			"sampling kit",
+			"herbalism kit (bulky)",
 			"staff (d6)"
 		]
 	},
@@ -365,27 +366,26 @@ export const backgrounds = [
 		gift: "Great (+2) at Hunting",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
-			"bow (d6)",
-			"cooking pot",
-			"hunting hound",
+			"common clothes (weightless)",
+			"bow (d6) (bulky)",
+			"hound",
 			"seax (d6)",
 			"signalling horn",
+			"bear trap trap",
 			"snare trap"
 		]
 	},
 	{
 		name: "Housekarl",
-		gift: "Great (+2) at Poetry/Music",
+		gift: "Great (+2) at Poetry & Music",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
+			"common clothes (weightless)",
 			"armring",
-			"bow (d6)",
-			"dane axe (d10)",
+			"bow (d6) (bulky)",
+			"dane axe (d10) (bulky)",
 			"grooming kit",
 			"helmet",
-			"lyre",
 			"manacles"
 		]
 	},
@@ -394,7 +394,7 @@ export const backgrounds = [
 		gift: "Feeble but loyal thrall (5 gear slots)",
 		reputation: "Good (+1)",
 		gear: [
-			"noble clothes",
+			"noble clothes (weightless)",
 			"grooming kit",
 			"mail shirt",
 			"shield",
@@ -406,9 +406,9 @@ export const backgrounds = [
 		gift: "Great (+2) at Mercantile",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
+			"common clothes (weightless)",
 			"dwarven song-key",
-			"crossbow (d8)",
+			"crossbow (d8) (bulky)",
 			"lens",
 			"pack mule",
 			"scales & weights",
@@ -420,12 +420,11 @@ export const backgrounds = [
 		gift: "Great (+2) at Sailing",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
+			"common clothes (weightless)",
 			"axe (d8)",
-			"carved whale tooth",
 			"fishing net",
-			"lantern",
 			"seal bladder",
+			"treasure map (distand land)",
 			"sunstone & navigation scrolls",
 			"whale oil"
 		]
@@ -435,12 +434,13 @@ export const backgrounds = [
 		gift: "Prophecy",
 		reputation: "Fair (+0)",
 		gear: [
-			"priestess robes with catskin gloves",
+			"priestess robes with catskin gloves (weightless)",
+			"catalogue of runes",
 			"candle x2",
-			"book of runes",
 			"ceremonial dagger",
-			"chisel",
-			"sample gathering kit",
+			"mallet & chisel",
+			"fly agaric x3",
+			"herbalism kit",
 			"staff (d6)"
 		]
 	},
@@ -449,9 +449,8 @@ export const backgrounds = [
 		gift: "Great (+2) at Poetry/Music",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
-			"axe",
-			"book of kennings",
+			"common clothes (weightless)",
+			"axe (d8)",
 			"drum",
 			"incense",
 			"lyre",
@@ -464,10 +463,10 @@ export const backgrounds = [
 		gift: "Great (+2) at Wayfinding",
 		reputation: "Fair (+0)",
 		gear: [
-			"common clothes",
+			"common clothes (weightless)",
 			"axe (d8)",
 			"bedding",
-			"book of bird songs",
+			"catalogue of bird songs",
 			"jar of fireflies",
 			"winter cloak",
 			"staff (d6)",
