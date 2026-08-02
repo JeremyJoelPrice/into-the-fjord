@@ -4,25 +4,20 @@ title: Attacks & Damage
 
 When attacking a target:
 
-1. Attacker rolls their weapon's dice to get their **damage**.
+1. **ROLL DAMAGE** using the weapon's damage die.
 
-2. Target subtracts their [Armour](/rules/fighting/armour) from the damage.
+2. **[ARMOUR](/rules/fighting/armour)** then reduces the damage.
 
-3. Target spends [Guard](/rules/fighting/Guard) to absorb the remaining damage.
+3. **[GUARD](/rules/fighting/Guard)** then absorbs the damage.
 
-4. When their Guard is 0, any remaining damage reduces the target's
-   [Might](/rules/ability-scores)  
-   & they must **roll** Might using their new score.
+If Guard reaches 0 then **[MIGHT](/rules/ability-scores)** must absord the
+damage,  
+and the defender **ROLLS MIGHT** using their new score:
 
-**SUCCESS**  
-You're still standing, and able to keep fighting.
-
-**FAILURE**
-
-- You go down and cannot continue fighting.
-- You need urgent help, otherwise there's a Poor (-1) chance you'll survive.
-- If the attacker rolled maximum damage, you also recieve a
-  [Wound](/rules/fighting/wounds).
+- **SUCCESS**: You're able to keep fighting.
+- **FAILURE**: You go down and need urgent care or risk bleeding out.
+    - _(If the attacker rolled maximum damage, the defender recieves a
+      [Wound](/rules/fighting/wounds).)_
 
 **Example**  
 _The shieldmaiden Grimhild attacks a berserker, rolling **d8** for her sword._  

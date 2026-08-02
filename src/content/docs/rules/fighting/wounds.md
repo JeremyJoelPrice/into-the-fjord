@@ -2,13 +2,14 @@
 title: Wounds
 ---
 
+Wounds are nasty, but you come back stronger.  
+
 You are Wounded when:
 
 - An attacker rolls maximum damage, **AND**
 - You fail your Might roll  
   _(see [Attacks & Damage](/rules/fighting/attacks-and-damage/))_
 
-Wounds are nasty, but you come back stronger.  
 Lookup the Might damage you took below.
 
 **1-2**  
