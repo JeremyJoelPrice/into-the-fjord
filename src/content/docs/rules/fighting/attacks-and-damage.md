@@ -2,22 +2,26 @@
 title: Attacks & Damage
 ---
 
-When attacking a target:
+## Attacking a Target
 
 1. **ROLL DAMAGE** using the weapon's damage die.
 
-2. **[ARMOUR](/rules/fighting/armour)** then reduces the damage.
+2. Target's **[ARMOUR](/rules/fighting/armour)** reduces the damage.
 
-3. **[GUARD](/rules/fighting/Guard)** then absorbs the damage.
+3. Target's **[GUARD](/rules/fighting/Guard)** absorbs the remaining damage.
 
-If Guard reaches 0 then **[MIGHT](/rules/ability-scores)** must absord the
-damage,  
-and the defender **ROLLS MIGHT** using their new score:
+## Taking Damage
 
-- **SUCCESS**: You're able to keep fighting.
-- **FAILURE**: You go down and need urgent care or risk bleeding out.
-    - _(If the attacker rolled maximum damage, the defender recieves a
-      [Wound](/rules/fighting/wounds).)_
+If the target's Guard can't absorb the incoming damage,  
+then they take real damage:
+
+1. Target's **[MIGHT](/rules/ability-scores)** absorbs the remaining damage
+
+2. Target **ROLLS MIGHT**:  
+   **SUCCESS** means you're still standing.  
+   **FAILURE** means you go down and need urgent care.  
+   _If the attacker rolled maximum damage, the defender now recieves a
+   [Wound](/rules/fighting/wounds)._
 
 **Example**  
 _The shieldmaiden Grimhild attacks a berserker, rolling **d8** for her sword._  
@@ -31,7 +35,7 @@ _The enemy rolls Might and gets 13: he's hurt and goes down._
 
 - Attacks made form a position of advantage are **empowered**, and roll a d12
   for damage
-- Likewise, **impaired** attacks roll a d4
+- **Impaired** attacks roll a d4
 - When **ganging up** on one target, all attackers roll damage and **only the
   highest** roll counts
 - **Area** attacks affect multiple targets; roll damage **separately** for each
