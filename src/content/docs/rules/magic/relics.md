@@ -13,7 +13,7 @@ But some relics have holy powers!
 | Holy symbol                                                         | 100 sp |
 | Gilded statue of a saint                                            | 200 sp |
 | Bejewelled Book of Psalms                                           | 300 sp |
-| Bones of a Saint (fragile)                                          | 500 sp |
+| Bones of a saint (fragile)                                          | 500 sp |
 
 | Magical Relics | Effect                                                                                    |
 | -------------- | ----------------------------------------------------------------------------------------- |
