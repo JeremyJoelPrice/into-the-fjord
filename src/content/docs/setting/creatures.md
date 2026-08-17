@@ -159,6 +159,20 @@ Below are the regulars, but anyone may be found among exiles.
 - Their skin is impervious to normal weapons
 - Will destroy human settlements whenever they learn of one
 
+### Giant Clam
+
+Huge clam-like creature with a powerful grasping tongue.
+
+    Arm:0 Grd:4 Mgt:12 Grc:3 Wil:6
+    Closing shell d10, spit digestive juices d4 (area)
+
+- near-unbreakable shell is embedded with stones, iron deposits, and the
+  gear/remains of its victims
+- far-reaching tongue can bind a person and draw them to the shell's razor edge
+- senses vibrations, pinpoints victims by peaking its shell open & tasting the
+  air
+- good chance of a valuable pearl
+
 ### Maggot King
 
 A dead body being puppetted by a hivemind of 10,000 maggots.
@@ -181,7 +195,7 @@ Covered in tiny thorns, its skin damaged & oozing.
 - Scratch transmits Rot
 - Constant frenzy of attacking new victims
 - Doesn't kill; if a victim is dying, will vomit blood-sap into their mouth to
-  save them
+  both save & infect them
 
 ## Creating Your Own Creatures
 
