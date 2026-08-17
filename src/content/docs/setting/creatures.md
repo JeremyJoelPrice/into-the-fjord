@@ -93,7 +93,7 @@ Their bodies are translucent, their minds are child-like and arbitrary.
 
 ### Exile
 
-Below are the regulars, but anyone may be found among exiles.
+Anyone may be found among exiles, below are just the regulars.
 
 ##### Bandit
 
@@ -101,7 +101,7 @@ Below are the regulars, but anyone may be found among exiles.
     cudgel or faulty seax (d6), faulty helmet
 
 - living rough & acting tough
-- cautious not to lose companions or gear
+- can't afford to lose companions or gear
 
 ##### Chief
 
@@ -109,23 +109,24 @@ Below are the regulars, but anyone may be found among exiles.
     faulty axe (d8), tattered mail shirt, helmet, grooming kit
     special ability\*
 
-- only the strong survive
-- one bad call away from mutiny
+- "only the strong survive" mentality
+- any bad outcome risks mutiny
 
 \* Every chief needs an edge on the competition:
 
-| 1d6 | special ability                        |
-| --- | -------------------------------------- |
-| 1   | dwarven weapon/relic (possibly faulty) |
-| 2   | undead                                 |
-| 3   | immune to iron & fire                  |
-| 4   | heals / regrows limbs but as plants    |
-| 5   | lycanthrope                            |
-| 6   | poison expert                          |
+| 1d6 | special ability                                 |
+| --- | ----------------------------------------------- |
+| 1   | has a dwarven weapon or relic (possibly faulty) |
+| 2   | is undead                                       |
+| 3   | immune to iron & fire                           |
+| 4   | heals / regrows limbs but as plants             |
+| 5   | lycanthrope                                     |
+| 6   | poison expert                                   |
 
 ##### Wretch
 
     Arm:0 Grd:1 Mgt:5 Grc:8 Wil:6
+    maybe a cudgel d6
 
 - not cut out for this life
 - wants it all to end
@@ -134,21 +135,21 @@ Below are the regulars, but anyone may be found among exiles.
 
 | 1d6 | Example Encounters                                                             |
 | --- | ------------------------------------------------------------------------------ |
-| 1   | Desperate & starving, they make a single threat then a sudden attack           |
-| 2   | Barely surviving their last encounter, they're hurt, rich & don't want trouble |
+| 1   | Desperate & starving, they make a single threat before attacking               |
+| 2   | Barely survived their last encounter; they're hurt, rich, & don't want trouble |
 | 3   | Follow the players at a distance, blatantly waiting to ambush                  |
-| 4   | Fresh from victory, they are cocky but have a lot to lose                      |
+| 4   | After an easy score they are cocky and rich                                    |
 | 5   | Trade offer: information or a service in exchange for coin                     |
 | 6   | An exile wants to join the party                                               |
 
-| 1d6 | When Morale Fails They...                |
-| --- | ---------------------------------------- |
-| 1   | Throw loot on the ground & beg for mercy |
-| 2   | Flee                                     |
-| 3   | Freeze & confess why they were exiled    |
-| 4   | Find something to cower behind           |
-| 5   | Grab something valuable & run away       |
-| 6   | Regroup near the leader                  |
+| 1d6 | When Morale Fails They...                       |
+| --- | ----------------------------------------------- |
+| 1   | Throw loot on the ground & beg for mercy        |
+| 2   | Flee                                            |
+| 3   | Freeze & confess why they were exiled           |
+| 4   | Find cover & cower                              |
+| 5   | Grab something valuable & run away              |
+| 6   | Regroup near the leader if safe, otherwise flee |
 
 ### Giant
 
