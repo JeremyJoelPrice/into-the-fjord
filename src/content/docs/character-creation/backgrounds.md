@@ -74,7 +74,7 @@ Suggested Gift: Great (+2) at Mercantile
 
 - common clothes (_weightless_)
 - dwarven song-key with
-  [random contents](/rules/magic/dwarven-relics/#random-song-key-contents)
+  [random contents](/rules/magic/dwarven-artifacts/#random-song-key-contents)
 - crossbow (d8) (_bulky_)
 - lens
 - pack mule

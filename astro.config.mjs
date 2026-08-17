@@ -120,8 +120,8 @@ export default defineConfig({
 									slug: "rules/magic/seiðr"
 								},
 								{
-									label: "Dwarven Relics",
-									slug: "rules/magic/dwarven-relics"
+									label: "Dwarven Artifacts",
+									slug: "rules/magic/dwarven-artifacts"
 								}
 							]
 						},

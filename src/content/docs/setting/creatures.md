@@ -114,14 +114,14 @@ Anyone may be found among exiles, below are just the regulars.
 
 \* Every chief needs an edge on the competition:
 
-| 1d6 | special ability                                 |
-| --- | ----------------------------------------------- |
-| 1   | has a dwarven weapon or relic (possibly faulty) |
-| 2   | is undead                                       |
-| 3   | immune to iron & fire                           |
-| 4   | heals / regrows limbs but as plants             |
-| 5   | lycanthrope                                     |
-| 6   | poison expert                                   |
+| 1d6 | special ability                                    |
+| --- | -------------------------------------------------- |
+| 1   | has a dwarven weapon or artifact (possibly faulty) |
+| 2   | is undead                                          |
+| 3   | immune to iron & fire                              |
+| 4   | heals / regrows limbs but as plants                |
+| 5   | lycanthrope                                        |
+| 6   | poison expert                                      |
 
 ##### Wretch
 

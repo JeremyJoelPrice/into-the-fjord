@@ -18,7 +18,7 @@ Here are some sources of drama and conflict the players can get involved in.
 ###### Dwarven Halls
 
 Below ground lie the abandoned halls of _Niðavellir_.  
-Cathedral-like and filled with magical [relics](/rules/magic/dwarven-relics),
+Cathedral-like and filled with magical [artifacts](/rules/magic/dwarven-artifacts),
 artistic masterpieces,  
 and twisted automata made of iron and corpse-flesh.
 

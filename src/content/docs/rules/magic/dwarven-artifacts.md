@@ -1,10 +1,10 @@
 ---
-title: Dwarven Relics
+title: Dwarven Artifacts
 ---
 
 The dwarves made many wondrous gifts for the gods, such as Thor's hammer
 Mjölnir.  
-More relics are found in their abandoned halls, and are highly prized.
+More artifacts are found in their abandoned halls, and are highly prized.
 
 **Black Candle**  
 Think of an emotional memory while lighting this candle;  
@@ -61,7 +61,7 @@ This metal hand can crush bones, climb sheer surfaces, & punches for 1d8 damage.
 However, anything complex or coordinated (like fighting)  
 requires a Grace roll, or you crush whatever you're holding.
 
-Your hand must be removed, and this relic grafted in its place.
+Your hand must be removed, and this artifact grafted in its place.
 
 **Pocket Ship**  
 When empty of cargo & crew, this ship folds away into your pocket.

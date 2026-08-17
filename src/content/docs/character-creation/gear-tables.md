@@ -64,7 +64,7 @@ title: Gear Tables
 | Clothes, Ragged          | _weightless if worn_                                      | 1                                           |
 | Catalogue of Birdsongs   | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
 | Catalogue of Runes       | read any magical inscriptions                             | 80                                          |
-| Dwarven Song-Key         | see [Relics](/rules/magic/dwarven-relics/)                | 120                                         |
+| Dwarven Song-Key         | see [artifacts](/rules/magic/dwarven-artifacts/)                | 120                                         |
 | Edda of Kennings         | floors Poetry at Good (+1)                                | 30                                          |
 | Fine Tools               | _weightless_<br />For jewelery & lockpicking              | 100                                         |
 | Galdr Staff              | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
