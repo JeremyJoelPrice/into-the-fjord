@@ -4,30 +4,48 @@ title: Philosophy & Playstyle
 
 ## As A Player You Should Care About:
 
-- **Having A Plan**  
-  What do you want to acheive?  
-  Is it worth stepping back and approaching this differently?
+**Creativity**
 
-- **Gear**  
-  Every bit of gear you carry has its use, but space is limited.
+- Express yourself through your character
+- Use your gear in unusual ways
+- Experiment with your surroundings
+- Don't try to solve everything at once; keep suggesting lots of small ideas
 
-- **Investigating**  
-  Knowledge is power so check under the bed, read that book,  
-  ask that merchant what he knows about your next destination.
+**Strategy**
+
+- Can you tell when a fight isn't winnable?
+- What's your plan? Is it worth backing off & approaching this differently?
+- Did you ask around for information, or are you wandering blindly into danger?
+- Do you remember who that person was, & what they said they wanted?
 
 ## As The Guide You Should Care About:
 
-- **Neutrality**  
-  It's ok for the players to have a triumphant victory or a crushing defeat.  
-  Be true to the world, it's NPCs, and the whims of the dice.
+**Neutrality**
 
-- **Giving Information**  
-  Fun comes from tricky situations, not from player ignorance.  
-  Always give them useful answers, a free clue, and telegraph danger
+- It's ok for the players to have a triumphant victory or a crushing defeat
+- Be true to the world, the NPC's, & the whims of the dice
+- Reward players for making an effort by giving their ideas a chance to work
 
-- **NPCs**  
-  Play each one according to their desires & ability to get what they want.  
-  Each NPC is the hero of their own story, and they intend to win.
+**Give Information Generously**
+
+- Fun comes from tricky situations, not from player ignorance
+- Always give them useful answers & a free clue when there's danger
+- Better to give slightly too much information & let them decide what to focus
+  on
+
+**NPCs**
+
+- Play each NPC according to their desires, ability, & social standing
+- Everyone is the hero of their own story, & they will try their best to win
+
+**Tone & Table Manners**
+
+- Ensure everybody feels included & is heard
+- However gritty or goofy you like the vibe to be, you are responsible for
+  upholding it
+- Players in a bind will suggest some bizarre or desperate ideas,  
+  & you must gently guide them back to the reality of the story
+- Any personal issues should be handled while the game is put on hold
 
 ## When Your Character Dies
 
@@ -38,7 +56,7 @@ rejoin play.
 There are a number of attitudes a player might have about losing their
 character:
 
-- Some players are protective of their characters and enjoy when they thrive &
+- Some players are protective of their characters & enjoy when they thrive &
   succeed
 - Some players drive their characters like a stolen car, embracing chaos &
   consequences
@@ -50,19 +68,3 @@ character:
 If any of these resonate, tell your fellow players!  
 Understanding how you relate to your characters will help you have fun
 **together**.
-
-## How To Think About Gear
-
-Everything your character carries is for solving problems in **creative** or
-**clever** ways.
-
-Get into this mindset by thinking of items in terms of what they **are**, not
-what they're **for**.  
-For example, a simple **cooking pot**:
-
-- may smell of food, so you could attract a hungry animal
-- is somewhat resonant when struck, so you could send a signal at a distance
-- can withstand high temperatures, so you could light a fire inside to warm you
-  on wet/flooded ground
-
-If you feel backed into a corner, try to think outside of the box.
