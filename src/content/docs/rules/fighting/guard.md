@@ -2,8 +2,8 @@
 title: Guard
 ---
 
-**Guard** is your buffer zone against lethal attacks.  
-If your
+**Guard** keeps you safe from lethal attacks.  
+When your
 [Guard absorbs an incoming attack](/rules/fighting/attacks-and-damage/),  
 it means you dodged, blocked, or otherwise avoided real harm.
 
