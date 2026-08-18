@@ -101,7 +101,7 @@ Otherwise, roll 1d20.
 | 17  | you have bark-like skin (brittle, flammable & ugly)                             |
 | 18  | you are illiterate & unable to learn a second language                          |
 | 19  | your clan has chosen you as the next human sacrifice                            |
-| 20  | A Valkyrie has marked you for a glorious death, and is actively pursuing you    |
+| 20  | a Valkyrie has marked you for a glorious death, and is actively pursuing you    |
 
 ## 7. Finishing Touches (Optional)
 

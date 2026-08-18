@@ -480,7 +480,7 @@ export const d6Weapons = ["cudgel", "seax", "staff", "bow"];
 export const twists = [
 	"you gain or improve a Skill of your choice",
 	"you can hold your breath for an hour & talk to fish",
-	"a famous ancestor gives you an Excellent (+3) reputation",
+	"a famous ancestor gives you a great reputation",
 	"you have an intelligent raven",
 	"you are immune to cold",
 	"you are immune to poison & ageing",
@@ -488,8 +488,8 @@ export const twists = [
 	"you have a Dwarf ancestor, and can echolocate by the sounds of tools",
 	"your weapon is Dwarf-made; when thrown it strikes true and returns to your hand",
 	"you are fated to never die until Ragnarök (can still be beheaded etc.)",
-	"animals react badly to you",
-	"you're an exile with a Poor (-1) reputation",
+	"animals hate you",
+	"you're an exile with a poor reputation",
 	"you're a werewolf",
 	"you're in bad debt to someone powerful",
 	"you have a hunchback where mushrooms grow",
@@ -497,5 +497,5 @@ export const twists = [
 	"you have bark-like skin (brittle, flammable & ugly)",
 	"you are illiterate & unable to learn a second language",
 	"your clan has chosen you as the next human sacrifice",
-	"you've had nightmares ever since a seiðkona cursed you"
+	"a Valkyrie has marked you for a glorious death, and is actively pursuing you"
 ];
