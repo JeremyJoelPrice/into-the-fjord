@@ -23,7 +23,7 @@ title: Philosophy & Playstyle
 **Neutrality**
 
 - It's ok for the players to have a triumphant victory or a crushing defeat
-- Be true to the world, the NPC's, & the whims of the dice
+- Be true to the world, the NPCs, & the whims of the dice
 - Reward players for making an effort by giving their ideas a chance to work
 
 **Give Information Generously**
@@ -36,7 +36,7 @@ title: Philosophy & Playstyle
 **NPCs**
 
 - Play each NPC according to their desires, ability, & social standing
-- Everyone is the hero of their own story, & they will try their best to win
+- Every NPC is the hero of their own story, & should try their best to win
 
 **Tone & Table Manners**
 
@@ -62,8 +62,7 @@ character:
   consequences
 - Some players treat their characters as just a game token to be used carefully
   & tactically
-- Some players want to see their character's personality & flaws influence the
-  story
+- Some players want to see their character's personality & flaws impact the game
 
 If any of these resonate, tell your fellow players!  
 Understanding how you relate to your characters will help you have fun
