@@ -93,7 +93,8 @@ Their bodies are translucent, their minds are child-like and arbitrary.
 
 ### Exile
 
-Anyone may be found among exiles, below are just the regulars.
+Anyone may be found among exiles, below are just the regulars.  
+Exiles will do what no honourable person would.
 
 ##### Bandit
 
