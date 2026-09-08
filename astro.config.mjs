@@ -161,6 +161,7 @@ export default defineConfig({
 							label: "Law Enforcement",
 							slug: "setting/law-enforcement"
 						},
+						{ label: "Hospitality", slug: "setting/hospitality" },
 						{ label: "Creatures", slug: "setting/creatures" }
 					]
 				}
