@@ -2,17 +2,26 @@
 title: Introduction
 ---
 
-> _**Yesterday**, you followed the rules & had a place in the world._  
-> _You were a farmer, a sailor, a merchant, or the like._
->
-> _But you were robbed, or betrayed, or shunned._  
-> _Your crops rotted, or invaders sized your land, or you were framed &
-> exiled._  
-> _You lost people. But you didn't give up._
->
-> _**Today** you wipe the blood from your lip and grip your weapon tightly._
->
-> _"Enough!" you cry._
+You are a **Viking** with ambitions,  
+in a chaotic world that won't allow you a peaceful life.
+
+Through courage & cunning you can acheive glory.
+
+Glory might mean:
+
+- Form alliances & raise a heathen army to siege & conquer
+- Deepen your connection to your spirit animal, take on its traits and manifest
+  it in battle
+- Learn the secrets of the dwarves, craft items and imbue them with power
+- Use herbalism to unlock your primal power, go beyond human limits, and survive
+  the impossible
+- Shout reality to submission through Galdr magic
+- Explore prophecy, necromancy, and illusion through Seiðr magic
+- Take on new abilities & challenges as a mutant, a werewolf, or a draugr - a
+  blessing or a curse?
+- Tame & train animals, befriend nature spirits & trolls, and become one with
+  the wild
+- Anything else you may set your heart on...
 
 ---
 

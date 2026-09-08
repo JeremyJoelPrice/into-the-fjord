@@ -7,7 +7,7 @@ The Norse people revere the **Aesir**, a mythical family called "the gods".
 The **Jötnar** are another family, joined with the Aesir by  
 marriage & friendship, divided by rivarly and war.
 
-The difference is the Aesir look kindly upon humans.
+The Aesir mostly protect humans, the Jötnar mostly use their magic for chaos.
 
 ### The Main Gods
 
