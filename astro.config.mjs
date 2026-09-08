@@ -124,7 +124,7 @@ export default defineConfig({
 									slug: "rules/magic/dwarven-artifacts"
 								},
 								{
-									label: "Relics of the Light",
+									label: "Relics",
 									slug: "rules/magic/relics"
 								}
 							]

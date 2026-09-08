@@ -66,16 +66,6 @@ Your hand must be removed, and this artifact grafted in its place.
 **Pocket Ship**  
 When empty of cargo & crew, this ship folds away into your pocket.
 
-**Song-Key**  
-This brass bell with no clapper can capture any sound.  
-When you "ring" the bell, the sound is released as physical force.
-
-Mostly this creates subtle vibrations,  
-because Dwarven doors can only be opened by the correct sound.
-
-Powerful or magical sounds will create more dramatic effects,  
-see the table below for inspiration.
-
 ## Gale Bladder Effects
 
 | Consumes     | Releases                                                                        |
@@ -84,14 +74,3 @@ see the table below for inspiration.
 | Choppy seas  | High winds & ocean spray, throws folks off-balance                              |
 | Mild weather | Still air; no impact                                                            |
 | Thunderstorm | Darkening clouds, deafening winds, pounding rain, devastating lightning strikes |
-
-## Random Song-Key Contents
-
-| 1d6 | Song-Key Sound                                        | Physical Effect                                                  |
-| --- | ----------------------------------------------------- | ---------------------------------------------------------------- |
-| 1   | Nothing; can be used to capture any sound             | -                                                                |
-| 2   | A dragon's shriek                                     | Defeans, roll Might to see if it's permanent                     |
-| 3   | Mjölnir striking down a giant                         | Can break through a stone wall                                   |
-| 4   | A random [Galdr Spell](/rules/magic/galdr-spell-list) | Casts the spell on the nearest suitable target                   |
-| 5   | A valkyrie's battle-cry                               | Powerful rush of wind; roll Grc to remain standing               |
-| 6   | A troll's pained roar                                 | Nearby animals become aggressive, while plants become protective |

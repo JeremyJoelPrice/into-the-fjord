@@ -56,27 +56,25 @@ title: Gear Tables
 
 ## Cultural/Specialist Items
 
-| **item**                 | **notes**                                                 | **price**                                   |
-| ------------------------ | --------------------------------------------------------- | ------------------------------------------- |
-| Armring                  | _weightless_<br />symbolises a sworn oath                 | 50                                          |
-| Clothes, Common          | _weightless if worn_                                      | 3                                           |
-| Clothes, Noble           | _weightless if worn_                                      | 110                                         |
-| Clothes, Ragged          | _weightless if worn_                                      | 1                                           |
-| Catalogue of Birdsongs   | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
-| Catalogue of Runes       | read any magical inscriptions                             | 80                                          |
-| Dwarven Song-Key         | see [artifacts](/rules/magic/dwarven-artifacts/)                | 120                                         |
-| Edda of Kennings         | floors Poetry at Good (+1)                                | 30                                          |
-| Fine Tools               | _weightless_<br />For jewelery & lockpicking              | 100                                         |
-| Galdr Staff              | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
-| Hand Drum                | for dancing                                               | 3                                           |
-| Holy Symbol of The Light | _weightless_ necklace                                     | 2                                           |
-| Hornpipe                 | for popular tunes                                         | 3                                           |
-| Hourglass                |                                                           | 120                                         |
-| Jar of Fireflies         | elves turn visible in firefly light                       | 2                                           |
-| Lens                     |                                                           | 50                                          |
-| Lyre                     | for sophisticated ballads                                 | 80                                          |
-| Quill & Ink              | _weightless_                                              | 40                                          |
-| Scales & Weights         |                                                           | 20                                          |
+| **item**                  | **notes**                                                 | **price**                                   |
+| ------------------------- | --------------------------------------------------------- | ------------------------------------------- |
+| Armring                   | _weightless_<br />symbolises a sworn oath                 | 50                                          |
+| Clothes, Common           | _weightless if worn_                                      | 3                                           |
+| Clothes, Noble            | _weightless if worn_                                      | 110                                         |
+| Clothes, Ragged           | _weightless if worn_                                      | 1                                           |
+| Catalogue of Birdsongs    | decode & join in bird gossip<br />inc. a feathered flutes | 30                                          |
+| Catalogue of Runes        | read any magical inscriptions                             | 80                                          |
+| Crucifix Necklace, Wooden | _weightless_                                              | 2                                           |
+| Edda of Kennings          | floors Poetry at Good (+1)                                | 30                                          |
+| Fine Tools                | _weightless_<br />For jewelery & lockpicking              | 100                                         |
+| Galdr Staff               | lets you cast a [spell](/rules/magic/galdr-spell-list)    | 80 (random spell) <br /> 200 (chosen spell) |
+| Hand Drum                 | for dancing                                               | 3                                           |
+| Hornpipe                  | for popular tunes                                         | 3                                           |
+| Hourglass                 |                                                           | 120                                         |
+| Lens                      |                                                           | 50                                          |
+| Lyre                      | for sophisticated ballads                                 | 80                                          |
+| Quill & Ink               | _weightless_                                              | 40                                          |
+| Scales & Weights          |                                                           | 20                                          |
 
 ## Expeditionary Gear
 
@@ -165,6 +163,7 @@ Herbs need to be properly prepared before they work as described below.
 | **item**            | **notes**                            | **price**  |
 | ------------------- | ------------------------------------ | ---------- |
 | Berserker           |                                      | 6 per day  |
+| Christian Priest    |                                      | 5 per day  |
 | Craftsman           | carpenter, smith, etc.               | 4 per day  |
 | Duellist            |                                      | 6 per day  |
 | Herbalist           |                                      | 4 per day  |
@@ -173,7 +172,6 @@ Herbs need to be properly prepared before they work as described below.
 | Mercenary           |                                      | 6 per day  |
 | Mercenary, draugr   | hard to find                         | 10 per day |
 | Mercenary, exiled   | opportunistic,<br />less trustworthy | 4 per day  |
-| Priest of The Light |                                      | 5 per day  |
 | Sailor              |                                      | 4 per day  |
 | Seiðr               | hard to find                         | 5 per day  |
 | Thrall              |                                      | 2 per day  |
