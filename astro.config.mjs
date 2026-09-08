@@ -158,8 +158,8 @@ export default defineConfig({
 							slug: "setting/norðland-in-detail"
 						},
 						{
-							label: "The Crowd",
-							slug: "setting/the-crowd"
+							label: "Law Enforcement",
+							slug: "setting/law-enforcement"
 						},
 						{ label: "Creatures", slug: "setting/creatures" }
 					]
