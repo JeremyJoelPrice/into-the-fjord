@@ -2,9 +2,9 @@
 title: Introduction
 ---
 
-**Norðland** is a fictional fantasy Iceland where survival is tough.  
-Sweeping fjords, hot springs, & lush valleys,  
-but also volcanic eruptions, frozen tundras, and mysterious woods.
+This game assumes a fantasy mashup of Iceland & Scandinavia,  
+with sweeping fjords, glacial fields, and volcanic wastelands.  
+Human settlements are small and precarious.
 
 ## Who Are The Player Characters?
 
@@ -18,8 +18,8 @@ Here are some sources of drama and conflict the players can get involved in.
 ###### Dwarven Halls
 
 Below ground lie the abandoned halls of _Niðavellir_.  
-Cathedral-like and filled with magical [artifacts](/rules/magic/dwarven-artifacts),
-artistic masterpieces,  
+Cathedral-like and filled with magical
+[artifacts](/rules/magic/dwarven-artifacts), artistic masterpieces,  
 and twisted automata made of iron and corpse-flesh.
 
 ###### Invaders
@@ -66,45 +66,44 @@ Here are some intuitions to make it feel distinct from other times & places:
 
 ###### Clan As The Social Unit
 
--   Their family, or clan, is a central part of a person's identity &
-    reputation.  
-    Most settlements have a single ruling clan
--   Social classes:
-    -   **Jarls** are the wealthy class, with "The Jarl" being the ruler of a
-        settlement
-    -   **Karls** are the working class of subsistence farmers & skilled
-        tradespeople
-    -   **Thralls** are the lower class of servents, prisoners, and the
-        disgraced
+- Their family, or clan, is a central part of a person's identity &
+  reputation.  
+  Most settlements have a single ruling clan
+- Social classes:
+    - **Jarls** are the wealthy class, with "The Jarl" being the ruler of a
+      settlement
+    - **Karls** are the working class of subsistence farmers & skilled
+      tradespeople
+    - **Thralls** are the lower class of servents, prisoners, and the disgraced
 
 ###### Individuals Over Institutions
 
--   People are loyal to a ruler, not "the crown" or "the country".
--   No taverns: people drink & socialise at
-    [each other's homes](#show-hospitality).
--   Trades are practiced by families, not guilds.
+- People are loyal to a ruler, not "the crown" or "the country".
+- No taverns: people drink & socialise at
+  [each other's homes](#show-hospitality).
+- Trades are practiced by families, not guilds.
 
 ###### No Bureaucracy
 
--   Silver is valued by weight. Coins aren't minted, just a standard weight.
--   No mayor, no town guard; the _jarl_ publicly settles legal disputes,  
-    taking advice from both witnesses and the Lawspeaker.
--   The injured party & their family is expected to enforce the punishment
-    decided by the jarl.
+- Silver is valued by weight. Coins aren't minted, just a standard weight.
+- No mayor, no town guard; the _jarl_ publicly settles legal disputes,  
+  taking advice from both witnesses and the Lawspeaker.
+- The injured party & their family is expected to enforce the punishment decided
+  by the jarl.
 
 ###### Speech Over Writing
 
--   Send a messenger, not a letter.
--   Laws, contracts, genealogies & poems are all memorised,  
-    often by specialists like the Lawspeaker.
--   Writing is intimate & informal; used for graffiti, memorials, and magic
-    rituals.
+- Send a messenger, not a letter.
+- Laws, contracts, genealogies & poems are all memorised,  
+  often by specialists like the Lawspeaker.
+- Writing is intimate & informal; used for graffiti, memorials, and magic
+  rituals.
 
 ###### Legal Violence vs Informal Peacekeeping
 
--   Insults should be repaid in blood
--   Holmgangs (duels) can settle legal matters
--   Fearsome warriors can act with impunity, since few challenge them
+- Insults should be repaid in blood
+- Holmgangs (duels) can settle legal matters
+- Fearsome warriors can act with impunity, since few challenge them
 
 In practice, however, most folks want peace & order,  
 and would rather pretend an insult wasn't truly meant that way.
@@ -113,9 +112,9 @@ and would rather pretend an insult wasn't truly meant that way.
 
 The jarl is similar to a mob boss:
 
--   feared & respected
--   uses diplomacy to avoid full-blown blood feuds
--   does **not** have the luxury of letting insults go unpunished
+- feared & respected
+- uses diplomacy to avoid full-blown blood feuds
+- does **not** have the luxury of letting insults go unpunished
 
 ### Code Of Honour
 
@@ -123,18 +122,18 @@ Everyone is held to this code.
 
 ###### Show Hospitality
 
--   provide food & shelter to someone who asks for it
--   good guests arrive with a token gift, and never stay too long
+- provide food & shelter to someone who asks for it
+- good guests arrive with a token gift, and never stay too long
 
 ###### Don't Be A Coward
 
--   introduce yourself, state your business plainly, resolve matters publicly
--   avenge any harm or insult done to you or your clan
--   never resort to gossip, lying, ambush or trickery
+- introduce yourself, state your business plainly, resolve matters publicly
+- avenge any harm or insult done to you or your clan
+- never resort to gossip, lying, ambush or trickery
 
 ###### Deal Fairly
 
--   keep your word because oaths are sacred
--   be careful challenging those of a different social status:
-    -   Punching up is bold but risky; you might be dismissed as arrogant
-    -   Punching down is safe but shameful; you might be seen as a bully
+- keep your word because oaths are sacred
+- be careful challenging those of a different social status:
+    - Punching up is bold but risky; you might be dismissed as arrogant
+    - Punching down is safe but shameful; you might be seen as a bully
