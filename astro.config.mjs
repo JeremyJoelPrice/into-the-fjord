@@ -154,8 +154,8 @@ export default defineConfig({
 							slug: "setting/introduction"
 						},
 						{
-							label: "Norðland In Detail",
-							slug: "setting/norðland-in-detail"
+							label: "Norse Religion",
+							slug: "setting/norse-religion"
 						},
 						{
 							label: "Law Enforcement",
