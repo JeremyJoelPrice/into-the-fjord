@@ -70,21 +70,3 @@ _A lump grows on your back._
 4. Lump sprouts a softly glowing mushroom
 5. Lump shrinks, freeing a gear slot
 6. Disease ends, lump shrivels away for good
-
-## The Rot
-
-The Rot is an out-of-control curse which spoils crops and turns animals rabid.  
-It comes in many forms like the diseases below.  
-These can be cured by powerful magic, or by discovering the remedy.
-
-### Thorns
-
-_Tiny thorns grow around the infected area, irritating your skin._  
-_They slowly spread until your mind is bent on infecting others._
-
-1. Thorns gradually spread over your body
-2. One scratch can infect someone else
-3. When they reach your brain, begin making daily Will rolls
-4. On a failed roll, you lose your mind and become rabid
-5. You are now a monster, and must be slain or cured before you infect anyone
-   else
