@@ -6,6 +6,10 @@ The dwarves made many wondrous gifts for the gods, such as Thor's hammer
 Mjölnir.  
 More artifacts are found in their abandoned halls, and are highly prized.
 
+**Arm-Ring of Unbreakable Oaths**
+If an oath sworn on this arm-ring is ever broken,  
+the person who took the oath dies.
+
 **Black Candle**  
 Think of an emotional memory while lighting this candle;  
 that emotion is contagious to all who feel its heat.
