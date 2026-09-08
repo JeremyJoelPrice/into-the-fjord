@@ -157,6 +157,10 @@ export default defineConfig({
 							label: "Norðland In Detail",
 							slug: "setting/norðland-in-detail"
 						},
+						{
+							label: "The Crowd",
+							slug: "setting/the-crowd"
+						},
 						{ label: "Creatures", slug: "setting/creatures" }
 					]
 				}
