@@ -15,8 +15,7 @@ The difference is the Aesir look kindly upon humans.
 He decides the outcomes of battles, and recruits slain warriors for his army.
 
 **Thor** - a god for the common people. Strong, brave, and true of heart.  
-He is the Aesir's greatest warrior, and thunder is the sound of his hammer
-striking true.
+He is the Aesir's greatest warrior, and defends the world against the Jötnar.
 
 **Frigg** - a goddess, the wife of Odin. Magical, prophetic, and a symbol of
 motherhood.  
