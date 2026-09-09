@@ -73,9 +73,7 @@ Feeble but loyal thrall (5 gear slots)
 Suggested Gift: Great (+2) at Mercantile
 
 - common clothes (_weightless_)
-- dwarven song-key with
-  [random contents](/rules/magic/dwarven-artifacts/#random-song-key-contents)
-- crossbow (d8) (_bulky_)
+- galdr staff with a [random spell](/rules/magic/galdr-spell-list)
 - lens
 - pack mule
 - scales & weights
@@ -87,7 +85,7 @@ Suggested Gift: Great (+2) at Sailing
 
 - common clothes (_weightless_)
 - axe (d8)
-- fishing net
+- fishing gear
 - seal bladder
 - sunstone & navigation scrolls
 - treasure map (distand island)
@@ -127,6 +125,7 @@ Suggested Gift: Great (+2) at Wayfinding
 - bedding
 - catalogue of birdsongs
 - jar of fireflies
+- kindling box
 - winter cloak
 - staff (d6)
 - sling (d4)

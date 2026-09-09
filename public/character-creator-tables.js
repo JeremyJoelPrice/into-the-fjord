@@ -407,8 +407,7 @@ export const backgrounds = [
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes (weightless)",
-			"dwarven song-key",
-			"crossbow (d8) (bulky)",
+			"galdr staff with a random spell",
 			"lens",
 			"pack mule",
 			"scales & weights",
@@ -422,7 +421,7 @@ export const backgrounds = [
 		gear: [
 			"common clothes (weightless)",
 			"axe (d8)",
-			"fishing net",
+			"fishing gear",
 			"seal bladder",
 			"treasure map (distand land)",
 			"sunstone & navigation scrolls",
@@ -468,6 +467,7 @@ export const backgrounds = [
 			"bedding",
 			"catalogue of bird songs",
 			"jar of fireflies",
+			"kindling box",
 			"winter cloak",
 			"staff (d6)",
 			"sling (d4)"
