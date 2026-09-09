@@ -149,11 +149,12 @@ class CharacterGenerator extends HTMLElement {
 		const copyCharacter = () => {
 			const c = copyableCharacter;
 			const lines = [];
+			const newline = "\r\n";
 
 			lines.push(c.name);
 			lines.push("");
 			lines.push(`${c.kit} with a ${c.reputation} reputation`);
-			lines.push(c.description.join("\n"));
+			lines.push(c.description.join(newline));
 			lines.push("");
 			lines.push(`Might ${c.might} • Grace ${c.grace} • Will ${c.will}`);
 			lines.push(
@@ -168,9 +169,9 @@ class CharacterGenerator extends HTMLElement {
 			lines.push(`Twist: ${c.twist}`);
 			lines.push(`Silver: ${c.silver}`);
 			lines.push("");
-			lines.push(c.gear.join("\n"));
+			lines.push(c.gear.join(newline));
 
-			const text = lines.join("\n");
+			const text = lines.join(newline);
 
 			navigator.clipboard.writeText(text);
 		};
