@@ -49,7 +49,8 @@ Guard keeps you alive in a fight, and recovers quickly afterwards.
 ## 4. Gear
 
 Every character has 10 [slots](/rules/carrying-gear) for gear.  
-See the [Gear Tables](/character-creation/gear-tables) for what you can buy.
+See the [Gear Tables](/character-creation/gear-tables) for what you can buy.  
+Every character begins with a **torch** & **3 trail rations**.
 
 **EITHER:**
 
