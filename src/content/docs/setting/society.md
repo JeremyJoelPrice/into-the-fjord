@@ -2,8 +2,8 @@
 title: Society
 ---
 
-The North is a formalised, diverse, and violent Iron Age society.  
-Here are some intuitions to make it feel distinct:
+Here are some intuitions to help you run the formalised yet violent Iron Age
+society of the Vikings:
 
 ###### Clan As The Social Unit
 
@@ -53,7 +53,7 @@ The jarl is like a mob boss:
 
 - feared & respected
 - uses diplomacy to avoid blood feuds
-- does **not** have the luxury of letting insults go unpunished
+- does not have the luxury of letting insults go unpunished
 
 ### Code Of Honour
 

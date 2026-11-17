@@ -2,13 +2,13 @@
 title: Introduction
 ---
 
-This game's default setting is The North, a fantasy mashup of Iceland &
-Scandinavia:
+Into The Fjord is set in a fantasy mashup of the Nordic countries during the
+Viking Age:
 
-- sweeping fjords, glacial fields, and volcanic wastelands.
-- monsters are everywhere; people call them [Jötnar](/setting/norse-religion) &
-  wonder why Thor hasn't appeared to crush them
-- Christian missionaries and soldiers have arrived to replace the local faith
+- sweeping fjords, glacial fields, & volcanic wastelands
+- Christian missionaries & soldiers challenge for religious supremacy
+- monsters of chaos & destruction called [Jötnar](/setting/norse-religion) are
+  everywhere
 
 There are less cataclysmic opportunities for adventure as well:
 
