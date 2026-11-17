@@ -128,16 +128,6 @@ export default defineConfig({
 									slug: "rules/magic/relics"
 								}
 							]
-						},
-						{
-							// optional
-							label: "Optional Rules",
-							items: [
-								{
-									label: "Reputation",
-									slug: "rules/optional-rules/reputation"
-								}
-							]
 						}
 					]
 				},
