@@ -134,10 +134,6 @@ export default defineConfig({
 							label: "Optional Rules",
 							items: [
 								{
-									label: "Exposure",
-									slug: "rules/optional-rules/exposure"
-								},
-								{
 									label: "Reputation",
 									slug: "rules/optional-rules/reputation"
 								}
