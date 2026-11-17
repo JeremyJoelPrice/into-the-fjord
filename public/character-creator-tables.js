@@ -45,16 +45,16 @@ export const maleNames = [
 ];
 
 export const skills = [
-	"Animal Handling",
-	"Fine Crafts (jewellery & lock making)",
+	"Animal Kinship",
+	"Diplomacy",
+	"Dwarf-craft",
 	"Herbalism",
 	"Hunting",
+	"Lockpicking",
 	"Mercantile",
 	"Poetry & Music",
 	"Sailing",
-	"Ship-Building & Carpentry",
-	"Smithing",
-	"Wayfinding"
+	"Wandering"
 ];
 
 export const galdrSpells = [
@@ -339,7 +339,7 @@ export const backgrounds = [
 	},
 	{
 		name: "Exile",
-		gift: "Great (+2) at Animal Handling",
+		gift: "Great (+2) at Wandering",
 		reputation: "Poor (-1)",
 		gear: [
 			"ragged clothes (weightless)",
@@ -377,7 +377,7 @@ export const backgrounds = [
 	},
 	{
 		name: "Housekarl",
-		gift: "Great (+2) at Poetry & Music",
+		gift: "Great (+2) at Diplomacy",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes (weightless)",
@@ -459,7 +459,7 @@ export const backgrounds = [
 	},
 	{
 		name: "Wanderer",
-		gift: "Great (+2) at Wayfinding",
+		gift: "Great (+2) at Wandering",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes (weightless)",
