@@ -21,15 +21,3 @@ your character performs their skill.
 | Ship-Building & Carpentry              |
 | Smithing                               |
 | Wayfinding                             |
-
-## Skilled Hirelings
-
-You always have the option to hire skilled NPCs to travel with you.  
-They have some trade-offs:
-
-- PRO: They generally succeed without needing a Fate Roll,  
-  unless they're in danger
-- PRO: They are generally Excellent (+3) or better at their specialty  
-  _(because they're not good at much else)_
-- CON: They need feeding & protecting
-- CON: As non-combatants, they tend to flee from danger
