@@ -2,7 +2,7 @@
 title: Resting And Healing
 ---
 
-[Guard](/rules/guard) is restored after resting for a couple of minutes.
+[Guard](/rules/fighting/guard/) is restored after resting for a couple of minutes.
 
 [Fatigue](/rules/fatigue) clears after a full night's rest & a meal.
 
