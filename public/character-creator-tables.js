@@ -54,6 +54,7 @@ export const skills = [
 	"Lockpicking",
 	"Mercantile",
 	"Poetry & Music",
+	"Riding",
 	"Sailing",
 	"Wandering"
 ];
