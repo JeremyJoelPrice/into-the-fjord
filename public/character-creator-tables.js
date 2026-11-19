@@ -51,8 +51,9 @@ export const skills = [
 	"Dwarf-craft",
 	"Herbalism",
 	"Hunting",
+	"Language & Literacy",
 	"Lockpicking",
-	"Mercantile",
+	"Merchant",
 	"Poetry & Music",
 	"Riding",
 	"Sailing",
@@ -405,7 +406,7 @@ export const backgrounds = [
 	},
 	{
 		name: "Merchant",
-		gift: "Great (+2) at Mercantile",
+		gift: "Great (+2) at Merchant",
 		reputation: "Fair (+0)",
 		gear: [
 			"common clothes (weightless)",

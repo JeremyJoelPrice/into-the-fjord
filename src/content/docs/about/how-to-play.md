@@ -26,56 +26,11 @@ The terminology is simple: **1d6** means roll one six-sided die. Likewise
 
 There are **three** kinds of roll:
 
-1. [**Damage Rolls**](/rules/fighting/attacks-and-damage/) are used when you
-   attack someone with your weapon.
-2. [**Ability Rolls**](/rules/ability-scores#rolling-abilities) are used to
-   avoid harm in hazardous situations.
-3. [**Fate Rolls**](#fate-roll) are just a catch-all tool for any other time  
-   the Guide wants to let the dice decide the outcome.
-
-### Fate Roll
-
-- Roll 2d6, get a 7 or higher to succeed
-- If both dice match, the result is **extreme**
-- Failure can also mean success at a cost, Guide's choice
-
-The Guide sets the chance of success by choosing an **adjective** below.  
-Use your intuition to decide which one resonates,  
-then add its **bonus** to the 2d6 roll.
-
-| adjective | bonus | chance of success |
-| :-------: | :---: | :---------------: |
-| Excellent |  +3   |        92%        |
-|   Great   |  +2   |        83%        |
-|   Good    |  +1   |        72%        |
-|   Fair    |  +0   |        58%        |
-|   Poor    |  -1   |        42%        |
-|   Grim    |  -2   |        28%        |
-| Terrible  |  -3   |        17%        |
-
-#### Example
-
-Helga wants to reach an island, and avoid pirates on the way.  
-Helga is **Great** at sailing, and has a ship with a ready crew.
-
-The Guide asks for a Fate Roll.  
-She rolls 2d6 and gets 5, +2 for her skill makes 7: success!.  
-Her ship arrives safely.
-
-#### Advice for The Guide
-
-You can assign the **adjectives** above to anything you might want to roll
-later, for example:
-
-- Player skills start at **Great**
-- The Guide might describe a horse as being in **Poor** health,  
-  and think no more about it until the horse's health matters for some future
-  reason
-- A ship may have **Great** speed, but a hull in **Poor** condition
-
-This way you can intuitively improvise stats for anything big or small,  
-from puppies play-fighting to armies clashing in battle.
-
-Fate Rolls are technically **optional**. If assigning bonuses using natural
-language  
-doesn't feel comfortable, then you can safely ignore this rule.
+1. [**Damage Rolls**](/rules/fighting/attacks-and-damage/) to attack someone
+   with your weapon
+    - 1d6/1d8/1d10; depends on your [weapon](/character-creation/gear-tables/#arms--armour)
+2. [**Ability Rolls**](/rules/ability-scores#rolling-abilities) to avoid harm in
+   dangerous situations
+    - 1d20, roll under your Ability Score
+3. [**Skill Rolls**](/rules/skills) to use your character's skills
+    - 2d6 + bonus vs 7
