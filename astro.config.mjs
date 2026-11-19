@@ -71,6 +71,10 @@ export default defineConfig({
 							slug: "rules/disease"
 						},
 						{
+							label: "Downtime",
+							slug: "rules/downtime"
+						},
+						{
 							label: "Resting & Healing",
 							slug: "rules/resting-and-healing"
 						},
