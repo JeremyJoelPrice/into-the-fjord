@@ -45,6 +45,7 @@ export const maleNames = [
 ];
 
 export const skills = [
+	"Acrobatics",
 	"Animal Kinship",
 	"Diplomacy",
 	"Dwarf-craft",

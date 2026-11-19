@@ -11,6 +11,7 @@ your character performs their skill.
 
 | Some Example Skills |                                                                        |
 | ------------------- | ---------------------------------------------------------------------- |
+| Acrobatics          | dodging & tumbling safely                                              |
 | Animal Kinship      | deal with wild animals, connect to your spirit animal                  |
 | Diplomacy           | persuade crowds of people, deal with highly influential people         |
 | Dwarf-craft         | alter & create [Dwarven Artifacts](/rules/magic/dwarven-artifacts)     |
