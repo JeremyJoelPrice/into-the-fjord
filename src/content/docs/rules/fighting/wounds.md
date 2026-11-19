@@ -2,7 +2,7 @@
 title: Wounds
 ---
 
-Wounds are nasty, but you come back stronger.  
+Wounds are nasty, but you come back stronger.
 
 You are Wounded when:
 
@@ -14,20 +14,20 @@ Lookup the Might damage you took below.
 
 **1-2**  
 _A lucky hit knocks you out._  
-Next round roll **Might** to wake up, otherwise an ally must wake you.  
-Once awake: roll **1d8**; if it's higher than your max **Guard**, it becomes
-your new max.
+Roll **Might** each round to see if you wake up.  
+On recovery: reroll your **Guard** and replace your current max, if higher.
 
 **3-4**  
 _A heavy blow knocks you down._  
-You're down & need help; **Poor (-1)** chance you'll recover on your own.  
-On recovery: roll **2d6**; if it's higher than your max **Guard**, it becomes
-your new max.
+You're down & need help; there's a **Poor** chance you'll recover on your own.  
+On recovery: reroll your **Guard** and replace your current max, if higher.  
+If you were using **1d6**, use **1d8** from now on.
 
 **5-6**  
 _Your flesh is torn apart and blood soaks your clothes._  
 You gain a [**Fatigue**](/rules/fatigue) until you get **1 week** of bed rest.  
-On recovery: roll **1d6**; add it to your max **Guard**.
+On recovery: reroll your **Guard** and replace your current max, if higher.  
+Increase your Guard die according to this pattern: 1d6, 1d8, 1d10, 2d6 (max)
 
 **7-8**  
 _Fractured bones leave you semi-conscious._  

@@ -18,18 +18,19 @@ then they take real damage:
 1. Target's **[MIGHT](/rules/ability-scores)** absorbs the remaining damage
 
 2. Target **ROLLS MIGHT**:  
-   **SUCCESS** means you're still standing.  
-   **FAILURE** means you go down and need urgent care.  
-   _If the attacker rolled maximum damage, the defender now recieves a
-   [Wound](/rules/fighting/wounds)._
+   **SUCCESS** means you're still standing  
+   **FAILURE** means you suffer a [Wound](/rules/fighting/wounds)
 
-**Example**  
-_The shieldmaiden Grimhild attacks a berserker, rolling **d8** for her sword._  
-_She rolls a **6**. The berserker has 1 Armour, so **5** damage is dealt to
-him._  
-_The berserker's Guard is 3, now reduced to 0,_  
-_and the remaining **2** reduced his Might from 14 to 12._  
-_The enemy rolls Might and gets 13: he's hurt and goes down._
+### Example
+
+_The shieldmaiden attacks, rolling **1d8** and getting a **6**._  
+_Her enemy has **1** Armour, so he takes **5** damage._  
+_His Guard is **3**, so it absorbs that much damage and reduces to **0**,_  
+_leaving **2** damage which reduces his Might to **12**._  
+_Because his Might was reduced, the enemy rolls Might_  
+_He gets a **13**, so he's taken a **Wound**._  
+_Because he took **2** Might damage, he looks up "2" on the
+[Wounds table](/rules/fighting/wounds/)._
 
 ## Special Attacks
 
