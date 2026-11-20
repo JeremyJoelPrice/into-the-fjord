@@ -19,8 +19,7 @@ title: Skills
 | Language & Literacy | speak and read foreign languages, secret codes, and forbidden texts                      |
 | Lockpicking         | pick locks & interact with advanced mechanisms                                           |
 | Merchant            | find a seller of something obscure, haggle for better prices                             |
-| Poetry & Music      | humiliate someone in a verbal battle, entertain a crowd, highly praise                   |
-| Riding              | control your mount in stressful situations                                               |
+| Poetry & Music      | humiliate someone in a verbal battle, entertain a crowd, highly praise                   |s
 | Sailing             | control a ship during battles & dangerous voyages                                        |
 | Wandering           | travel well and provide for yourself in the wilderness                                   |
 
