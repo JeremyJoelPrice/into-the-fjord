@@ -64,18 +64,27 @@ Every character begins with a **torch** & **3 trail rations**.
 - If your Guard is **1 - 3**, gain a free piece of armour
 - If your Guard is **4 - 6**, gain a free d6 weapon
 
-## 5. Gift
+## 5. Skills
+
+Skills are chosen from the [Skill List](/rules/skills#skill-list).
+
+- Gain a +2 bonus against any skill; your specialty
+- Gain a +1 bonus against 2 other skills; you know the basics
+- Gain a +0 bonus against 3 other skills; you have a passing familiarity
+
+Your bonus for every other skill is -1.
+
+## 6. Gift
 
 Choose one of the following options:
 
-- Write any [Skill](/rules/skills) on your character sheet with "Great (+2)"
-  next to it
+- Write any [Skill](/rules/skills) on your character sheet with a +2 bonus
 - A companion: a raven, a thrall (servant), etc.
 - 2 random
   [Galdr staves](/character-creation/gear-tables#specialist--cultural-items)
 - Able to [prophesy](/rules/magic/seiðr#prophecy) the future
 
-## 6. Twist of Fate (Optional)
+## 7. Twist of Fate (Optional)
 
 If your highest Ability score is 10 or less, you may roll 1d10 on the table
 below.  
@@ -104,7 +113,7 @@ Otherwise, roll 1d20.
 | 19  | your clan has chosen you as the next human sacrifice                            |
 | 20  | a Valkyrie has marked you for a glorious death, and is actively pursuing you    |
 
-## 7. Finishing Touches (Optional)
+## 8. Finishing Touches (Optional)
 
 Write down a short description of your character.  
 Consider things like:
