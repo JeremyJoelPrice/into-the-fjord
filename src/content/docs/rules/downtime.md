@@ -2,22 +2,21 @@
 title: Downtime
 ---
 
-Downtime is any time not spend adventuring together.  
-For some it's necessary time to rest & recover,  
-For the rest it's a chance to pursue an individual goal.
+Downtime is when your characters take a break from adventuring.  
+For some it's necessary to rest & recover,  
+for others it's a chance to pursue an individual goal.
 
-Some suggestions:
+Some examples below, and players are encouraged  
+to come up with their own individual goals.
 
 ## Short Downtime (up to 2 weeks)
 
-- recovery ability scores
-- gather rumours
-- spend time with your family
-- research an important person/place/object
+- recover [Ability Scores](/rules/ability-scores) & less serious [Wounds](/rules/fighting/wounds)
+- gather information about an important person/place/object
+- teach a new skill to a trained pet
 
 ## Long Downtime (up to 3 months)
 
-- recover from serious wounds
-- learn a new ability/develop a skill
-- unlock your spirit animal/personal journey
-- plan an invasion
+- recover from more serious Wounds
+- study with a mentor to learn a new ability or [Skill](/rules/skills)
+- craft or alter an [Artifact](/rules/magic/dwarven-artifacts)
